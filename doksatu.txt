@@ -1,0 +1,1919 @@
+'''Asam deoksiribonukleat''', lebih dikenal dengan singkatan '''DNA''' ([[bahasa Inggris]]: '''''d'''eoxyribo'''n'''ucleic
+
+'''a'''cid''), adalah sejenis biomolekul yang menyimpan dan menyandi instruksi-instruksi [[genetika]] setiap [[organisme]]
+
+dan banyak jenis [[virus]]. Instruksi-instruksi genetika ini berperan penting dalam pertumbuhan, perkembangan, dan fungsi
+
+organisme dan virus. DNA merupakan [[asam nukleat]]; bersamaan dengan [[protein]] dan [[karbohidrat]], asam nukleat adalah
+
+[[makromolekul]] esensial bagi seluruh [[makhluk hidup]] yang diketahui. Kebanyakan molekul DNA terdiri dari dua unting
+
+[[biopolimer]] yang berpilin satu sama lainnya membentuk [[heliks ganda]]. Dua unting DNA ini dikenal sebagai
+
+[[polinukleotida]] karena keduanya terdiri dari [[monomer|satuan]]-satuan molekul yang disebut [[nukleotida]]. Tiap-tiap
+
+nukleotida terdiri atas salah satu jenis [[basa nitrogen]] ([[guanina]] (G), [[adenina]] (A), [[timina]] (T), atau
+
+[[sitosina]] (C)), gula [[monosakarida]] yang disebut [[deoksiribosa]], dan gugus [[fosfat]]. Nukleotida-nukelotida ini
+
+kemudian tersambung dalam satu rantai [[ikatan kovalen]] antara gula satu nukleotida dengan fosfat nukelotida lainnya.
+
+Hasilnya adalah rantai punggung gula-fosfat yang berselang-seling. Menurut kaidah [[pasangan basa]] (A dengan T dan C
+
+dengan G), [[ikatan hidrogen]] mengikat basa-basa dari kedua unting polinukleotida membentuk DNA unting ganda Dua unting
+
+DNA bersifat anti-paralel, yang berarti bahwa keduanya berpasangan secara berlawanan. Pada setiap gugus gula, terikat
+
+salah satu dari empat jenis nukleobasa. [[Urutan asam nukleat|Urutan-urutan]] empat nukleobasa di sepanjang rantai
+
+punggung DNA inilah yang menyimpan kode informasi biologis. Melalui proses biokimia yang disebut [[transkripsi]], unting
+
+DNA digunakan sebagai templat untuk membuat unting [[RNA]]. Unting RNA ini kemudian ditranslasikan untuk menentukan urutan
+
+[[asam amino]] protein yang dibangun. Struktur kimia DNA yang ada membuatnya sangat cocok untuk menyimpan [[informasi]]
+
+biologis setiap makhluk hidup. Rantai punggung DNA resisten terhadap pembelahan kimia, dan kedua-dua unting dalam struktur
+
+unting ganda DNA menyimpan informasi biologis yang sama. Karenanya, informasi biologis ini akan direplikasi ketika dua
+
+unting DNA dipisahkan. Sebagian besar DNA (lebih dari 98% pada manusia) bersifat non-kode, yang berarti bagian ini tidak
+
+berfungsi menyandikan protein. Dalam sel, DNA tersusun dalam [[kromosom]]. Semasa [[pembelahan sel]], kromosom-kromosom
+
+ini diduplikasi dalam proses yang disebut [[replikasi DNA]]. [[Organisme eukariotik]] ([[hewan]], [[tumbuhan]], [[fungi]],
+
+dan [[protista]]) menyimpan kebanyakan DNA-nya dalam [[inti sel]] dan sebagian kecil sisanya dalam [[organel]] seperti
+
+[[mitokondria]] ataupun [[kloroplas]]. Sebaliknya [[organisme prokariotik]] ([[bakteri]] dan [[arkaea]]) menyimpan DNA-nya
+
+hanya dalam [[sitoplasma]]. Dalam kromosom, protein [[kromatin]] seperti [[histon]] berperan dalam penyusunan DNA menjadi
+
+struktur kompak. Struktur kompak inilah yang kemudian berinteraksi antara DNA dengan protein lainnya, sehingga membantu
+
+kontrol bagian-bagian DNA mana sajakah yang dapat ditranskripsikan. Para ilmuwan menggunakan DNA sebagai alat molekuler
+
+untuk menyingkap teori-teori dan hukum-hukum fisika, seperti misalnya [[teorema ergodik]] dan teori [[elastisitas]].
+
+Sifat-sifat materi DNA yang khas membuatnya sangat menarik untuk diteliti bagi ilmuwan dan insinyur yang bekerja di bidang
+
+mikrofabrikasi dan nanofabrikasi material. Beberapa kemajuan di bidang material ini misalnya [[origami DNA]] dan material
+
+hibrida berbasis DNA.Struktur kimia DNA; [[ikatan hidrogen]] ditunjukkan oleh garis putus-putus]] DNA merupakan sebuah
+
+[[polimer]] yang terdiri dari satuan-satuan berulang yang disebut [[nukleotida]].Tiap-tiap nukleotida terdiri dari tiga
+
+komponen utama, yakni [[gugus fungsional|gugus]] [[fosfat]], gula deoksiribosa, dan basa nitrogen ([[nukleobasa]]){{en}}
+
+Pada DNA, nukleobasa yang ditemukan adalah [[Adenina]] (A), [[Guanina]] (G), [[Sitosina]] (C) dan [[Timina]] (T).
+
+Nukleobasa yang terhubung dengan sebuah gugus gula disebut sebagai [[nukleosida]], dan nukleosida yang terhubung dengan
+
+satu atau lebih gugus fosfat disebut sebagai [[nukleotida]]. Polimer yang terdiri dari nukleotida yang saling terhubung
+
+menjadi satu rantai disebut sebagai [[polinukleotida]]. Sehingga DNA termasuk pula ke dalam polinukleotida. Rantai
+
+punggung unting DNA terdiri dari gugus [[fosfat]] dan [[gula]] yang berselang-seling. Gula pada DNA adalah gula
+
+[[pentosa]] (berkarbon lima), yaitu 2-deoksiribosa. Dua gugus gula terhubung dengan fosfat melalui [[ikatan fosfodiester]]
+
+antara atom karbon ketiga pada cincin satu gula dan atom karbon kelima pada gula lainnya. Ikatan yang tidak simetris ini
+
+membuat DNA memiliki arah atau orientasi tertentu. Pada struktur heliks ganda, orientasi rantai nukleotida pada satu
+
+unting berlawanan dengan orientasi nukleotida unting lainnya. Hal ini disebut sebagai ''antiparalel''. Kedua ujung
+
+asimetris DNA disebut sebagai 5' (lima prima) dan 3' (tiga prima). Ujung 5' memiliki gugus fosfat terminus, sedangkan
+
+ujung 3' memiliki gugus hidroksi terminus. Salah satu perbedaan utama DNA dan RNA adalah gula penyusunnya, yakni gula 2-
+
+deoksiribosa pada DNA digantikan gula [[ribosa]] pada RNA. Dalam organisme hidup, DNA biasanya ditemukan dalam bentuk
+
+berpasangan dan terikat kuat. Dua unting DNA saling berpilin membentuk [[heliks ganda]]. Heliks ganda ini distabilisasi
+
+oleh dua gaya utama: [[ikatan hidrogen]] antar nukleotida dan interaksi tumpukan antar nukleobasa [[aromatisitas|
+
+aromatik]]. Dalam lingkungan sel yang berair, [[ikatan pi|ikatan p]] konjugasi antar basa nukleotida tersusun tegak lurus
+
+terhadap sumbu pilinan DNA. Hal ini meminimalisasi interaksi dengan [[cangkang solvasi]], dan sehingganya menurunkan
+
+[[energi bebas Gibbs]]. Struktur DNA semua jenis spesies terdiri dari dua rantai heliks yang berpilin dengan jarak antar
+
+putaran heliks 34 [[�ngstr�m|�]] (3,4 [[nanometer]]) dan jari-jari 10 � (1.0 nanometer). Menurut kajian lainnya, ketika
+
+diukur menggunakan larutan tertentu, rantai DNA memiliki lebar 22-26 � (2,2-2,6 nanometer) sedangkan satu satuan
+
+nukleotida memiliki panjang 33 � (0,33 nm). Walaupun satuan nukleotida ini sangatlah kecil, polimer DNA dapat memiliki
+
+jutaan nukleotida yang terangkai seperti rantai. Misalnya, [[kromosom 1 (manusia)|kromosom 1]] yang merupakan kromosom
+
+terbesar pada manusia mengandung sekitar 220 juta [[pasangan basa]]. === Nukleobasa DNA === Nukleobasa diklasifikasikan ke
+
+dalam dua jenis: [[purina]] (A dan G) yang berupa fusi [[senyawa heterolingkar]] beranggota lima dengan [[senyawa
+
+heterolingkar]] beranggota enam, dan [[pirimidina]] (C dan T) yang berupa cincin beranggota enam. Pirimidina lainnya,
+
+[[urasil]] (U), biasanya menggantikan timina pada DNA. Perbedaan urasil dengan timina terletak pada ketiadaan gugus
+
+[[metil]] pada cincin urasil. Selain kelima nukleobasa tersebut, terdapat pula sejumlah besar [[analog asam nukleat]]
+
+buatan yang telah disintesis untuk mengkaji sifat-sifat asam nukleat dan digunakan dalam bioteknologi. Urasil biasanya
+
+tidak ditemukan dalam DNA (ditemukan dalam sel hanya sebagai produk uraian sitosina). Namun pada sejumlah [[bakteriofag]]�
+
+bakteriofag PBS1 dan PBS2 ''Bacillus subtilis'' dan bakteriofag piR1-37 ''Yersinia''� timina telah digantikan oleh urasil.
+
+[[Basa J]] (beta-d-glukopiranosiloksimetilurasil) yang merupakan bentuk modifikasi dari urasil juga dapat ditemukan pada
+
+sejumlah organisme: [[flagellata]] ''[[Diplonema (protozoa)|Diplonema]]'' dan ''[[Euglena]]'', dan seluruh organisme marga
+
+[[kinetoplastid]] Biosintesis basa J terjadi dalam dua tahap: pada tahap pertama, basa timina spesifik pada DNA diubah
+
+menjadi hidroksimetildeoksiuridina (HOMedU); pada tahap kedua HOMedU diglikosilasi menjadi basa J. Protein-protein yang
+
+mengikat basa J ini juga telah berhasil diidentifikasi. Protein-protein ini tampaknya merupakan kerabat jauh dari onkogen
+
+Tet1 yang terlibat dalam patogenesis [[leukimia myeloid akut]]. Basa J tampaknya bekerja sebagai sinyal terminasi untuk
+
+[[RNA polimerase II]].Alur mayor dan minor DNA. Alur minor merupakan tapak pengikatan untuk [[Pewarna Hoechst|Hoechst
+
+33258]].]] === Alur DNA === Pada struktur heliks ganda DNA, terdapat ruang antar unting DNA yang juga berbentuk alur
+
+heliks. Ruang kosong ini bersebelahan dengan pasangan basa dan merupakan [[tapak ikatan]] yang potensial. Dikarenakan
+
+kedua unting DNA tidak berposisi secara simetris satu sama lainnya, alur yang dihasilkan jugalah tidak berukuran sama.
+
+Satu alur yang disebut alur mayor, memiliki lebar 22 �, sedangkan alur lainnya yang disebut alur minor, memiliki lebar 12
+
+�. Lebarnya alur mayor berarti bahwa tepi-tepi basa nukleotida dapat lebih mudah diakses melalui alur mayor daripada
+
+melalui alur minor. Akibatnya, protein-protein seperti [[faktor transkripsi|faktor-faktor transkripsi]] yang mengikat pada
+
+urutan basa tertentu biasanya melakukan kontak dengan basa melalui alur mayor. Situasi ini dapat bervariasi pada
+
+konformasi DNA yang tak lazim dalam sel, walaupun alur mayor dan minor selalu dinamai demikian untuk menrefleksikan
+
+perbedaan ukuran yang terlihat apabila DNA dipuntir balik menjadi bentuk lazim B.
+
+
+=== Pemasangan basa === [[Pasangan basa]]}} Pada heliks ganda DNA, tiap jenis nukleobasa pada satu unting DNA berikatan
+
+hanya dengan satu jenis nukleobasa dari unting DNA lainnya. Hal ini disebut sebagai [[pasangan basa|pemasangan basa]]
+
+komplementer. Purina akan membentuk [[ikatan hidrogen]] dengan pirimidina; adenina berikatan dengan timina dalam dua
+
+ikatan hidrogen, dan sitosina berikatan dengan guanina dalam tiga ikatan hidrogen. Susunan dua nukleotida ini disebut
+
+sebagai satu pasangan basa. Karena ikatan hidrogen tidak bersifat [[ikatan kovalen|kovalen]], ia dapat putuskan dan
+
+digabung kembali relatif mudah. Kedua unting DNA dalam heliks ganda oleh karenanya dapat ditarik terbuka seperti zipper,
+
+baik melalui gaya mekanika maupun [[temperatur]] tinggi. Karena pasangan basa ini bersifat komplementer, semua informasi
+
+pada urutan unting ganda heliks DNA terduplikasi pada tiap unting. Hal ini sangat penting dalam replikasi DNA. Interaksi
+
+reversible dan spesifik antara pasangan basa komplementer sangat kritikal terhadap keseluruhan fungsi DNA dalam makhluk
+
+hidup.
+
+
+Atas, pasangan basa '''GC''' dengan tiga [[ikatan hidrogen]]. Bawah, pasangan basa '''AT''' dengan dua ikatan hidrogen.
+
+Ikatan hidrogen non-kovalen ditunjukkan oleh garis putus-putus.
+Dua jenis pasangan basa mempunyai jumlah ikatan hidrogen yang berbeda. Pasangan AT memiliki dua ikatan hidrogen, sedangkan
+
+pasangan GC memiliki tiga ikatan hidrogen. DNA yang mengandung pasangan basa GC yang tinggi lebih stabil daripada DNA
+
+berpasangan basa GC rendah. Sebagaimana telah disebutkan di atas, kebanyakan molekul DNA ditemukan dalam keadaan unting
+
+ganda yang berikatan secara non-kovalen dan berbentuk heliks. Struktur unting ganda ini ('''dsDNA''', ''double-stranded
+
+DNA'') utamanya distabilkan oleh interaksi tumpukan basa intra-unting. Interaksi yang terkuat ada pada tumpukan G dengan
+
+C. Kedua unting tersebut dapat dipisahkan menjadi dua molekul DNA unting tunggal ('''ssDNA''', ''single-stranded DNA'')
+
+melalui proses yang dinamakan ''peleburan'' DNA. Peleburan terjadi pada temperatur tinggi, kadar garam yang reandah, dan
+
+nilai pH yang tinggi (DNA juga melebur pada nilai pH rendah, tetapi dikarenakan DNA tidak stabil akibat depurinasi asam,
+
+peleburan pH rendah jarang digunakan). Stabilitas dsDNA tidak hanya bergantung pada kandungan GC (% pasangan basa G,C)
+
+DNA, namun juga tergantung pada urutan basa (tumpukan basa) dan panjang molekul DNA tersebut (molekul yang lebih panjang
+
+lebih stabil). Oleh sebab itu, kekuatan ikatan antar dua unting DNA ditentukan oleh persentase pasangan basa GC dan
+
+keseluruhan panjang heliks ganda DNA. Heliks DNA yang panjang dengan kandungan GC yang tinggi memiliki interaksi antar-
+
+unting yang lebih kuat; sebaliknya heliks DNA yang pendek dengan kandungan AT yang tinggi memiliki interaksi antar-unting
+
+yang lebih lemah. Dalam proses biologis, bagian heliks ganda DNA yang perlu dipisahkan dengan mudah seperti [[kotak
+
+Pribnow]] TATAAT pada beberapa [[promotor]] cenderung memiliki kandungan AT yang tinggi. Stabilitas DNA dapat diukur
+
+melalui berbagai cara; umumnya stabilitas DNA diukur berdasarkan temperatur lebur DNA (disebut juga nilai ''Tm''), yakni
+
+temperatur di mana 50% molekul DNA unting ganda melebur menjadi molekul DNA unting tunggal. Temperatur lebur ini
+
+bergantung pada kekuatan ionik dan konsentrasi DNA. Ketika seluruh pasangan basa dalam heliks ganda DNA melebur, kedua
+
+unting DNA akan terpisah sebagai dua molekul yang independen. Unting-unting tunggal DNA ini tidak memiliki bentuk tunggal
+
+yang sama, walaupun beberapa konformasi lebih stabil daripada konformasi lainnya. Sebuah urutan sekuens DNA disebut
+
+sebagai "sense" apabila urutan basa DNA-nya sama dengan urutan kopi [[RNA duta]] yang ditranslasikan menjadi protein.
+
+Urutan pada unting komplementernya disebut sebagai urutan "antisense". Baik urutan sense dan antisense dapat ditemukan
+
+pada berbagai bagian unting DNA yang sama (kedua unting DNA dapat mengandung baik urutan sense maupun antisense). Pada
+
+prokariota dan eukariota, urutan RNA antisense juga diproduksi, namun fungsi RNA antisense ini tidaklah diketahui dengan
+
+jelas. RNA antisense diajukan terlibat dalam regulasi [[ekspresi gen]] melalui pemasangan basa RNA-RNA. Pada sebagian
+
+kecil urutan DNA prokariota dan eukariota, dan sebagian besar urutan DNA [[plasmid]] dan [[virus]], perbedaan antara
+
+unting sense dan antisense menjadi kabur dikarenakan terdapatnya [[gen tumpang tindih|gen yang tumpang tindih]].Dalam hal
+
+ini, beberapa urutan DNA memiliki tugas ganda, yakni menyandikan protein pertama ketika dibaca melalui salah satu unting,
+
+dan menyandikan protein kedua ketika dibaca dengan arah berlawanan melalui unting komplementernya. Pada [[bakteri]],
+
+ketumpangtindihan ini kemungkinan terlibat dalam regulasi transkripsi gen.Sedangkan pada virus, gen yang tumpang tindih
+
+ini meningkatkan jumlah informasi yang dapat disandikan dalam genom virus yang berukuran kecil. === Pemilinan kumparan
+
+(''Supercoiling'') [[Kumparan terpilin DNA]]}} DNA dapat dipuntir menjadi seperti tali melalui proses yang disebut
+
+[[Kumparan terpilin DNA|pemilinan kumparan DNA]]. Pada kondisi "relaksasi", unting DNA biasanya akan mengitari sumbu
+
+heliks ganda setiap 10,4 pasangan basa. Namun jika DNA dipuntir, unting-untingnya dapat tergulung menjadi lebih rapat
+
+ataupun tergulung menjadi lebih longgar. Jika DNA dipuntir searah putaran heliks, basa-basa dalam unting DNA akan terikat
+
+lebih rapat. Hal ini dinamakan pemilinan kumparan positif. Sebaliknya jika DNA dipuntir berlawanan putaran heliks, basa-
+
+basa dalam unting DNA akan terlepas lebih mudah. Hal ini dinamakan pemilinan kumparan negatif. Secara alamiah, kebanyakan
+
+DNA memiliki bentuk pemilinan kumparan negatif yang disebabkan oleh [[enzim]] [[topoisomerase]]. Enzim ini juga diperlukan
+
+untuk melepaskan tegangan puntiran yang dialami DNA semasa proses [[transkripsi]] dan [[replikasi]]. === Struktur
+
+alternatif DNA === Terdapat banyak kemungkinan [[Isomerisme konformasional|konformasi]]-konformasi DNA yang dapat kita
+
+temukan, di antaranya [[A-DNA]], B-DNA, dan [[Z-DNA]], walaupun hanya B-DNA dan Z-DNA saja yang telah diamati secara
+
+langsung pada organisme fungsional. Konformasi-konformasi yang diadopsi oleh DNA bergantung pada tingkat hidrasi DNA,
+
+urutan DNA, tingkat dan arah pilinan kumparan DNA, modifikasi kimiawi pada basa DNA, jenis dan konsentrasi ion-ion logam,
+
+maupun keberadaan [[poliamina]] dalam larutan.Pada replikasi DNA, rantai DNA baru dibentuk berdasarkan urutan nukleotida
+
+pada DNA yang digandakan.]] [[Replikasi DNA|Replikasi]] merupakan proses pelipatgandaan DNA. Proses replikasi ini
+
+diperlukan ketika sel akan [[Pembelahan sel|membelah diri]]. Pada setiap sel, kecuali [[sel gamet]], pembelahan diri harus
+
+disertai dengan replikasi DNA supaya semua [[sel]] turunan memiliki informasi [[genetik]] yang sama. Pada dasarnya, proses
+
+replikasi memanfaatkan fakta bahwa DNA terdiri dari dua [[rantai DNA|rantai]] dan rantai yang satu merupakan "konjugat"
+
+dari rantai pasangannya. Dengan kata lain, dengan mengetahui susunan satu rantai, maka susunan rantai pasangan dapat
+
+dengan mudah dibentuk. Ada beberapa teori yang mencoba menjelaskan bagaimana proses replikasi DNA ini terjadi. Salah satu
+
+teori yang paling populer menyatakan bahwa pada masing-masing DNA baru yang diperoleh pada akhir proses replikasi; satu
+
+rantai tunggal merupakan rantai DNA dari rantai DNA sebelumnya, sedangkan rantai pasangannya merupakan rantai yang baru
+
+disintesis. Rantai tunggal yang diperoleh dari DNA sebelumnya tersebut bertindak sebagai "cetakan" untuk membuat rantai
+
+pasangannya. Proses replikasi memerlukan protein atau [[enzim]] pembantu; salah satu yang terpenting dikenal dengan nama
+
+[[DNA polimerase]], yang merupakan enzim pembantu pembentukan rantai DNA baru yang merupakan suatu [[polimer]]. Proses
+
+replikasi diawali dengan pembukaan untaian ganda DNA pada titik-titik tertentu di sepanjang rantai DNA. Proses pembukaan
+
+rantai DNA ini dibantu oleh enzim helikase yang dapat mengenali titik-titik tersebut, dan enzim girase yang mampu membuka
+
+pilinan rantai DNA. Setelah cukup ruang terbentuk akibat pembukaan untaian ganda ini, DNA polimerase masuk dan mengikat
+
+diri pada kedua rantai DNA yang sudah terbuka secara lokal tersebut. Proses pembukaan rantai ganda tersebut berlangsung
+
+disertai dengan pergeseran DNA polimerase mengikuti arah membukanya rantai ganda. Monomer DNA ditambahkan di kedua sisi
+
+rantai yang membuka setiap kali DNA polimerase bergeser. Hal ini berlanjut sampai seluruh rantai telah benar-benar
+
+terpisah. Proses replikasi DNA ini merupakan proses yang rumit namun teliti. Proses sintesis rantai DNA baru memiliki
+
+suatu mekanisme yang mencegah terjadinya kesalahan pemasukan monomer yang dapat berakibat fatal. Karena mekanisme inilah
+
+kemungkinan terjadinya kesalahan sintesis amatlah kecil.
+
+== Penggunaan DNA dalam teknologi == === DNA dalam forensik === [[Ilmu forensik|Ilmuwan forensik]] dapat menggunakan DNA
+
+yang terletak dalam [[darah]], [[sperma]], [[kulit]], [[liur]] atau [[rambut]] yang tersisa di tempat kejadian kejahatan
+
+untuk mengidentifikasi kemungkinan tersangka, sebuah proses yang disebut [[fingerprinting genetika]] atau pemrofilan DNA
+
+(''DNA profiling''). Dalam pemrofilan DNA panjang relatif dari bagian DNA yang berulang seperti [[short tandem repeats]]
+
+dan [[minisatelit]], dibandingkan. Pemrofilan DNA dikembangkan pada [[1984]] oleh genetikawan Inggris [[Alec Jeffreys]]
+
+dari [[Universitas Leicester]], dan pertama kali digunakan untuk mendakwa [[Colin Pitchfork]] pada [[1988]] dalam kasus
+
+[[pembunuhan Enderby]] di [[Leicestershire]], [[Inggris]]. Banyak yurisdiksi membutuhkan terdakwa dari kejahatan tertentu
+
+untuk menyediakan sebuah contoh DNA untuk dimasukkan ke dalam ''database'' komputer. Hal ini telah membantu investigator
+
+menyelesaikan kasus lama di mana pelanggar tidak diketahui dan hanya contoh DNA yang diperoleh dari tempat kejadian
+
+(terutama dalam kasus [[perkosaan]] antar orang tak dikenal). Metode ini adalah salah satu teknik paling tepercaya untuk
+
+mengidentifikasi seorang pelaku kejahatan, tetapi tidak selalu sempurna, misalnya bila tidak ada DNA yang dapat diperoleh,
+
+atau bila tempat kejadian terkontaminasi oleh DNA dari banyak orang. === DNA dalam komputasi === DNA memainkan peran
+
+penting dalam [[ilmu komputer]], baik sebagai masalah riset dan sebagai sebuah cara komputasi. Riset dalam [[algoritme
+
+pencarian string]], yang menemukan kejadian dari urutan huruf di dalam urutan huruf yang lebih besar, dimotivasi sebagian
+
+oleh riset DNA, dimana algoritme ini digunakan untuk mencari urutan tertentu dari nukleotida dalam sebuah urutan yang
+
+besar. Dalam aplikasi lainnya seperti [[editor text]], bahkan algoritme sederhana untuk masalah ini biasanya mencukupi,
+
+tetapi urutan DNA menyebabkan algoritme-algoritme ini untuk menunjukkan sifat kasus-mendekati-terburuk dikarenakan jumlah
+
+kecil dari karakter yang berbeda. Teori [[database]] juga telah dipengaruhi oleh riset DNA, yang memiliki masalah khusus
+
+untuk menaruh dan memanipulasi urutan DNA. Database yang dikhususkan untuk riset DNA disebut [[database genomik]], dam
+
+harus menangani sejumlah tantangan teknis yang unik yang dihubungkan dengan operasi pembandingan kira-kira, pembandingan
+
+urutan, mencari pola yang berulang, dan pencarian homologi. == Sejarah == DNA pertama kali berhasil dimurnikan pada tahun
+
+1868 oleh ilmuwan Swiss [[Friedrich Miescher]] di [[Tubingen]], [[Jerman]], yang menamainya ''nuclein'' berdasarkan
+
+lokasinya di dalam inti sel. Namun, penelitian terhadap peranan DNA di dalam sel baru dimulai pada awal abad 20, bersamaan
+
+dengan ditemukannya postulat genetika [[Gregor Mendel|Mendel]]. DNA dan [[protein]] dianggap dua molekul yang paling
+
+memungkinkan sebagai pembawa sifat genetis berdasarkan teori tersebut. Dua eksperimen pada dekade 40-an membuktikan fungsi
+
+DNA sebagai materi genetik. Dalam penelitian oleh [[Oswald Avery|Avery]] dan rekan-rekannya, ekstrak dari sel bakteri yang
+
+satu gagal men-[[transformasi|transform]] sel bakteri lainnya kecuali jika DNA dalam ekstrak dibiarkan utuh. [[Percobaan
+
+Hershey-Chase|Eksperimen]] yang dilakukan [[Alfred Hershey|Hershey]] dan [[Martha Chase|Chase]] membuktikan hal yang sama
+
+dengan menggunakan [[pencari jejak radioaktif]] . Misteri yang belum terpecahkan ketika itu adalah: "''bagaimanakah
+
+struktur DNA sehingga ia mampu bertugas sebagai materi genetik''". Persoalan ini dijawab oleh [[Francis Crick]] dan
+
+koleganya [[James Watson]] berdasarkan hasil [[difraksi]] [[sinar X]] pada DNA oleh [[Maurice Wilkins]] dan [[Rosalind
+
+Franklin]]. Pada tahun 1953, James Watson dan Francis Crick mendefinisikan DNA sebagai [[polimer]] yang terdiri dari 4
+
+[[basa]] dari [[asam nukleat]], dua dari kelompok [[purina]]:adenina dan guanina; dan dua lainnya dari kelompok
+
+[[pirimidina]]:sitosina dan timina. Keempat [[nukleobasa]] tersebut terhubung dengan [[glukosa fosfat]].Sinauer Maurice
+
+Wilkins dan Rosalind Franklin menemukan bahwa molekul DNA berbentuk [[heliks]] yang berputar setiap 3,4 nm, sedangkan
+
+jarak antar molekul nukleobasa adalah 0,34 nm, hingga dapat ditentukan bahwa terdapat 10 molekul nukleobasa pada setiap
+
+putaran DNA. Setelah diketahui bahwa [[diameter]] heliks DNA sekitar 2 nm, baru diketahui bahwa DNA terdiri bukan dari 1
+
+rantai, melainkan 2 rantai heliks. Crick, Watson, dan Wilkins mendapatkan hadiah [[Nobel Kedokteran]] pada 1962 atas
+
+penemuan ini. Franklin, karena sudah wafat pada waktu itu, tidak dapat dianugerahi hadiah ini. Konfirmasi akhir mekanisme
+
+[[replikasi DNA]] dilakukan lewat [[percobaan Meselson-Stahl]] yang dilakukan tahun 1958.
+
+
+
+[[Jenderal Besar]] '''Mohammed Anwar Al Sadat'''  {{lahirmati|[[Mit Abu Al-Kum, Al-Minufiyah, Mesir]]|25|12|1918|
+
+[[Kairo]], [[Mesir]]|6|10|1981}}) adalah seorang [[tentara]] dan [[politikus]] [[Mesir]]. Ia menjabat sebagai [[Presiden
+
+Mesir|Presiden]] ketiga Mesir pada periode [[15 Oktober]] [[1970]] hingga terbunuhnya pada [[6 Oktober]] [[1981]]. Oleh
+
+dunia Barat ia dianggap sebagai orang yang sangat berpengaruh di [[Mesir]] dan di [[Timur Tengah]] dalam sejarah modern.
+== Latar belakang ==
+Sadat dilahirkan di [[Mit Abu Al-Kum, Al-Minufiyah, Mesir]], dalam sebuah keluarga Mesir-sudan yang
+
+miskin, dengan 12 saudara laki-laki dan perempuan. Ayahnya adalah seorang Mesir, sementara ibunya orang [[Sudan]]. Ia
+
+lulus dari Akademi Militer Kerajaan di [[Kairo]] pada 1938 dan ditempatkan di Korps Isyarat. Ia bergabung dengan [[Gerakan
+
+Perwira Bebas]], yang bertekad untuk membebaskan Mesir dari kekuasaan [[Britania Raya]].
+
+Pada [[Perang Dunia II]] ia
+
+dipenjarakan oleh Britania atas usaha-usahanya untuk mendapatkan bantuan dari [[Kekuatan Poros]] dalam mengusir pasukan-
+
+pasukan pendudukan Britania. Ia ikut serta dalam [[kudeta]] 1952 yang menggulingkan Raja [[Farouk II]]. Ketika revolusi
+
+meletus, ia diperintahkan mengambil alih jaringan radio dan mengumumkan pecahnya revolusi kepada rakyat Mesir.
+
+Pada
+
+[[1964]], setelah memegang berbagai jabatan dalam pemerintahan [[Mesir]], ia dipilih oleh Presiden [[Gamal Abdel Nasser]]
+
+untuk menjabat sebagai [[Wakil Presiden]]. Ia menduduki jabatan itu hingga [[1966]], dan sekali lagi dari [[1969]] hingga
+
+[[1970]].
+
+Setelah [[Gamal Abdel Nasser|Nasser]] meninggal, Anwar Sadat dilantik menjadi [[Presiden]].
+
+Pada tahun 1973, Anwar
+
+Sadat, bersama-sama dengan [[Hafez Al Assad]], [[Syria]], memimpin Mesir dalam [[Perang Yom Kippur]] melawan [[Israel]],
+
+untuk merebut kembali [[semenanjung Sinai]], yang dicaplok oleh [[Israel]] ketika [[Krisis Terusan Suez 1956]] dan
+
+[[Perang Enam Hari]].Meskipun dalam pertempuran ini masih dipertentangkan pihak menang ataupun kalah, serta hasil
+
+[[Perjanjian Camp David]] yang menetapkan Sinai kembali ketangan Mesir, keberhasilan Anwar Sadat menaikan moral rakyat
+
+[[Mesir]] dan Dunia [[Bangsa Arab|Arab]] serta mengadakan untuk perjanjian damai beberapa tahun berikutnya.
+
+Perjanjian
+
+damai Camp David yang diprakarsai [[Jimmy Carter]] dan [[Henry Kissinger]] memang mengembalikan wilayah Mesir yang
+
+sebelumnya direbut oleh Israel pada perang 1967. Namun tidak mengembalikan [[Dataran Tinggi Golan]] yang direbut Israel
+
+kepada Syria pada perang 1967. Meski secara politik, perang Yom Kippur atau Perang Ramadhan 1973 itu menguntungkan dunia
+
+Arab, masalah [[Palestina]] dan [[Jerusalem]] terutama Jerusalem Timur yang direbut Israel pada perang 1967 masih
+
+mengganjal bahkan beberapa kalangan mengatakan dilupakan. Hal ini membuat kemarahan dari kalangan [[PLO]], kaum
+
+fundamentalis dan pergerakan [[Islam]] dan kalangan Palestina serta dunia Arab, terutama setelah kunjungannya ke
+
+Jerussalem atas undangan Manachem Begin.
+
+Pada tahun [[1977]], Anwar Sadat mengadakan kunjungan ke [[Jerusalem]] atas
+
+undangan [[Perdana Menteri]] [[Israel]], [[Menachem Begin]] yang merupakan awal perundingan perdamaian antara [[Israel]]
+
+dan [[Mesir]]. Pada tahun 1978, terciptalah [[Perjanjian Damai Camp David]], yang mana Anwar Sadat dan [[Menachem Begin]]
+
+menerima [[Hadiah Nobel Perdamaian]]. Bagaimanapun tindakan ini ditentang hebat oleh dunia [[Bangsa Arab|Arab]]. Banyak
+
+yang percaya bahwa hanya dengan ancaman militer dapat memaksa [[Israel]] berunding mengenai [[Palestina]], dan
+
+[[Perjanjian Damai Camp David]] menepikan [[Mesir]] yang dianggap kekuatan militer di dunia Arab yang signifikan disamping
+
+[[Syria]] dan [[Irak]] pada saat itu.
+
+Pada [[September]] [[1981]], Anwar Sadat mengenakan tindakan represif kepada
+
+organisasi pergerakan Islam yang diaggapnya fundamentalis, termasuk kumpulan pelajar, dan organisasi [[Koptik]], yang
+
+dianggapnya dapat mengganggu stabilitas nasional Mesir, dengan mengadakan tindakan penangkapan dan penahanan menyebabkan
+
+dia dikecam diseluruh [[dunia]] di atas pelanggaran [[HAM]] dalam tindakannya itu.
+
+Pada [[6 Oktober]] [[1981]], Presiden
+
+Anwar Sadat tewas ditembak dalam sebuah parade militer oleh anggota tentara anggota [[Jihad Islam]]. Ini merupakan
+
+organisasi muslim Mesir berhaluan keras yang menentang perjanjian damai Mesir dengan [[Israel]]. Tindakan represif anggota
+
+Jihad Islam terlihat dalam peristiwa [[September]]. Anwar Sadat kemudian digantikan oleh Wakil Presiden [[Hosni Mubarak]].
+
+
+'''Datuk Azhar Mansor''' adalah orang [[Malaysia]] pertama yang berhasil mengelilingi [[dunia]] dengan berlayar. Mulanya
+
+ia merencanakan untuk melakukan pelayaran tersebut dalam waktu kurang dari 100 hari, tetapi ia menghadapi masalah dengan
+
+tiang layar yang patah ketika berada di Cape Horn, [[Amerika Selatan]]. Namun Datuk Azhar Mansor akhirnya berhasil
+
+menempuh seluruh pelayarannya dalam waktu 190 hari. Kegigihannya adalah contoh keunggulan Semangat Malaysia Baru. Datuk
+
+Azhar Mansor yang berusia 41 tahun ketika berangkat pada 2 Februari 1999 itu belayar dengan kapal layarnya bernama [[Jalur
+
+Gemilang]] yang berharga RM2 juta. Pelayaran Datuk Azhar meliputi 21,600 mil laut. Pada 11 Agustus 1999, Datuk Azhar
+
+Mansor tiba dengan selamat di Awana Porto Malai Resort, [[Langkawi]] dan disambut sebagai seorang pahlawan oleh rakyat
+
+Malaysia dipimpin oleh Perdana Menteri Malaysia. Kepahlawanan Datuk Azhar Mansor adalah sesuatu yang dapat dibanggakan
+
+oleh setiap rakyat Malaysia. Usaha dan kegigihannya dalam mengarungi badai dan ombak adalah sumbangannya sebagai anak
+
+merdeka yang tidak gentar menanggung penderitaan rakyat yang hidup pada masa sebelum kemerdekaan.
+
+Arkeologi''', berasal dari [[bahasa Yunani]], ''archaeo'' yang berarti "kuno" dan ''logos'', "ilmu". Nama [[alternatif]]
+
+arkeologi adalah ilmu sejarah kebudayaan [[material]]. Arkeologi adalah ilmu yang mempelajari kebudayaan (manusia) masa
+
+lalu melalui kajian sistematis atas data bendawi yang ditinggalkan. Kajian sistematis meliputi penemuan, dokumentasi,
+
+analisis, dan interpretasi data berupa [[artefak]] (budaya bendawi, seperti kapak batu dan bangunan [[candi]]) dan
+
+[[ekofak]] (benda lingkungan, seperti batuan, rupa muka bumi, dan fosil) maupun fitur (artefaktual yang tidak dapat
+
+dilepaskan dari tempatnya (situs arkeologi). Teknik penelitian yang khas adalah penggalian ([[ekskavasi]]) arkeologis,
+
+meskipun [[survei]] juga mendapatkan porsi yang cukup besar.
+
+Tujuan arkeologi beragam dan menjadi perdebatan yang panjang.
+
+Di antaranya adalah yang disebut dengan paradigma arkeologi, yaitu menyusun sejarah [[kebudayaan]], memahami perilaku
+
+manusia, serta mengerti proses perubahan budaya. Karena bertujuan untuk memahami budaya manusia, maka ilmu ini termasuk ke
+
+dalam kelompok ilmu [[humaniora]]. Meskipun demikian, terdapat berbagai ilmu bantu yang digunakan, antara lain
+
+[[sejarah]], [[antropologi]], [[geologi]] (dengan ilmu tentang lapisan pembentuk bumi yang menjadi acuan relatif umur
+
+suatu temuan arkeologis), [[geografi]], [[arsitektur]], [[paleoantropologi]] dan [[Antropologi biologis|bioantropologi]],
+
+[[fisika]] (antara lain dengan karbon c-14 untuk mendapatkan pertanggalan mutlak), ilmu [[metalurgi]] (untuk mendapatkan
+
+unsur-unsur suatu benda logam), serta [[filologi]] (mempelajari naskah lama).
+
+Arkeologi pada masa sekarang merangkumi
+
+berbagai bidang yang berkait. Sebagai contoh, penemuan mayat yang dikubur akan menarik minat pakar dari berbagai bidang
+
+untuk mengkaji tentang pakaian dan jenis bahan digunakan, bentuk [[keramik]] dan cara penyebaran, kepercayaan melalui apa
+
+yang dikebumikan bersama mayat tersebut, pakar kimia yang mampu menentukan usia galian melalui cara seperti metode
+
+pengukuran karbon 14. Sedangkan pakar genetik yang ingin mengetahui pergerakan perpindahan manusia purba, meneliti
+
+[[DNA]]nya.
+
+Secara khusus, arkeologi mempelajari budaya masa silam, yang sudah berusia tua, baik pada masa [[prasejarah]]
+
+(sebelum dikenal tulisan), maupun pada masa sejarah (ketika terdapat bukti-bukti tertulis). Pada perkembangannya,
+
+arkeologi juga dapat mempelajari budaya masa kini, sebagaimana dipopulerkan dalam kajian budaya bendawi modern (''modern
+
+material culture'').
+
+Karena bergantung pada benda-benda peninggalan masa lalu, maka arkeologi sangat membutuhkan
+
+kelestarian benda-benda tersebut sebagai sumber data. Oleh karena itu, kemudian dikembangkan disiplin lain, yaitu
+
+pengelolaan sumberdaya arkeologi (''Archaeological Resources Management''), atau lebih luas lagi adalah pengelolaan
+
+sumberdaya budaya (''CRM, Culture Resources Management'').
+
+== Perkembangan di Indonesia ==
+Di Indonesia, perkembangan
+
+arkeologi dimulai dari lembaga-lembaga yang bergerak di bidang kebudayaan, seperti [[Koninklijk Bataviaasch Genootschap
+
+van Kunsten en Wetenschappen]] yang kemudian di [[Jakarta]] mendirikan [[museum]] tertua, sekarang menjadi [[Museum
+
+Nasional Indonesia]]. Lembaga pemerintah pada [[masa Kolonial]] yang bergerak di bidang arkeologi adalah [[Oudheidkundige
+
+Dienst]] yang banyak membuat survei dan pemugaran atas bangunan-bangunan purbakala terutama [[candi]]. Pada [[masa
+
+Kemerdekaan]], lembaga tersebut menjadi [[Dinas Purbakala]] hingga berkembang sekarang menjadi berbagai lembaga seperti
+
+[[Balai Pelestarian Peninggalan Purbakala]] dan [[Balai Arkeologi]] yang tersebar di daerah-daerah dan [[Direktorat
+
+Purbakala]] serta [[Pusat Penelitian dan Pengembangan Arkeologi Nasional]] di Jakarta. Di samping itu, terdapat 6 (enam)
+
+perguruan tinggi yang membuka jurusan arkeologi untuk mendidik tenaga [[sarjana]] di bidang arkeologi. Perguruan-perguruan
+
+tinggi tersebut adalah [[Universitas Indonesia]] (Departemen Arkeologi, Fakultas Ilmu Pengetahuan Budaya), [[Universitas
+
+Gadjah Mada]] (Departemen Arkeologi, Fakultas Ilmu Budaya), [[Universitas Hasanuddin]] (Jurusan Arkeologi, Fakultas
+
+Sastra), [[Universitas Udayana]] (Jurusan Arkeologi, Fakultas Sastra dan Budaya), [[Universitas Jambi]] (Jurusan
+
+Arkeologi, Fakultas Ilmu Budaya), dan [[Universitas Haluoleo]] (Jurusan Arkeologi, Fakultas Ilmu Budaya).
+
+Ahli arkeologi
+
+Indonesia terhimpun dalam [[Ikatan Ahli Arkeologi Indonesia]] atau IAAI. Tokoh-tokoh arkeologi Indonesia yang terkenal
+
+antara lain adalah [[Soekmono|R. Soekmono]] yang mengepalai pemugaran [[Candi Borobudur]], dan [[Raden Pandji Soejono|R.P.
+
+Soejono]], yang merupakan pendiri dan ketua Ikatan Ahli Arkeologi Indonesia pertama dan mantan kepala [[Pusat Penelitian
+
+Arkeologi Nasional]].
+
+Disiplin Arkeologi Indonesia masih secara kuat diwarnai dengan pembagian kronologis, yaitu periode
+
+[[Prasejarah]], periode [[Sejarah Nusantara pada era kerajaan Hindu-Buddha|Klasik]] (zaman Hindu-Buddha), periode
+
+[[Islam]], serta periode [[Kolonial]]. Oleh karena itu, dalam arkeologi Indonesia dikenal spesialisasi menurut periode,
+
+yaitu [[Arkeologi Prasejarah]], [[Arkeologi Klasik]], [[Arkeologi Islam]], serta [[Arkeologi Kolonial]]. Satu keistimewaan
+
+dari arkeologi Indonesia adalah masuknya disiplin [[Epigrafi]], yang menekuni pembacaan [[prasasti]] kuna. Pada
+
+perkembangan sekarang telah berkembang minat-minat khusus seperti [[etnoarkeologi]], [[arkeologi bawah air]], dan
+
+[[arkeometri]]. Terdapat pula sub-disiplin yang berkembang karena persinggungan dengan ilmu lain, seperti [[Arkeologi
+
+Lingkungan]] atau [[Arkeologi Ekologi]], [[Arkeologi Ekonomi]], [[Arkeologi Seni]], [[Arkeologi Demografi]], dan
+
+[[Arkeologi Arsitektur]].
+
+
+'''Antropologi''' adalah ilmu tentang manusia. Antropologi berasal dari kata Yunani  (baca: ''anthropos'') yang berarti
+
+"[[manusia]]" atau "orang", dan ''logos'' yang berarti "[[wacana]]" (dalam pengertian "bernalar", "berakal") atau secara
+
+etimologis antropologi berarti ilmu yang mempelajari manusia. Dalam melakukan kajian terhadap manusia, antropologi
+
+mengedepakan dua konsep penting yaitu: holistik dan komparatif. Karena itu kajian antropogi sangat memperhatikan aspek
+
+sejarah dan penjelasan menyeluruh untuk menggambarkan manusia melalui pengetahuan ilmu sosial ilmu hayati (alam), dan juga
+
+humaniora. Antropologi bertujuan untuk lebih memahami dan mengapresiasi manusia sebagai entitas biologis homo sapiens dan
+
+makhluk sosial dalam kerangka kerja yang interdisipliner dan komprehensif. Oleh karena itu, antropologi menggunakan teori
+
+evolusi biologi dalam memberikan arti dan fakta sejarah dalam menjelaskan perjalanan umat manusia di bumi sejak awal
+
+kemunculannya. Antropologi juga menggunakan kajian lintas-budaya ([[bahasa Inggris|Inggris]] ''cross-cultural'') dalam
+
+menekankan dan menjelaskan perbedaan antara kelompok-kelompok manusia dalam perspektif material budaya, perilaku sosial,
+
+bahasa, dan pandangan hidup (''worldview''). Dengan orientasinya yang holistik, antropologi dibagi menjadi empat cabang
+
+ilmu yang saling berkaitan, yaitu: antropologi biologi, antropologi sosial budaya, arkeologi, dan linguistik. Keempat
+
+cabang tersebut memiliki kajian-kajian konsentrasi tersendiri dalam kekhususan akademik dan penelitian ilmiah, dengan
+
+topik yang unik dan metode penelitian yang berbeda-beda. Antropologi lahir atau berawal dari ketertarikan orang-orang
+
+[[Eropa]] pada ciri-ciri fisik, adat istiadat, dan budaya etnis-etnis lain yang berbeda dari masyarakat yang dikenal di
+
+Eropa. Pada saat itu kajian antropologi lebih memusatkan pada penduduk yang merupakan masyarakat tunggal, tunggal dalam
+
+arti kesatuan masyarakat yang tinggal di suatu kawasan geografis yang sama, memiliki ciri fisik dan bahasa yang digunakan
+
+serupa, serta cara hidup yang sama. Namun demikian dalam perkembangannya, ilmu antropologi kemudian tidak lagi hanya
+
+mempelajari kelompok manusia tunggal yang mendiami suatu wilayah geografis yang sama. Kajian-kajian antropologi mengenai
+
+isu-isu migrasi misalnya kemudian melahirkan penelitian-penelitian etnografis multi-situs. Hal ini terjadi karena dalam
+
+perkembangannya, pergerakan manusia baik dalam satu kawasan regional tertentu hingga dalam cakupan global adalah fenomena
+
+yang semakin umum terjadi.???? == Pengertian Antropologi menurut para ahli == ; David Hunter :''Antropologi adalah ilmu
+
+yang lahir dari keingintahuan yang tidak terbatas tentang umat manusia.'' ; Koentjaraningrat :''Antropologi adalah ilmu
+
+yang mempelajari umat manusia pada umumnya dengan mempelajari aneka [[warna]], bentuk fisik [[masyarakat]] serta
+
+[[kebudayaan]] yang dihasilkan.'' ; William A. Haviland :''Antropologi adalah studi tentang umat manusia, berusaha
+
+menyusun generalisasi yang bermanfaat tentang manusia dan perilakunya serta untuk memperoleh pengertian yang lengkap
+
+tentang keanekaragaman manusia.'' == Percabangan Antropologi == Antropologi merupakan disiplin ilmu yang luas di mana
+
+humaniora, sosial, dan ilmu pengetahuan alam digabung dalam menjelaskan apa itu manusia dan artinya menjadi manusia.
+
+Antropologi dibangun berdasarkan pengetahuan dari ilmu alam, termasuk penemuan tentang asal usul dan evolusi Homo sapiens,
+
+ciri-ciri fisik manusia, perilaku manusia, variasi di antara berbagai kelompok manusia, bagaimana masa lalu evolusi Homo
+
+sapiens telah memengaruhi organisasi dan budaya sosial. Serta dari ilmu-ilmu sosial, antropologi memelajari organisasi
+
+hubungan manusia sosial dan budaya, sistem keturunan dan hubungan kekerabatan, spiritualitas dan religi, lembaga, konflik
+
+sosial, dan lain-lain. Antropologi awal berasal dari Yunani klasik dan Persia yang memelajari dan mencoba untuk memahami
+
+keragaman budaya yang dapat diamati. Pada saat ini, antropologi (akhir abad ke-20) telah menjadi sentral dalam
+
+pengembangan beberapa bidang interdisipliner baru seperti ilmu kognitif, studi globalisasi, genetik, dan berbagai
+
+penelitian etnis. Secara garis besar antropologi terdiri dari: === Antropologi Biologi/Fisik === [[Antropologi Biologi]]
+
+atau juga disebut Antropologi Fisik merupakan cabang ilmu antropologi yang memelajari manusia dan primata bukan manusia
+
+(non-human primates) dalam arti biologis, evolusi, dan demografi. Antropologi Biologi/Fisik memfokuskan pada faktor
+
+biologis dan sosial yang memengaruhi (atau yang menentukan) evolusi manusia dan primata lainnya, yang menghasilkan,
+
+mempertahankan, atau merubah variasi genetik dan fisiologisnya pada saat ini. Antropologi Biologi dibagi lagi menjadi
+
+beberapa cabang ilmu, diantaranya yaitu: * Paleoantropologi adalah ilmu yang memelajari asal usul manusia dan evolusi
+
+manusia melalui bukti fosil-fosil. * Somatologi adalah ilmu yang memelajari keberagaman ras manusia dengan mengamati
+
+ciri-ciri fisik. * Bioarkeologi adalah ilmu tentang kebudayaan manusia yang lampau dengan melalui analisis sisa-sisa
+
+(tulang) manusia yang biasa ditemukan dalam situs-situs arkeologi. * Ekologi Manusia adalah studi tentang perilaku
+
+adaptasi manusia pada lingkungannya (mengumpulkan makanan, reproduksi, ontogeni) dengan perspektif ekologis dan evolusi.
+
+Studi ekologi manusia juga disebut dengan studi adaptasi manusia, atau studi tentang respon adaptif manusia (perkembangan
+
+fisik, fisiologi, dan genetik) pada tekanan lingkungan dan variasinya. * [[Paleopatologi]] adalah studi penyakit pada masa
+
+purba (kuno). Studi ini tidak hanya berfokus pada kondisi patogen yang diamati pada tulang atau sisa-sisa jaringan
+
+(misalnya pada mumi), tetapi juga pada gangguan gizi, variasi morfologi tulang, atau juga bukti-bukti stres pada fisik. *
+
+Antropometri adalah ilmu yang memelajari dan mengukur variasi fisik manusia. Antropometri pada awalnya digunakan sebagai
+
+alat analisis untuk mengidentifikasi sisa-sisa fosil kerangka manusia purba atau hominid dalam rangka memahami variasi
+
+fisik manusia. Pada saat ini, antropometri berperan penting dalam desain industri, desain pakaian, desain industrial
+
+ergonomis, dan arsitektur di mana data statistik tentang distribusi dimensi tubuh dalam populasi digunakan untuk
+
+mengoptimalkan produk yang akan digunakan konsumen. * Osteologi/osteometri adalah ilmu tentang tulang yang memelajari
+
+struktur tulang, elemen-elemen pada kerangka, gigi, morfologi mikrotulang, fungsi, penyakit, patologi, dsb. Osteologi
+
+digunakan dalam menganalisis dan mengidentifikasi sisa-sisa tulang (baik kerangka utuh mau pun yang telah menjadi
+
+serpihan) untuk menentukan jenis kelamin, umur, pertumbuhan dan perkembangannya, sebab kematian, dan lain sebagainya dalam
+
+konteks biokultural. * Primatologi adalah ilmu tentang primata bukan manusia (non-human primates). Primatologi mengkaji
+
+perilaku, morfologi, dan genetik primata yang berpusat pada homologi dan analogi dalam mengambil kesimpulan kenapa dan
+
+bagaimana ciri-ciri manusia berkembang dalam primata. * Antropologi Forensik adalah ilmu terapan antropologi dalam ruang
+
+legal (hukum), biasanya menggunakan perspektif dan keahlian ekologi manusia, paleopatologi, dan osteologi dalam kasus-
+
+kasus kriminal luar biasa (FBI, CIA, dan militer) untuk menganalisis kondisi korban yang sudah tidak utuh (terbakar,
+
+rusak, terpotong-terpotong karena mutilasi, atau sudah tidak dikenali lagi) atau dalam tahap dekomposisi lanjut (sudah
+
+menjadi kerangka tulang). * Antropologi Molekuler adalah bidang ilmu yang memelajari evolusi, migrasi, dan persebaran
+
+manusia di bumi melalui analisis molekuler. Biasanya menggunakan perbandingan sekuens DNA (mtDNA, Kromosom Y, dan Autosom)
+
+dan protein dalam melihat variasi populasi dan hubungan antar atau inter-populasi dalam menentukan suatu populasi masuk ke
+
+dalam haplogrup tertentu atau berasal dari wilayah mana (geographical origin). === Antropologi Sosial Budaya ===
+
+Antropologi sosial merupakan studi yang mempelajari hubungan antara orang-orang dan kelompok. Sementara Antropologi Budaya
+
+merupakan studi komparasi bagaimana orang-orang memahami dunia di sekitar mereka dengan cara yang berbeda-beda.
+
+Antropologi Sosial berkaitan erat dengan sosiologi dan sejarah yang bertujuan mencari pemahaman struktur sosial dari suatu
+
+kelompok sosial yang berbeda seperti subkultur, etnik, dan kelompok minoritas. Antropologi Budaya lebih berhubungan dengan
+
+filsafat, literatur atau sastra, dan seni tentang bagaimana suatu kebudayaan memengaruhi pengalaman seseorang (diri
+
+sendiri) dan kelompok, memberikan kontribusi untuk pemahaman yang lebih lengkap terhadap pengetahuan, adat istiadat, dan
+
+pranata masyarakat. Dalam praktiknya tidak ada perbedaan yang sangat mencolok antara Antropologi Sosial dan Antropologi
+
+Budaya, dan bahkan sering saling tumpang tindih di antara keduanya. * Prehistori adalah ilmu yang mempelajari sejarah
+
+penyebaran dan perkembangan semua kebudayaan manusia di bumi sebelum manusia mengenal tulisan. * Etnolinguistik
+
+antropologi adalah ilmu yang mempelajari pelukisan tentang ciri dan tata bahasa dan beratus-ratus bahasa suku-suku bangsa
+
+yang ada di bumi. * Etnologi adalah ilmu yang mempelajari asas kebudayaan manusia di dalam kehidupan masyarakat suku
+
+bangsa di seluruh dunia. * Etnopsikologi adalah ilmu yang mempelajari kepribadian bangsa serta peranan individu pada
+
+bangsa dalam proses perubahan adat istiadat dan nilai universal dengan berpegang pada konsep psikologi. == Sejarah ==
+
+Seperti halnya [[sosiologi]], antropologi sebagai sebuah ilmu juga mengalami tahapan-tahapan dalam perkembangannya.
+
+Koentjaraninggrat menyusun perkembangan ilmu Antropologi menjadi empat fase sebagai berikut: === Fase Pertama (Sebelum
+
+tahun 1800-an) === Manusia dan kebudayaannya, sebagai bahan kajian Antropologi.]] Sekitar [[abad ke-15]]-[[abad ke-16|
+
+16]], bangsa-bangsa di [[Eropa]] mulai berlomba-lomba untuk menjelajahi dunia. Mulai dari [[Afrika]], [[Benua Amerika|
+
+Amerika]], [[Asia]], hingga ke [[Australia]]. Dalam penjelajahannya mereka banyak menemukan hal-hal baru. Mereka juga
+
+banyak menjumpai [[suku bangsa|suku-suku]] yang asing bagi mereka. Kisah-kisah petualangan dan penemuan mereka kemudian
+
+mereka catat di buku harian ataupun jurnal perjalanan. Mereka mencatat segala sesuatu yang berhubungan dengan suku-suku
+
+asing tersebut. Mulai dari ciri-ciri fisik, [[kebudayaan]], susunan [[masyarakat]], atau bahasa dari suku tersebut.
+
+Bahan-bahan yang berisi tentang deskripsi suku asing tersebut kemudian dikenal dengan bahan [[etnografi]] atau deskripsi
+
+tentang bangsa-bangsa. Bahan etnografi itu menarik perhatian pelajar-pelajar di Eropa. Kemudian, pada permulaan abad ke-19
+
+perhatian bangsa Eropa terhadap bahan-bahan etnografi suku luar Eropa dari sudut pandang ilmiah, menjadi sangat besar.
+
+Karena itu, timbul usaha-usaha untuk mengintegrasikan seluruh himpunan bahan etnografi. === Fase Kedua (tahun 1800-an) ===
+
+Pada fase ini, bahan-bahan etnografi tersebut telah disusun menjadi karangan-karangan berdasarkan cara berpikir
+
+[[evolusi]] masyarakat pada saat itu. masyarakat dan kebudayaan berevolusi secara perlahan-lahan dan dalam jangka waktu
+
+yang lama. Mereka menganggap bangsa-bangsa selain Eropa sebagai bangsa-bangsa [[primitif]] yang tertinggal, dan menganggap
+
+Eropa sebagai bangsa yang tinggi kebudayaannya Pada fase ini, Antopologi bertujuan [[akademi]]s, mereka mempelajari
+
+masyarakat dan kebudayaan primitif dengan maksud untuk memperoleh pemahaman tentang tingkat-tingkat sejarah penyebaran
+
+kebudayaan manusia. === Fase Ketiga (awal abad ke-20) === Pada fase ini, negara-negara di Eropa berlomba-lomba membangun
+
+[[koloni]] di benua lain seperti Asia, Amerika, Australia dan Afrika. Dalam rangka membangun koloni-koloni tersebut,
+
+muncul berbagai kendala seperti serangan dari bangsa asli, pemberontakan-pemberontakan, cuaca yang kurang cocok bagi
+
+bangsa Eropa serta hambatan-hambatan lain. Dalam menghadapinya, pemerintahan kolonial negara Eropa berusaha mencari-cari
+
+kelemahan suku asli untuk kemudian menaklukannya. Untuk itulah mereka mulai mempelajari bahan-bahan etnografi tentang
+
+suku-suku bangsa di luar Eropa, mempelajari kebudayaan dan kebiasaannya, untuk kepentingan pemerintah kolonial. == Fase
+
+Keempat (setelah tahun 1930-an) == Pada fase ini, Antropologi berkembang secara pesat. Kebudayaan-kebudayaan suku bangsa
+
+asli yang di jajah bangsa Eropa, mulai hilang akibat terpengaruh kebudayaan bangsa Eropa. Pada masa ini pula terjadi
+
+sebuah perang besar di Eropa, [[Perang Dunia II]]. Perang ini membawa banyak perubahan dalam kehidupan manusia dan membawa
+
+sebagian besar negara-negara di dunia kepada kehancuran total. Kehancuran itu menghasilkan kemiskinan, kesenjangan sosial,
+
+dan kesengsaraan yang tak berujung. Namun pada saat itu juga, muncul semangat [[nasionalisme]] bangsa-bangsa yang dijajah
+
+Eropa untuk keluar dari belenggu penjajahan. Sebagian dari bangsa-bangsa tersebut berhasil mereka. Namun banyak
+
+masyarakatnya yang masih memendam dendam terhadap bangsa Eropa yang telah menjajah mereka selama bertahun-tahun. Proses-
+
+proses perubahan tersebut menyebabkan perhatian ilmu antropologi tidak lagi ditujukan kepada penduduk pedesaan di luar
+
+Eropa, tetapi juga kepada suku bangsa di daerah pedalaman Eropa seperti suku bangsa Soami, Flam dan Lapp.
+
+
+
+
+Analisis leksikal''' adalah sebuah proses yang mendahului [[parsing]] sebuah rangkaian karakter. Ia menerima masukan
+
+serangkaian karakter (seperti dalam dokumen plain-text atau source code) dan menghasilkan deretan simbol yang masing-
+
+masing dinamakan '''token'''; proses parsing akan lebih mudah dilakukan bila inputnya sudah berupa token. Analisis
+
+leksikal terdiri dari dua tahap. Tahap pertama adalah '''pemindaian''' ('''''scanning'''''); scanner biasanya dibuat
+
+berdasarkan prinsip Finite State Machine ("mesin dengan jumlah keadaan terbatas"). Pada tahap ini, scanner akan membaca
+
+input karakter-ke-karakter, mengubah keadaannya sendiri berdasarkan karakter yang tengah dibaca. Setiap kondisi final
+
+(input dianggap valid) akan dicatat, bersama dengan lokasi input. Pada akhirnya scanner akan menemui keadaan penolakan,
+
+yang tidak akan berubah dengan input karakter apapun. Deteksi rekursi semacam ini akan mengakhiri proses pemindaian dan
+
+memindahkan keadaan scanner ke keadaan final terakhir, dan karenanya menyimpan informasi jenis dan besar [[lexeme]] valid
+
+yang terpanjang di dalam input. Namun lexeme tersebut belum punya nilai semantik apapun; pemberian nilai semantik pada
+
+setiap unit leksikal adalah tugas dari '''evaluator''' yang memeriksa semua karakter setiap lexeme dan memberinya nilai
+
+tertentu. Saat sebuah lexeme telah memiliki informasi mengenai tipe dan nilainya, ia dapat secara valid disebut sebagai
+
+token. Analisis leksikal membuat pekerjaan parser jadi lebih mudah; daripada membangun nama setiap fungsi dan variabel
+
+dari karakter-karakter yang menyusunnya, dengan analisis leksikal, parser cukup hanya berurusan dengan sekumpulan token
+
+dan nilai sintaksis masing-masing. Terlepas dari efisiensi pemrograman yang dapat dicapai dengan penggunaannya, proses
+
+kerja analisis leksikal yang membaca lebih dari sekali setiap karakter dari input yang diberikan menjadikan '''penganalisa
+
+leksikal''' sebagai sub-sistem yang paling intensif melakukan komputasi, terutama bila digunakan dalam sebuah
+
+[[kompilator]].  Wilayah Bahasa Indonesia dominan dipertuturkan dan sebagai bahasa resmi. Wilayah Bahasa Indonesia
+
+dituturkan oleh minoritas.  '''Bahasa Indonesia''' adalah [[bahasa Melayu]] yang dijadikan sebagai [[bahasa]] [[bahasa
+
+resmi|resmi]] [[Republik Indonesia]]Pasal 36 [[Undang-Undang Dasar Negara Republik Indonesia Tahun 1945|Undang-Undang
+
+Dasar RI 1945]] dan [[Daftar bahasa di Indonesia|bahasa persatuan]] [[orang Indonesia|bangsa Indonesia]].Butir ketiga
+
+[[Sumpah Pemuda]], 28 Oktober 1928 Bahasa Indonesia diresmikan penggunaannya setelah [[Proklamasi Kemerdekaan Indonesia]],
+
+tepatnya sehari sesudahnya, bersamaan dengan mulai berlakunya [[UUD 1945|konstitusi]]. Di [[Timor Leste]], bahasa
+
+Indonesia berstatus sebagai [[bahasa kerja]]. Dari sudut pandang [[linguistik]], bahasa Indonesia adalah salah satu dari
+
+banyak [[ragam bahasa|ragam]] [[bahasa Melayu]].Kridalaksana H. 1991. Pendekatan tentang Pendekatan Historis dalam Kajian
+
+Bahasa Melayu dan Bahasa Indonesia. Dalam Kridalaksana H. (penyunting). ''Masa Lampau bahasa Indonesia: Sebuah Bunga
+
+Rampai.'' Penerbit Kanisius, Yogyakarta. Dasar yang dipakai adalah [[bahasa Melayu Riau]] (wilayah [[Kepulauan Riau]]
+
+sekarang)Ki Hajar Dewantara dalam Kongres Bahasa Indonesia I 1939 di [[Solo]]: "jang dinamakan 'Bahasa Indonesia' jaitoe
+
+bahasa Melajoe jang soenggoehpoen pokoknja berasal dari 'Melajoe Riaoe' akan tetapi jang soedah ditambah, dioebah ataoe
+
+dikoerangi menoeroet keperloean zaman dan alam baharoe, hingga bahasa itoe laloe moedah dipakai oleh rakjat diseloeroeh
+
+Indonesia itoe haroes dilakoekan oleh kaoem ahli jang beralam baharoe, ialah alam kebangsaan Indonesia", dikutip di
+
+Pendahuluan [[KBBI]] cetakan ketiga. dari abad ke-19. Dalam perkembangannya ia mengalami perubahan akibat penggunaanya
+
+sebagai bahasa kerja di lingkungan administrasi kolonial dan berbagai proses pembakuan sejak awal abad ke-20. Penamaan
+
+"Bahasa Indonesia" diawali sejak dicanangkannya [[Sumpah Pemuda]], 28 Oktober 1928, untuk menghindari kesan "imperialisme
+
+bahasa" apabila nama bahasa Melayu tetap digunakan.Arti Tanggal 2 Mei bagi Bahasa Indonesia]. Laman Lembaga Pers Dr.
+
+Sutomo. Edisi 08 Februari 2010. diakses 5 Maret 2010. Proses ini menyebabkan berbedanya Bahasa Indonesia saat ini dari
+
+varian bahasa Melayu yang digunakan di Riau maupun [[Semenanjung Malaya]]. Hingga saat ini, Bahasa Indonesia merupakan
+
+bahasa yang hidup, yang terus menghasilkan kata-kata baru, baik melalui penciptaan maupun penyerapan dari [[bahasa
+
+daerah]] dan [[bahasa asing]]. Meskipun dipahami dan dituturkan oleh lebih dari 90% warga Indonesia, Bahasa Indonesia
+
+bukanlah [[bahasa ibu]] bagi kebanyakan penuturnya. Sebagian besar warga Indonesia menggunakan salah satu dari [[Daftar
+
+bahasa di Indonesia|748 bahasa yang ada di Indonesia]] sebagai [[bahasa ibu]].  Penutur Bahasa Indonesia kerap kali
+
+menggunakan versi sehari-hari (kolokial) dan/atau mencampuradukkan dengan dialek Melayu lainnya atau bahasa ibunya.
+
+Meskipun demikian, Bahasa Indonesia digunakan sangat luas di perguruan-perguruan, di media massa, sastra, perangkat lunak,
+
+surat-menyurat resmi, dan berbagai forum publik lainnya, Situs web pengajaran bahasa Indonesia di Universitas Negeri
+
+Ohio.] sehingga dapatlah dikatakan bahwa bahasa Indonesia digunakan oleh semua warga Indonesia. [[Fonologi]] dan [[tata
+
+bahasa]] Bahasa Indonesia dianggap relatif mudah.
+
+== Sejarah == :''Masa lalu sebagai bahasa Melayu === Buku Sari Kata Bahasa indonesia]] Bahasa Indonesia adalah varian
+
+bahasa Melayu, sebuah bahasa [[Austronesia]] dari cabang [[bahasa-bahasa Sunda-Sulawesi]], yang digunakan sebagai ''[]''
+
+di [[Nusantara]] kemungkinan sejak abad-abad awal [[kalender Masehi|penanggalan modern]]. Aksara pertama dalam bahasa
+
+Melayu atau Jawi ditemukan di pesisir tenggara Pulau Sumatera, mengindikasikan bahwa bahasa ini menyebar ke berbagai
+
+tempat di Nusantara dari wilayah ini, berkat penggunaannya oleh Kerajaan [[Sriwijaya]] yang menguasai jalur perdagangan.
+
+Istilah Melayu atau sebutan bagi wilayahnya sebagai Malaya sendiri berasal dari Kerajaan Malayu yang bertempat di Batang
+
+Hari, Jambi, di mana diketahui bahasa Melayu yang digunakan di Jambi menggunakan dialek "o" sedangkan dikemudian hari
+
+bahasa dan dialek Melayu berkembang secara luas dan menjadi beragam. Istilah Melayu atau Malayu berasal dari Kerajaan
+
+Malayu, sebuah kerajaan Hindu-Budha pada abad ke-7 di hulu sungai Batanghari, Jambi di pulau Sumatera, jadi secara
+
+geografis semula hanya mengacu kepada wilayah kerajaan tersebut yang merupakan sebagian dari wilayah pulau Sumatera. Dalam
+
+perkembangannya pemakaian istilah Melayu mencakup wilayah geografis yang lebih luas dari wilayah Kerajaan Malayu tersebut,
+
+mencakup negeri-negeri di pulau Sumatera sehingga pulau tersebut disebut juga Bumi Melayu seperti disebutkan dalam Kakawin
+
+Nagarakretagama. Ibukota Kerajaan Melayu semakin mundur ke pedalaman karena serangan Sriwijaya dan masyarakatnya diaspora
+
+keluar Bumi Melayu, belakangan masyarakat pendukungnya yang mundur ke pedalaman berasimilasi ke dalam masyarakat
+
+Minangkabau menjadi klan Malayu (suku Melayu Minangkabau) yang merupakan salah satu marga di Sumatera Barat. Sriwijaya
+
+berpengaruh luas hingga ke Filipina membawa penyebaran Bahasa Melayu semakin meluas, tampak dalam prasasti Keping Tembaga
+
+Laguna. Bahasa Melayu kuno yang berkembang di Bumi Melayu tersebut berlogat "o" seperti Melayu Jambi, Minangkabau,
+
+Kerinci, Palembang dan Bengkulu. Semenanjung Malaka dalam Nagarakretagama disebut Hujung Medini artinya Semenanjung
+
+Medini. Dalam perkembangannya orang Melayu migrasi ke Semenanjung Malaysia (= Hujung Medini) dan lebih banyak lagi pada
+
+masa perkembangan kerajaan-kerajaan Islam yang pusat mandalanya adalah Kesultanan Malaka, istilah Melayu bergeser kepada
+
+Semenanjung Malaka (= Semenanjung Malaysia) yang akhirnya disebut Semenanjung Melayu atau Tanah Melayu. Tetapi nyatalah
+
+bahwa istilah Melayu itui berasal dari Indonesia. Bahasa Melayu yang berkembang di sekitar daerah Semenanjung Malaka
+
+berlogat "e". Kesultanan Malaka dimusnahkan oleh Portugis tahun 1512 sehingga penduduknya diaspora sampai ke kawasan timur
+
+kepulauan Nusantara. Bahasa Melayu Purba sendiri diduga berasal dari pulau Kalimantan, jadi diduga pemakai bahasa Melayu
+
+ini bukan penduduk asli Sumatera tetapi dari pulau Kalimantan. Suku Dayak yang diduga memiliki hubungan dengan suku Melayu
+
+kuno di Sumatera misalnya Dayak Salako, Dayak Kanayatn (Kendayan), dan Dayak Iban yang semuanya berlogat "a" seperti
+
+bahasa Melayu Baku. Penduduk asli Sumatera sebelumnya kedatangan pemakai bahasa Melayu tersebut adalah nenek moyang suku
+
+Nias dan suku Mentawai. Dalam perkembangannya istilah Melayu kemudian mengalami perluasan makna, sehingga muncul istilah
+
+Kepulauan Melayu untuk menamakan kepulauan Nusantara. Secara sudut pandang historis juga dipakai sebagai nama bangsa yang
+
+menjadi nenek moyang penduduk kepulauan Nusantara, yang dikenal sebagai rumpun Indo-Melayu terdiri Proto Melayu (Melayu
+
+Tua/Melayu Polinesia) dan Deutero Melayu (Melayu Muda). Setelah mengalami kurun masa yang panjang sampai dengan kedatangan
+
+dan perkembangannya agama Islam, suku Melayu sebagai etnik mengalami penyempitan makna menjadi sebuah etnoreligius
+
+(Muslim) yang sebenarnya di dalamnya juga telah mengalami amalgamasi dari beberapa unsur etnis. M. Muhar Omtatok, seorang
+
+Seniman, Budayawan dan Sejarahwan menjelaskan sebagai berikut: "Melayu secara puak (etnis, suku), bukan dilihat dari
+
+faktor genekologi seperti kebanyakan puak-puak lain. Di Malaysia, tetap mengaku berpuak Melayu walau moyang mereka berpuak
+
+Jawa, Mandailing, Bugis, Keling dan lainnya. Beberapa tempat di Sumatera Utara, ada beberapa Komunitas keturunan Batak
+
+yang mengaku Orang Kampong - Puak Melayu [[Kerajaan Sriwijaya]] dari abad ke-7 Masehi diketahui memakai bahasa Melayu
+
+(sebagai [[bahasa Melayu Kuno]]) sebagai bahasa kenegaraan. Lima [[prasasti]] kuno yang ditemukan di Sumatera bagian
+
+selatan peninggalan kerajaan itu menggunakan bahasa Melayu yang bertaburan kata-kata pinjaman dari [[bahasa Sanskerta]],
+
+suatu [[Rumpun bahasa Indo-Eropa|bahasa Indo-Eropa]] dari cabang Indo-Iran. Jangkauan penggunaan bahasa ini diketahui
+
+cukup luas, karena ditemukan pula dokumen-dokumen dari abad berikutnya di [[Pulau Jawa]]Penemuan prasasti berbahasa Melayu
+
+Kuno di Jawa Tengah (berangka tahun abad ke-9) dan di dekat [[Bogor]] ([[Prasasti Bogor]]) dari abad ke-10 menunjukkan
+
+adanya penyebaran penggunaan bahasa ini di [[Pulau Jawa]] dan [[Pulau Luzon]].[[Keping Tembaga Laguna]] (900 M) yang
+
+ditemukan di dekat [[Manila]], [[Pulau Luzon]], berbahasa Melayu Kuno, menunjukkan keterkaitan wilayah itu dengan
+
+Sriwijaya. Kata-kata seperti ''samudra, istri, raja, putra, kepala, kawin'', dan ''kaca'' masuk pada periode hingga abad
+
+ke-15 Masehi. Pada abad ke-15 berkembang bentuk yang dianggap sebagai bahasa Melayu Klasik (''classical Malay'' atau
+
+''medieval Malay''). Bentuk ini dipakai oleh [[Kesultanan Melaka]], yang perkembangannya kelak disebut sebagai ''[[bahasa
+
+Melayu Tinggi]]''. Penggunaannya terbatas di kalangan keluarga kerajaan di sekitar [[Sumatera]], [[Jawa]], dan
+
+[[Semenanjung Malaya]].{{fact}} Laporan [[Portugal|Portugis]], misalnya oleh [[Tome Pires]], menyebutkan adanya bahasa
+
+yang dipahami oleh semua pedagang di wilayah Sumatera dan Jawa. [[Magellan]] dilaporkan memiliki budak dari Nusantara yang
+
+menjadi juru bahasa di wilayah itu. Ciri paling menonjol dalam ragam sejarah ini adalah mulai masuknya kata-kata pinjaman
+
+dari [[bahasa Arab]] dan [[bahasa Parsi]], sebagai akibat dari penyebaran agama Islam yang mulai masuk sejak abad ke-12.
+
+Kata-kata bahasa Arab seperti masjid, kalbu, kitab, kursi, selamat, dan kertas, serta kata-kata Parsi seperti anggur,
+
+cambuk, dewan, saudagar, tamasya, dan tembakau masuk pada periode ini. Proses penyerapan dari bahasa Arab terus
+
+berlangsung hingga sekarang. Kedatangan pedagang Portugis, diikuti oleh Belanda, Spanyol, dan Inggris meningkatkan
+
+informasi dan mengubah kebiasaan masyarakat pengguna bahasa Melayu. Bahasa Portugis banyak memperkaya kata-kata untuk
+
+kebiasaan Eropa dalam kehidupan sehari-hari, seperti gereja, sepatu, sabun, meja, bola, bolu, dan jendela. Bahasa Belanda
+
+terutama banyak memberi pengayaan di bidang administrasi, kegiatan resmi (misalnya dalam upacara dan kemiliteran), dan
+
+teknologi hingga awal abad ke-20. Kata-kata seperti asbak, polisi, kulkas, knalpot, dan stempel adalah pinjaman dari
+
+bahasa ini. Bahasa yang dipakai pendatang dari Cina juga lambat laun dipakai oleh penutur bahasa Melayu, akibat kontak di
+
+antara mereka yang mulai intensif di bawah penjajahan Belanda. Sudah dapat diduga, kata-kata Tionghoa yang masuk biasanya
+
+berkaitan dengan perniagaan dan keperluan sehari-hari, seperti pisau, tauge, tahu, loteng, teko, tauke, dan cukong. [[Jan
+
+Huyghen van Linschoten]] pada abad ke-17 dan [[Alfred Russel Wallace]] pada abad ke-19 menyatakan bahwa bahasa orang
+
+Melayu/Melaka dianggap sebagai bahasa yang paling penting di "dunia timur".
+
+Luasnya penggunaan bahasa Melayu ini melahirkan berbagai varian lokal dan temporal. Bahasa perdagangan menggunakan bahasa
+
+Melayu di berbagai pelabuhan Nusantara bercampur dengan [[bahasa Portugis]], [[bahasa Tionghoa]], maupun bahasa setempat.
+
+Terjadi proses pidginisasi di beberapa kota pelabuhan di kawasan timur Nusantara, misalnya di [[Manado]], [[Kota Ambon|
+
+Ambon]], dan [[Kupang]]. Orang-orang Tionghoa di Semarang dan Surabaya juga menggunakan varian bahasa Melayu pidgin.
+
+Terdapat pula [[bahasa Melayu Tionghoa]] di [[Batavia]]. Varian yang terakhir ini malah dipakai sebagai bahasa pengantar
+
+bagi beberapa surat kabar pertama berbahasa Melayu (sejak akhir abad ke-19).Hal ini tidak mengherankan karena banyak dari
+
+pengusaha penerbitan di kala itu berasal dari etnis [[Tionghoa-Indonesia|Tionghoa]]. Varian-varian lokal ini secara umum
+
+dinamakan ''[[bahasa Melayu Pasar]]'' oleh para peneliti bahasa. Terobosan penting terjadi ketika pada pertengahan abad
+
+ke-19 [[Raja Ali Haji]] dari istana [[Kesultanan Riau-Johor|Riau-Johor]] (pecahan Kesultanan Melaka) menulis [[kamus]]
+
+ekabahasa untuk bahasa Melayu. Sejak saat itu dapat dikatakan bahwa bahasa ini adalah bahasa yang ''full-fledged'', sama
+
+tinggi dengan bahasa-bahasa internasional pada masa itu, karena memiliki kaidah dan dokumentasi kata yang terdefinisi
+
+dengan jelas. Hingga akhir abad ke-19 dapat dikatakan terdapat paling sedikit dua kelompok bahasa Melayu yang dikenal
+
+masyarakat Nusantara: bahasa Melayu Pasar yang kolokial dan tidak baku serta bahasa Melayu Tinggi yang terbatas
+
+pemakaiannya tetapi memiliki standar. Bahasa ini dapat dikatakan sebagai ''[[lingua franca]]'', tetapi kebanyakan
+
+berstatus sebagai bahasa kedua atau ketiga.
+
+Kata-kata pinjaman === Bahasa Indonesia === Pemerintah [[kolonial]] Hindia Belanda menyadari bahwa bahasa Melayu dapat
+
+dipakai untuk membantu administrasi bagi kalangan pegawai pribumi karena penguasaan bahasa Belanda para pegawai pribumi
+
+dinilai lemah. Dengan menyandarkan diri pada bahasa Melayu Tinggi (karena telah memiliki kitab-kitab rujukan) sejumlah
+
+sarjana Belanda mulai terlibat dalam standardisasi bahasa. Promosi bahasa Melayu pun dilakukan di sekolah-sekolah dan
+
+didukung dengan penerbitan karya sastra dalam bahasa Melayu. Akibat pilihan ini terbentuklah "embrio" bahasa Indonesia
+
+yang secara perlahan mulai terpisah dari bentuk semula bahasa Melayu Riau-Johor. Pada awal abad ke-20 perpecahan dalam
+
+bentuk baku tulisan bahasa Melayu mulai terlihat. Pada tahun 1901, Indonesia (sebagai [[Hindia Belanda]]) mengadopsi
+
+[[ejaan Van Ophuijsen]] dan pada tahun 1904 [[Persekutuan Tanah Melayu]] (kelak menjadi bagian dari Malaysia) di bawah
+
+[[Inggris]] mengadopsi [[ejaan Wilkinson]]. Ejaan Van Ophuysen diawali dari penyusunan [[Kitab Logat Melayu]] (dimulai
+
+tahun 1896) [[van Ophuijsen]], dibantu oleh Nawawi Soetan Ma�moer dan Moehammad Taib Soetan Ibrahim. Intervensi pemerintah
+
+semakin kuat dengan dibentuknya ''Commissie voor de Volkslectuur'' ("Komisi Bacaan Rakyat" - KBR) pada tahun 1908. Kelak
+
+lembaga ini menjadi [[Balai Poestaka]]. Pada tahun 1910 komisi ini, di bawah pimpinan [[D.A. Rinkes]], melancarkan program
+
+[[Taman Poestaka]] dengan membentuk [[perpustakaan]] kecil di berbagai sekolah pribumi dan beberapa instansi milik
+
+pemerintah. Perkembangan program ini sangat pesat, dalam dua tahun telah terbentuk sekitar 700 perpustakaan.Kompas daring,
+
+25 November 2009. Bahasa Indonesia secara resmi diakui sebagai "bahasa persatuan bangsa" pada saat [[Sumpah Pemuda]]
+
+tanggal [[28 Oktober]] [[1928]]. Penggunaan bahasa Melayu sebagai bahasa nasional atas usulan [[Muhammad Yamin]], seorang
+
+politikus, sastrawan, dan ahli sejarah. Dalam pidatonya pada Kongres Nasional kedua di Jakarta, Yamin mengatakan, :"Jika
+
+mengacu pada masa depan bahasa-bahasa yang ada di Indonesia dan kesusastraannya, hanya ada dua bahasa yang bisa diharapkan
+
+menjadi bahasa persatuan yaitu bahasa Jawa dan Melayu. Tapi dari dua bahasa itu, bahasa Melayulah yang lambat laun akan
+
+menjadi bahasa pergaulan atau bahasa persatuan. Selanjutnya perkembangan bahasa dan kesusastraan Indonesia banyak
+
+dipengaruhi oleh sastrawan [[Minangkabau]], seperti [[Marah Rusli]], [[Abdul Muis]], [[Nur Sutan Iskandar]], [[Sutan
+
+Takdir Alisyahbana]], [[Hamka]], [[Roestam Effendi]], [[Idrus]], dan [[Chairil Anwar]]. Sastrawan tersebut banyak mengisi
+
+dan menambah perbendaharaan kata, [[sintaksis]], maupun morfologi bahasa Indonesia. == Peristiwa-peristiwa penting ==
+
+{{tone}} * Tahun 1908 pemerintah kolonial mendirikan sebuah badan penerbit buku-buku bacaan yang diberi nama [[Commissie
+
+voor de Volkslectuur]] (Taman Bacaan Rakyat), yang kemudian pada tahun 1917 diubah menjadi [[Balai Pustaka]]. Badan
+
+penerbit ini menerbitkan novel-novel, seperti [[Siti Nurbaya]] dan [[Salah Asuhan]], buku-buku penuntun bercocok tanam,
+
+penuntun memelihara kesehatan, yang tidak sedikit membantu penyebaran bahasa Melayu di kalangan masyarakat luas. * Tanggal
+
+16 Juni 1927 [[Jahja Datoek Kajo]] menggunakan bahasa Indonesia dalam pidatonya. Hal ini untuk pertamakalinya dalam sidang
+
+[[Volksraad]], seseorang berpidato menggunakan bahasa Indonesia.idato Otokritik di Volksraad 1927 - 1939 Tanggal 28
+
+Oktober 1928 secara resmi [[Muhammad Yamin]] mengusulkan agar bahasa Melayu menjadi bahasa persatuan Indonesia. * Tahun
+
+1933 berdiri sebuah angkatan sastrawan muda yang menamakan dirinya sebagai [[Pujangga Baru]] yang dipimpin oleh [[Sutan
+
+Takdir Alisyahbana]]. * Tahun 1936 Sutan Takdir Alisyahbana menyusun Tatabahasa Baru Bahasa Indonesia. * Tanggal 25-28
+
+Juni 1938 dilangsungkan [[Kongres Bahasa Indonesia]] I di [[Solo]]. Dari hasil kongres itu dapat disimpulkan bahwa usaha
+
+pembinaan dan pengembangan bahasa Indonesia telah dilakukan secara sadar oleh cendekiawan dan budayawan Indonesia saat
+
+itu. * Tanggal 18 Agustus 1945 ditandatanganilah [[Undang-Undang Dasar 1945]], yang salah satu pasalnya (Pasal 36)
+
+menetapkan bahasa Indonesia sebagai bahasa negara. * Tanggal 19 Maret 1947 diresmikan penggunaan [[ejaan Republik]]
+
+sebagai pengganti ejaan Van Ophuijsen yang berlaku sebelumnya. * Tanggal 28 Oktober s.d 2 November 1954 diselenggarakan
+
+Kongres Bahasa Indonesia II di [[Medan]]. Kongres ini merupakan perwujudan tekad bangsa Indonesia untuk terus-menerus
+
+menyempurnakan bahasa Indonesia yang diangkat sebagai bahasa kebangsaan dan ditetapkan sebagai bahasa negara. * Tanggal 16
+
+Agustus 1972 [[Soeharto|H. M. Soeharto]], Presiden Republik Indonesia, meresmikan penggunaan Ejaan Bahasa Indonesia yang
+
+Disempurnakan (EYD) melalui pidato kenegaraan di hadapan sidang DPR yang dikuatkan pula dengan Keputusan Presiden No. 57
+
+tahun 1972. * Tanggal 31 Agustus 1972 Menteri Pendidikan dan Kebudayaan menetapkan Pedoman Umum Ejaan Bahasa Indonesia
+
+yang Disempurnakan dan Pedoman Umum Pembentukan Istilah resmi berlaku di seluruh wilayah Indonesia (Wawasan Nusantara). *
+
+Tanggal 28 Oktober s.d 2 November 1978 diselenggarakan Kongres Bahasa Indonesia III di Jakarta. Kongres yang diadakan
+
+dalam rangka memperingati Sumpah Pemuda yang ke-50 ini selain memperlihatkan kemajuan, pertumbuhan, dan perkembangan
+
+bahasa Indonesia sejak tahun 1928, juga berusaha memantapkan kedudukan dan fungsi bahasa Indonesia. * Tanggal 21-26
+
+November 1983 diselenggarakan Kongres Bahasa Indonesia IV di Jakarta. Kongres ini diselenggarakan dalam rangka
+
+memperingati hari Sumpah Pemuda yang ke-55. Dalam putusannya disebutkan bahwa pembinaan dan pengembangan bahasa Indonesia
+
+harus lebih ditingkatkan sehingga amanat yang tercantum di dalam Garis-Garis Besar Haluan Negara, yang mewajibkan kepada
+
+semua warga negara Indonesia untuk menggunakan bahasa Indonesia dengan baik dan benar, dapat tercapai semaksimal mungkin.
+
+* Tanggal 28 Oktober s.d 3 November 1988 diselenggarakan Kongres Bahasa Indonesia V di Jakarta. Kongres ini dihadiri oleh
+
+kira-kira tujuh ratus pakar bahasa Indonesia dari seluruh Indonesia dan peserta tamu dari negara sahabat seperti [[Brunei
+
+Darussalam]], [[Malaysia]], [[Singapura]], [[Belanda]], [[Jerman]], dan [[Australia]]. Kongres itu ditandatangani dengan
+
+dipersembahkannya karya besar Pusat Pembinaan dan Pengembangan Bahasa kepada pencinta bahasa di Nusantara, yakni [[Kamus
+
+Besar Bahasa Indonesia]] dan [[Tata Bahasa Baku Bahasa Indonesia]]. * Tanggal 28 Oktober s.d 2 November 1993
+
+diselenggarakan Kongres Bahasa Indonesia VI di Jakarta. Pesertanya sebanyak 770 pakar bahasa dari Indonesia dan 53 peserta
+
+tamu dari mancanegara meliputi Australia, Brunei Darussalam, Jerman, Hongkong, India, Italia, Jepang, Rusia, Singapura,
+
+Korea Selatan, dan Amerika Serikat. Kongres mengusulkan agar Pusat Pembinaan dan Pengembangan Bahasa ditingkatkan
+
+statusnya menjadi Lembaga Bahasa Indonesia, serta mengusulkan disusunnya Undang-Undang Bahasa Indonesia. * Tanggal 26-30
+
+Oktober 1998 diselenggarakan Kongres Bahasa Indonesia VII di [[Hotel Indonesia]], Jakarta. Kongres itu mengusulkan
+
+dibentuknya Badan Pertimbangan Bahasa. == Penyempurnaan ejaan == Ejaan-ejaan untuk bahasa Melayu/Indonesia mengalami
+
+beberapa tahapan sebagai berikut: === Ejaan van Ophuijsen === {{utama|Ejaan Van Ophuijsen}} Ejaan ini merupakan ejaan
+
+[[bahasa Melayu]] dengan huruf Latin. [[Charles Adriaan van Ophuijsen|Charles Van Ophuijsen]] yang dibantu oleh [[Nawawi
+
+Soetan Ma�moer]] dan [[Moehammad Taib Soetan Ibrahim]] menyusun ejaan baru ini pada tahun 1896. Pedoman tata bahasa yang
+
+kemudian dikenal dengan nama ejaan van Ophuijsen itu resmi diakui pemerintah kolonial pada tahun 1901. Ciri-ciri dari
+
+ejaan ini yaitu: # Huruf ''�'' untuk membedakan antara huruf ''i'' sebagai akhiran dan karenanya harus disuarakan
+
+tersendiri dengan [[diftong]] seperti ''mula�'' dengan ''ramai''. Juga digunakan untuk menulis huruf ''y'' seperti dalam
+
+''Soeraba�a''. # Huruf ''j'' untuk menuliskan kata-kata ''jang'', ''pajah'', ''sajang'', dsb. # Huruf ''oe'' untuk
+
+menuliskan kata-kata ''goeroe'', ''itoe'', ''oemoer'', dsb. # Tanda [[diakritik]], seperti koma ain dan tanda trema, untuk
+
+menuliskan kata-kata ''ma�moer'', ''�akal'', ''ta�'', ''pa�'', dsb. === Ejaan Republik === {{utama|Ejaan Republik}} Ejaan
+
+ini diresmikan pada tanggal 19 Maret 1947 menggantikan ejaan sebelumnya. Ejaan ini juga dikenal dengan nama [[ejaan
+
+Soewandi]]. Ciri-ciri ejaan ini yaitu: # Huruf ''oe'' diganti dengan ''u'' pada kata-kata ''guru'', ''itu'', ''umur'',
+
+dsb. # Bunyi hamzah dan bunyi sentak ditulis dengan ''k'' pada kata-kata ''tak'', ''pak'', ''rakjat'', dsb. # Kata ulang
+
+boleh ditulis dengan angka 2 seperti pada ''kanak2'', ''ber-jalan2'', ''ke-barat2-an''. # Awalan ''di''- dan kata depan
+
+''di'' kedua-duanya ditulis serangkai dengan kata yang mendampinginya. === Ejaan Pembaharuan === {{utama|Ejaan
+
+Pembaharuan}} Ejaan Pembaharuan dirancang oleh sebuah panitia yang diketuai oleh Prijono dan E. Katoppo pada tahun 1957
+
+sebagai hasil keputusan Kongres Bahasa Indonesia II di Medan, namun sistem ejaan ini tidak pernah dilaksanakan. === Ejaan
+
+Melindo === {{utama|Ejaan Melindo}} Konsep ejaan ini dikenal pada akhir tahun 1959. Karena perkembangan politik selama
+
+tahun-tahun berikutnya, diurungkanlah peresmian ejaan ini. === Ejaan yang Disempurnakan  Sebelum EYD, Lembaga Bahasa dan
+
+Kesusastraan, (sekarang Pusat Bahasa), pada tahun 1967 mengeluarkan Ejaan Baru (Ejaan LBK) untuk menggantikan ejaan
+
+Melindo. Lalu kemudian diresmikan Ejaan Yang Disempurnakan (EYD). Ejaan ini diresmikan pemakaiannya pada tanggal 16
+
+Agustus 1972 oleh Presiden Republik Indonesia. Peresmian itu berdasarkan Putusan Presiden No. 57, Tahun 1972. Dengan EYD,
+
+ejaan dua bahasa serumpun, yakni Bahasa Indonesia dan Bahasa Malaysia, semakin dibakukan. Perubahan: {| ="" !Indonesia
+
+{{}}(pra-1972)!!Malaysia{{}}(pra-1972)!!Sejak 1972 |- |tj |ch |c |- |dj |j |j |- |ch |kh |kh |- |nj |ny |ny |- |sj |sh |sy
+
+|- |j |y |y |- |oe* |u |u |} ---- '''Catatan''': Tahun 1947 "oe" sudah digantikan dengan "u". ---- === Ejaan Bahasa
+
+Indonesia === {{utama|Ejaan Bahasa Indonesia}} Ejaan Bahasa Indonesia (EBI) adalah ejaan bahasa Indonesia yang berlaku
+
+sejak tahun 2015 berdasarkan Peraturan Menteri Pendidikan dan Kebudayaan Republik Indonesia Nomor 50 Tahun 2015 tentang
+
+Pedoman Umum Ejaan Bahasa Indonesia. Ejaan ini menggantikan Ejaan yang Disempurnakan. Tidak terdapat banyak perbedaan
+
+antara EYD dan EBI. Pada EBI, terdapat penambahan satu huruf [[Diftong]], yaitu huruf ''ei'' sehingga huruf diftong dalam
+
+Bahasa Indonesia menjadi epat huruf, yakni '''ai''', '''ei''', '''au''', dan '''oi'''. Selain itu terdapat juga penambahan
+
+aturan pada penggunaan huruf tebal dan huruf kapital. == Daftar kata serapan dalam bahasa Indonesia == {{utama|Kata
+
+serapan dalam bahasa Indonesia}} Bahasa Indonesia adalah bahasa yang terbuka. Maksudnya ialah bahwa bahasa ini banyak
+
+menyerap kata-kata dari bahasa lain. Jumlah kata |- | {{bhs|Belanda}} | 3.280 kata |- | {{bhs|Inggris}} | 1.610 kata |- |
+
+{{bhs|Arab}} | 1.495 kata |- | {{bhs|Sanskerta}} | 677 kata |- | {{bhs|Tionghoa}} | 290 kata |- | {{bhs|Portugis}} | 131
+
+kata |- | {{bhs|Tamil}} | 83 kata |- | {{bhs|Parsi}} | 63 kata |- | {{bhs|Hindi}} | 7 kata |- |} ---- '''Sumber''': Buku
+
+berjudul "Senarai Kata Serapan dalam Bahasa Indonesia" (1996) yang disusun oleh Pusat Pembinaan dan Pengembangan Bahasa
+
+(sekarang bernama [[Pusat Bahasa]]). ---- Adapun jumlah kata-kata yang diserap dari bahasa Nusantara dalam KBBI Edisi
+
+Keempat ditunjukkan di dalam daftar berikut:[ Kontribusi Kosakata Bahasa Daerah dalam Bahasa Indonesia] artikel oleh  di
+
+situs Badan Bahasa Kementerian Pendidikan dan Kebudayaan.  Asal bahasa ! Jumlah kata |- | {{bhs|Jawa}} | 1109 kata |- |
+
+{{bhs|Minangkabau}} | 929 kata |- | {{bhs|Sunda}} | 223 kata |- | {{bhs|Madura}} | 221 kata |- | {{bhs|Bali}} | 153 kata
+
+|- | {{bhs|Aceh}} | 112 kata |- | {{bhs|Banjar}} | 100 kata |- |} == Penggolongan == Indonesia termasuk anggota dari
+
+Bahasa [[Melayu-Polinesia Barat]] subkelompok dari [[bahasa Melayu-Polinesia]] yang pada gilirannya merupakan cabang dari
+
+[[bahasa Austronesia]]. Menurut situs ''[[Etnologi|Ethnologue]]'', bahasa Indonesia didasarkan pada [[bahasa Melayu]]
+
+dialek Riau yang dituturkan di timur laut [[Sumatra]] == Persebaran geografis == Bahasa Indonesia dituturkan di seluruh
+
+Indonesia, walaupun lebih banyak digunakan di area perkotaan (seperti di [[Jabodetabek]] dengan dialek [[bahasa Betawi|
+
+Betawi]] serta logat Betawi). Penggunaan bahasa di daerah biasanya lebih resmi, dan seringkali terselip dialek dan logat
+
+di daerah bahasa Indonesia itu dituturkan. Untuk berkomunikasi dengan sesama orang sedaerah kadang [[bahasa daerah]]lah
+
+yang digunakan sebagai pengganti untuk bahasa Indonesia. === Kedudukan resmi === Bahasa Indonesia memiliki kedudukan yang
+
+sangat penting seperti yang tercantum dalam: # Ikrar ketiga [[Sumpah Pemuda]] 1928 dengan bunyi, �Kami putra dan putri
+
+Indonesia menjunjung bahasa persatuan, bahasa Indonesia. # Undang-Undang Dasar RI 1945 Bab XV (Bendera, Bahasa, dan
+
+Lambang Negara, serta Lagu Kebangsaan) Pasal 36 menyatakan bahwa �Bahasa Negara ialah Bahasa Indonesia�. Dari Kedua hal
+
+tersebut, maka kedudukan bahasa Indonesia sebagai: # Bahasa kebangsaan, kedudukannya berada di atas bahasa-bahasa daerah.
+
+# Bahasa negara (bahasa resmi [[Indonesia|Negara Kesatuan Republik Indonesia]]) == Fonologi == Bahasa Indonesia mempunyai
+
+24 [[fonem]] (atau 28 fonem jika /f, z, S, x/ sudah dianggap bahasa Indonesia). {| class="" |+'''Vokal''' |- ! !Depan !
+
+Madya !Belakang |- !Tertutup |{{IPA|i?}} |{{IPA|}} |{{IPA|u?}} |- !Tengah |{{IPA|e}} |{{IPA|?}} |{{IPA|o}} |- !Hampir
+
+Terbuka |{{IPA|(?)}} |{{IPA|}} |{{IPA|(?)}} |- !Terbuka |{{IPA|a}} | | |} Bahasa Indonesia juga mempunyai diftong
+
+{{IPA|/ai/}}, {{IPA|/au/}}, dan {{IPA|/oi/}}. Namun, di dalam suku kata tertutup seperti ''air'' kedua vokal tidak
+
+diucapkan sebagai diftong. Selain itu, bahasa Indonesia juga mempunyai bentuk semivokal [y] dan [w]. +'''Konsonan''' ! !
+
+Bibir !Gigi !Langit2{{br}}keras !Langit lunak !Celah{{br}}suara |- ! Sengau | {{IPA|m}} | {{IPA|n}} | {{IPA|?}} |
+
+{{IPA|?}} |   |- ! Letup | {{IPA|p b}} | {{IPA|t d}} | {{IPA|c ?}} | {{IPA|k g}} | {{IPA|?}} |- ! Desis | {{IPA|(f)}} |
+
+{{IPA|s (z)}} | {{IPA|(�)}} | {{IPA|(x)}} | {{IPA|h}} |- ! Getar/Sisi |   | {{IPA|l r}} |   |   |   |- ! Hampiran |
+
+{{IPA|w}} |   |{{IPA| j}} |   |   |} Bahasa Indonesia yang berasal dari bahasa Melayu awalnya tidak mengenal adanya gugus
+
+konsonan, tetapi karena pengaruh dari bahasa asing dan daerah ke dalam bahasa Indonesia ditemukan cukup banyak gugus
+
+konsonan. Gugus konsonan dalam bahasa Indonesia adalah   /pl/, /bl/, /kl/, /fl/, /sl/, /pr/, /br/, /tr/, /dr/, /kr/, /gr/,
+
+/fr/, /sr/, /ps/, /sw/, /sp/, /sk/, /st/, /str/,  /spr/, /skr/, dan /skl/. * Vokal di dalam tanda kurung adalah [[alofon]]
+
+sedangkan konsonan di dalam tanda kurung adalah fonem pinjaman dan hanya muncul di dalam kata serapan. * {{IPA|/k/}},
+
+{{IPA|/p/}}, dan {{IPA|/t/}} tidak [[aspirasi (fonetik)|diaspirasikan]] * {{IPA|/t/}} dan {{IPA|/d/}} adalah [[konsonan
+
+gigi]] bukan [[konsonan rongga gigi]] seperti di dalam bahasa Inggris. * {{IPA|/k/}} pada akhir suku kata menjadi
+
+[[konsonan letup celah suara]] * Penekanan ditempatkan pada suku kata kedua dari terakhir dari kata akar. Namun apabila
+
+suku kata ini mengandung [[pepet]] maka penekanan pindah ke suku kata terakhir. == Sistem Penulisan == {{utama|Alfabet
+
+bahasa Indonesia}} {| ="" |- ! Huruf besar !! Huruf kecil !! [[|IPA]] !! Huruf besar !! Huruf kecil !! [[]] |- | A || a ||
+
+{{IPA|/??/}} || N || n || {{IPA|/n/}} |- | B || b || {{IPA|/b/}} || O || o || {{IPA|/?, o/}} |- | C || c || {{IPA|/t?/}}
+
+|| P || p || {{IPA|/p/}} |- | D || d || {{IPA|/d/}} || Q || q || {{IPA|/q/}} |- | E || e || {{IPA|/e, ?, ?/}} || R || r ||
+
+{{IPA|/r/}} |- | F || f || {{IPA|/f/}} || S || s || {{IPA|/s/}} |- | G || g || {{IPA|/g/}} || T || t || {{IPA|/t/}} |- | H
+
+|| h || {{IPA|/h/}} || U || u || {{IPA|/u/}} |- | I || i || {{IPA|/i/}} || V || v || {{IPA|/v, ?/}} |- | J || j ||
+
+{{IPA|/d?/}} || W || w || {{IPA|/w/}} |- | K || k || {{IPA|/k/}} || X || x || {{IPA|/ks/}} |- | L || l || {{IPA|/l/}} || Y
+
+|| y || {{IPA|/j/}} |- | M || m || {{IPA|/m/}} || Z || z || {{IPA|/z/}} |} == Tata bahasa == {{utama|Tata bahasa
+
+Indonesia}} Dibandingkan dengan bahasa-bahasa Eropa, bahasa Indonesia tidak menggunakan kata ber[[gender (linguistik)|
+
+gender]]. Sebagai contoh kata ganti seperti "dia" tidak secara spesifik menunjukkan apakah orang yang disebut itu lelaki
+
+atau perempuan. Hal yang sama juga ditemukan pada kata seperti "adik" dan "pacar" sebagai contohnya. Untuk memerinci
+
+sebuah jenis kelamin, sebuah kata sifat harus ditambahkan, "adik laki-laki" sebagai contohnya. Ada juga kata yang berjenis
+
+kelamin, seperti contohnya "putri" dan "putra". Kata-kata seperti ini biasanya diserap dari bahasa lain. Pada kasus di
+
+atas, kedua kata itu diserap dari [[bahasa Sanskerta]] melalui [[bahasa Jawa]] Kuno. Untuk mengubah sebuah kata benda
+
+menjadi bentuk jamak digunakanlah [[reduplikasi]] ([[Kata ulang|perulangan kata]]), tapi hanya jika jumlahnya tidak
+
+terlibat dalam konteks. Sebagai contoh "seribu orang" dipakai, bukan "seribu orang-orang". Perulangan kata juga mempunyai
+
+banyak kegunaan lain, tidak terbatas pada kata benda. Bahasa Indonesia menggunakan dua jenis kata ganti orang pertama
+
+jamak, yaitu "kami" dan "kita". "Kami" adalah kata ganti eksklusif yang berarti tidak termasuk sang lawan bicara,
+
+sedangkan "kita" adalah kata ganti inklusif yang berarti kelompok orang yang disebut termasuk lawan bicaranya. Susunan
+
+kata dasar yaitu Subjek - Predikat - Objek (SPO), walaupun susunan kata lain juga mungkin. Kata kerja tidak di
+
+[[infleksi|bahasa berinfleksikan]] kepada orang atau jumlah subjek dan objek. Bahasa Indonesia juga tidak mengenal kala
+
+(''tense''). Waktu dinyatakan dengan menambahkan kata keterangan waktu (seperti, "kemarin" atau "esok"), atau petunjuk
+
+lain seperti "sudah" atau "belum". Dengan tata bahasa yang cukup sederhana bahasa Indonesia mempunyai kerumitannya
+
+sendiri, yaitu pada penggunaan [[imbuhan]] yang mungkin akan cukup membingungkan bagi orang yang pertama kali belajar
+
+bahasa Indonesia. == Awalan, akhiran, dan sisipan == Bahasa Indonesia mempunyai banyak [[awalan]], [[akhiran]], maupun
+
+[[sisipan]], baik yang asli dari bahasa-bahasa Nusantara maupun dipinjam dari bahasa-bahasa asing.
+
+{Awalan]] !Fungsi (pembentuk) !Perubahan bentuk !Kaitan |- |'''[[ber-]]''' |verba |be-; bel- |per- |- |'''[[ter-]]''' |
+
+verba; adjektiva |te-; tel- |ke- |- |'''[[meng-]]''' |verba (aktif) |me-; men-; mem-; meny- |di-; pe-; ku-; kau; |-
+
+|'''[[di-]]''' |verba (pasif) | |meng- |- |'''[[ke-]]''' |nomina; numeralia; verba (percakapan) | |ter- |- |'''[[per-]]'''
+
+|verba; nomina |pe-; pel- |ber- |- |'''[[peng-]]''' |nomina |pe-; pen-; pem-; peny- |meng- |- |'''[[se-]]''' |klitika;
+
+adverbia | | |- |'''[[ku-]]''', '''[[kau-]]''' |verba (aktif) | |me- |}
+== Dialek dan ragam bahasa == ''Lihat pula: [[Bahasa Melayu#Varian-varian bahasa Melayu|Varian-varian bahasa Melayu]]''
+
+Pada keadaannya bahasa Indonesia menumbuhkan banyak varian yaitu varian menurut pemakai yang disebut sebagai [[dialek]]
+
+dan varian menurut pemakaian yang disebut sebagai [[ragam bahasa]]. '''Dialek''' dibedakan atas hal ihwal berikut: #
+
+'''Dialek regional''', yaitu rupa-rupa bahasa yang digunakan di daerah tertentu sehingga ia membedakan bahasa yang
+
+digunakan di suatu daerah dengan bahasa yang digunakan di daerah yang lain meski mereka berasal dari eka bahasa. Oleh
+
+karena itu, dikenallah [[bahasa Melayu]] dialek [[Pulau Ambon|Ambon]], dialek [[Jakarta]] ([[Betawi]]), atau bahasa Melayu
+
+dialek [[Medan]]. # '''Dialek sosial''', yaitu dialek yang digunakan oleh kelompok masyarakat tertentu atau yang menandai
+
+tingkat masyarakat tertentu. Contohnya dialek wanita dan dialek remaja. '''Dialek temporal''', yaitu dialek yang
+
+digunakan pada kurun waktu tertentu. Contohnya dialek Melayu zaman [[Kerajaan Sriwijaya|Sriwijaya]] dan dialek Melayu
+
+zaman Abdullah. '''Idiolek''', yaitu keseluruhan ciri bahasa seseorang. Sekalipun kita semua berbahasa Indonesia, kita
+
+masing-masing memiliki ciri-ciri khas pribadi dalam pelafalan, tata bahasa, atau pilihan dan kekayaan kata. Ragam bahasa
+
+dalam bahasa Indonesia berjumlah sangat banyak dan tidak terhad. Maka itu, ia dibagi atas dasar pokok pembicaraan,
+
+perantara pembicaraan, dan hubungan antarpembicara. Ragam bahasa menurut pokok pembicaraan meliputi: # ragam [[undang-
+
+undang]] # ragam [[jurnalistik]] # ragam [[ilmiah]] # ragam [[sastra]] Ragam bahasa menurut hubungan antarpembicara dibagi
+
+atas: # ragam lisan, terdiri dari: ## ragam percakapan ## ragam [[pidato]] ## ragam kuliah ## ragam panggung # ragam
+
+tulis, terdiri dari: ## ragam teknis ## ragam undang-undang ## ragam catatan ## ragam surat-menyurat Dalam kenyataannya,
+
+bahasa baku tidak dapat digunakan untuk segala keperluan, tetapi hanya untuk: # komunikasi resmi # wacana teknis #
+
+pembicaraan di depan khalayak ramai # pembicaraan dengan orang yang dihormati Selain keempat penggunaan tersebut,
+
+dipakailah ragam bukan baku. == Lihat pula == * [[Peribahasa Indonesia]] * [[Bahasa prokem Indonesia]] * [[Bahasa Melayu]]
+
+* [[Kata serapan dalam bahasa Indonesia]] * [[Daftar kata serapan|Daftar kata serapan dalam bahasa Indonesia]] * [[Bahasa
+
+Belanda di Indonesia]] * [[Perbedaan antara bahasa Melayu dan bahasa Indonesia]] * [[Perbedaan antara sebutan bahasa
+
+Melayu basahan dan bahasa Indonesia]] * [[Kongres Bahasa Indonesia]]
+
+
+
+/* Sumber-sumber Bahasa Melayu Kuno */  '''Bahasa Melayu Kuno''' (atau '''Melayu Kuno''', kadang-kadang disebut pula
+
+'''Melayu Tua''') merupakan anggota rumpun bahasa [[Austronesia]] dan dianggap sebagai salah satu bentuk awal (proto) bagi
+
+[[bahasa Melayu]] modern. Bahasa Melayu Kuno (MK) berdasarkan catatan-catatan tertulis pernah dipakai pada sekitar abad
+
+ke-7 hingga abad ke-13, yaitu pada zaman berkuasanya [[Wangsa Sailendra]] di [[Kerajaan Medang]] dan [[Kerajaan
+
+Sriwijaya]]. Keberadaan bahasa ini diketahui dari sekumpulan [[prasasti]] (batu maupun keping logam (ada yang berupa
+
+[[emas]] dan ada pula [[tembaga]]) yang ditemukan di seputaran [[Nusantara]] bagian barat, seperti di [[Pulau Sumatera]],
+
+[[Pulau Bangka]], [[Pulau Jawa]], dan [[Pulau Luzon]]. Banyaknya kosakata [[bahasa Sanskerta]] yang dipakai dalam bahasa
+
+ini menunjukkan bahwa pengaruh budaya [[India]] telah terserap dalam kehidupan sehari-hari masa itu. Pada kenyataannya,
+
+bahasa Sanskerta hingga sekarang menyumbang kepada pengayaan kosakata [[bahasa Melayu]]. Aksara yang digunakan dalam
+
+sumber-sumber MK bermacam-macam, mulai dari [[aksara Pallawa]] yang dibawa langsung dari India, [[aksara Kawi]] (yang
+
+merupakan modifikasi atas Pallawa), atau aksara Pasca-Pallawa. == Sumber-sumber Bahasa Melayu Kuno == Meskipun tidak
+
+terlalu banyak, ada cukup sumber naskah/tulisan yang dapat dipelajari sehingga orang dapat mendapat gambaran mengenai
+
+aspek kebahasaan bahasa ini. Bahasa Melayu Kuno ditemukan pada prasasti-prasasti berikut (tidak lengkap): * [[Prasasti
+
+Kedukan Bukit]]Coedes, George, (1930), ''Les inscriptions malaises de �rivijaya'', BEFEO., [[Palembang]] (605 Saka /
+
+[[683]] M, (berbahasa Melayu Kuno, dan beraksara Pallawa) * [[Prasasti Talang Tuwo]], dekat [[Palembang]] (606 Saka /
+
+[[684]] M, huruf Pallawa, ditemukan oleh [[Residen]] [[Louis Constant Westenenk]] tanggal [[17 November]] [[1920]] di
+
+sebuah kawasan bernama [[Talang Tuwo]], di sisi barat laut [[Bukit Seguntang]]) * [[Prasasti Kota Kapur]], [[Pulau
+
+Bangka]] (608 Saka / [[686]] M, beraksara Pallawa) * [[Prasasti Karang Brahi]], [[Kabupaten Merangin]], [[Jambi]] (614
+
+Saka / [[692]] M, beraksara Pallawa) * [[Prasasti Telaga Batu]], Palembang, [[Sumatera Selatan]], abad ke-7 * [[Prasasti
+
+Palas Pasemah]], Palas, [[Lampung]], abad ke-7 * [[Prasasti Hujung Langit]], Hujung Langit, [[Lampung]] * [[Prasasti
+
+Manjusrigrha|Prasasti Ma�ju�righra]], [[Candi Sewu]], [[Prambanan, Klaten]], [[Jawa Tengah]], [[2 November]] [[792]]M *
+
+[[Prasasti Sojomerto]], Desa [[Sojomerto, Reban, Batang|Sojomerto]], Kecamatan [[Reban, Batang]], [[Jawa Tengah]]
+
+[http://www.batangkab.go.id/pariwisata/Sejarah_Batang.htm Situs Kabupaten Batang, diakses 7 Juni 2007] * [[Prasasti
+
+Kayumwungan]], Karangtengah, [[Temanggung]], [[Jawa Tengah]], 824 (dwibahasa, Melayu Kuno dan Jawa Kuno) * [[Prasasti
+
+Gandasuli]] I dan II, [[Candi Gondosuli]], Desa Gondosuli, Kecamatan [[Bulu, Temanggung]], [[Jawa Tengah]],  [[Keping
+
+Tembaga Laguna]], [[Manila]], [[Filipina]], 900 * [[Prasasti Bukateja]], [[Bukateja, Purbalingga]], [[Jawa Tengah]] *
+
+[[Prasasti Dewa Drabya]], [[Dieng]], [[Jawa Tengah]] * [[Prasasti Padang Roco]]Muljana, Slamet, 1981, ''Kuntala, Sriwijaya
+
+Dan Suwarnabhumi'', Jakarta: Yayasan Idayu, hlm. 223. di ([[Kabupaten Dharmasraya]] sekarang) (dwibahasa, Melayu Kuno dan
+
+Jawa Kuno) * [[Prasasti Suruaso]]Casparis, J. G. de., (1992), ''Kerajaan Malayu dan Adityawarman'', Seminar Sejarah Malayu
+
+Kuno, Jambi, 7-8 Desember 1992. Jambi: Pemerintah Daerah Tingkat I Jambi bekerjasama dengan Kantor Wilayah Departemen
+
+Pendidikan dan Kebudayaan Jambi, hlm. 235-256., di [[Suruaso, Tanjung Emas, Tanah Datar|Suruaso]], [[Kabupaten Tanah
+
+Datar]] (berbahasa Sanskerta, dan beraksara Melayu) * [[Kitab Undang-Undang Tanjung Tanah]] di [[Kerinci]] (berbahasa
+
+Melayu Kuno, dan beraksara Melayu) * [[Prasasti Dong Yen Chau]] == Karakteristik == Dari berbagai sumber naskah dan
+
+prasasti tampak sekali pengaruh dari bahasa Sanskerta melalui banyak kata-kata yang dipinjam dari bahasa itu serta bunyi-
+
+bunyi konsonan aspiratif seperti bh, ch, th, ph, dh, kh, h (Contoh: ''sukhatchitta''). Namun struktur kalimat jelas
+
+bersifat Melayu atau Austronesia, seperti adanya [[imbuhan]] (''suffix''). Imbuhan-imbuhan ini dapat dilacak hubungannya
+
+dengan bentuk imbuhan bahasa Melayu Klasik atau bahasa Melayu , seperti awalan ''mar-'' (''ber-'' dalam bahasa Melayu
+
+Klasik dan Melayu), ''ni-'' (''di-''), ''nipar-'' (''diper-''), ''maN-'' (''meN-''), ''ka-'' (''ter-'', juga ''ke'' pada
+
+[[bahasa Betawi]]), dan ''maka-'' (''ter-''). Pronomina (kata ganti) pribadi, seperti juga bahasa Melayu, juga terdiri
+
+dari pronomina independen dan pronomina ekliktik (genitif)Mahdi W. 2005. ''ibid.''. Hal. 196.: 1s = aku, -ku/-nku, 2p =
+
+kamu, mamu, 3s = iya, nya, 3p (hormat) = sida, -da,-nda, 2p (divinum) = kita, -ta/-nta. Dua dialek telah diduga oleh
+
+Aichelle pada tahun 1942 dan A. Teeuw sejak 1959 Dialek prasasti Sumatera: ''ni-''/''var-'' dan dialek luar Sumatera
+
+''di-''/''bar-''.
+
+'''Bahasa Melayu Klasik''' adalah bentuk [[bahasa Melayu]] yang dipakai oleh [[Kesultanan Melaka]] (abad ke-14),
+
+[[Kesultanan Aceh]], dan sejumlah entitas politik lain di sekitarnya, hingga abad ke-18. Apakah [[dialek]] temporal
+
+(waktu) ini merupakan perkembangan lanjutan dari [[bahasa Melayu Kuno]] yang dipakai oleh [[Kerajaan Sriwijaya]] atau
+
+perkembangan dari dialek lain yang berkembang terpisah tidaklah diketahui. Tidak ada bukti tertulis atau laporan mengenai
+
+perubahan/evolusi bahasa ini. Bahasa Melayu Klasik ditandai dengan masuknya berbagai kosakata pinjaman dari bahasa Arab,
+
+bahasa Parsi, dan (pada perkembangan selanjutnya) bahasa Portugis. Perkembangan ini berkait dengan menguatnya pengaruh
+
+agama [[Islam]] di [[Asia Tenggara]] pada sejak [[abad ke-13]]. Bahasa Melayu Klasik tercatat pada berbagai naskah-naskah
+
+hikayat dan bentuk susastera lainnya, peraturan perundangan, serta surat-surat komunikasi antara penguasa-penguasa
+
+Nusantara bagian barat. Terdapat pula beberapa prasasti dari periode awalnya. == Prasasti dan kesusasteraan == Terdapat
+
+tiga [[prasasti]] yang penting: # Prasasti di [[Pagar Ruyung]], [[Minangkabau]] (1356) ditulis dalam huruf [[India]]
+
+mengandung [[prosa]] Melayu Kuno dan beberapa baris sajak dalam [[bahasa Sanskerta]]. Bahasanya berbeda sedikit dengan
+
+bahasa batu bertulis abad ke-7. # [[Prasasti Minyetujoh]], [[Aceh]] ([[1380]]), untuk pertama kalinya mencatat penggunaan
+
+kata-kata [[bahasa Arab|Arab]] seperti kata "nabi", "Allah", dan "rahmat". # Prasasti di [[Prasasti Terengganu|Kuala
+
+Berang]], [[Terengganu]] ([[1303]]-[[1387]]) ditulis dalam [[huruf Arab Melayu]]. Ini membuktikan tulisan Arab telah telah
+
+digunakan dalam [[bahasa Melayu]] pada abad itu. Ketiga prasasti ini merupakan bukti-bukti terakhir perkembangan bahasa
+
+Melayu berbentuk batu bertulis, karena setelah [[abad ke-14]], muncul kesusasteraan Melayu dalam bentuk tulisan. == Zaman
+
+kejayaan == Perkembangan bahasa Melayu Klasik Kejayaannya dapat dibagi dalam tiga zaman penting: * [[Kesultanan Melaka]] *
+
+[[Kesultanan Aceh]] * [[Kesultanan Johor-Riau]] Di antara tokoh-tokoh penulis yang penting ialah [[Hamzah al-Fansuri|
+
+Hamzah Fansuri]] dari [[Pancur]]/Barus, [[Syamsuddin al-Sumaterani]], [[Syeikh Nuruddin al-Raniri]] dari Aceh, dan [[Abdul
+
+Rauf al-Singkel]] dari [[Singkil]]. == Ciri-ciri bahasa Melayu klasik == * kalimat: panjang, berulang, berbelit-belit. *
+
+banyak kalimat pasif * menggunakan bahasa istana * kosakata klasik: ratna mutu manikam, edan kesmaran (mabuk asmara),
+
+sahaya, masyghul (bersedih) * banyak menggunakan perdu perkataan (kata pangkal ayat): sebermula, alkisah, hatta, adapun. *
+
+kalimat sungsang * banyak menggunakan akhiran ''pun'' dan ''lah''
+
+
+Migrasi 1 pranala interwiki, karena telah disediakan oleh Bahasa Melayu modern''' adalah bahasa yang berawal pada [[abad
+
+ke-19]]. Hasil karangan [[Abdullah bin Abdulkadir Munsyi|Munsyi Abdullah]]-lah yang dianggap sebagai permulaan zaman
+
+'''[[bahasa Melayu]] modern'''. Sebelum penjajahan [[Inggris]] di Malaysia, [[bahasa Melayu]] mencapai kedudukan yang
+
+tinggi, berfungsi sebagai bahasa perantara, administratif, kesusasteraan, dan bahasa pengantar di pusat pendidikan Islam.
+
+Setelah [[Perang Dunia II]], [[Inggris]] menjadikan [[bahasa Inggris]] sebagai pengantar dalam sistem pendidikan. Setelah
+
+Malaysia merdeka, Perlembagaan Persekutuan Perkara 152 menetapkan bahasa Melayu sebagai bahasa kebangsaan Malaysia. Akta
+
+Bahasa Kebangsaan 1963/1967 menetapkan [[bahasa Melayu]] sebagai bahasa resmi negara [[Malaysia]]. [[Laporan Razak]] 1956
+
+menetapkan bahasa Melayu sebagai pengantar dalam sistem pendidikan negara. Selain di [[Malaysia]], [[bahasa Melayu]] juga
+
+menjadi [[Bahasa Resmi]] di [[Singapura]] dan [[Brunei]]. Di [[Timor Leste]] dan [[Indonesia]] digunakan bahasa [[Bahasa
+
+Indonesia]], sebuah dialek standar atau baku dari [[bahasa melayu]].
+
+'''Moskwa''' atau '''Moskow''' , ''Moskva'') adalah ibu kota [[Federasi Rusia]] sekaligus pusat politik, ekonomi, budaya,
+
+dan sains utama di negara tersebut. Moskwa adalah kota berpenduduk terbanyak di [[Federasi Rusia]] dan [[Eropa]] serta
+
+menjadi kawasan urban terbesar ke-6 di dunia.Kota ini pertama kali disebut keberadaannya pada tahun [[1147]]. Sebelumnya,
+
+Moskwa juga pernah menjadi ibu kota [[Ketsaran Rusia]] hingga dipindahkan oleh [[Pyotr I dari Rusia|Pyotr yang Agung]]
+
+pada masa [[Kekaisaran Rusia]] ke [[Sankt-Peterburg]], sebuah kota baru yang dibangun di pesisir [[Laut Baltik]] yang
+
+direbut dari [[Swedia]] setelah kalah perang melawan Rusia. Pasca-[[Revolusi Oktober]], atas prakarsa [[Vladimir Lenin]],
+
+Moskwa kembali menjadi ibu kota [[RSFS Rusia|Rusia]] sekaligus [[Uni Soviet]] sejak [[1922]]�[[1991]]. Kota ini dilayani
+
+oleh jaringan transportasi yang tersebar di seluruh penjuru kota, termasuk di dalamnya empat bandar udara internasional,
+
+sembilan stasiun kereta api, dan [[Metro Moskwa|sistem kereta api bawah tanah]] yang jumlah penumpangnya hanya kalah dari
+
+[[Angkutan cepat di Tokyo|Tokyo]] dan [[Seoul Metropolitan Subway|Seoul]]. Sistem kereta api bawah tanahnya ini juga
+
+merupakan salah satu [[tengaran]] kota ini selain [[Kremlin]] dan [[Katedral Santo Basil]] karena arsitektur 194
+
+stasiunnya yang beragam. == Sejarah == Nama Moskwa diambil dari [[Sungai Moskwa|nama sungai]] yang membelah kota ini
+
+(dengan nama lama dalam {, ''grad Moskov'', terjemahan harfiahnya 'kota di tepi Sungai Moskwa'). Dalam catatan sejarah,
+
+nama kota ini disebut pertama kali pada tahun [[1147]] kala [[Yuri Dolgorukiy]] berkata kepada seorang pangeran dari
+
+[[Novhorod-Siverskyi|Novgorod-Severski]], "datanglah kemari, saudaraku, ke Moskwa.
+
+Sembilan tahun kemudian, pada tahun [[1156]], Pangeran Yuri Dolgorukiy dari [[Rostov]] memerintahkan pembangunan tembok
+
+kayu, Kremlin, yang belakangan harus dibangun berulang kali, mengelilingi Moskwa yang saat itu sedang berkembang.Pasca-
+
+serangan [[Kekaisaran Mongol|bangsa Mongol]] pada tahun [[1237]]�[[1238]] yang membumihanguskan Moskwa dan menghabiskan
+
+penduduknya, kota ini berangsur-angsur pulih dan menjadi ibu kota [[Kepangeranan]] [[Vladimir-Suzdal]] pada tahun
+
+[[1327]].Letaknya yang strategis di hulu [[Sungai Volga]] membuat kota ini berkembang pesat. Moskwa lalu berkembang
+
+menjadi kepangeranan yang stabil dan makmur dengan nama [[Kadipaten Agung Moskwa]] selama bertahun-tahun. Pada masa
+
+kepemimpinan [[Ivan I dari Moskwa]], kota ini menggantikan [[Tver]] sebagai pusat politik Vladimir-Suzdal dan menjadi
+
+satu-satunya kota penghimpun pajak untuk para [[Invasi Mongol ke Rusia|penguasa Mongol-Tatar]]. Dengan membayar upeti
+
+tinggi, Ivan berhasil memperoleh keistimewaan dari [[Khan (gelar)|Khan]]. Keistimewaan itu berupa kelonggaran kepada Ivan
+
+untuk mewariskan wilayah Moskwa kepada anak tertuanya tanpa harus membagi rata kepada anak-anaknya yang lain. Sementara
+
+itu, penolakan Moskwa terhadap kekuasaan asing terus tumbuh. Pada tahun [[1380]], Pangeran [[Dmitry Donskoy]] memimpin
+
+tentara Rusia bersatu dalam [[Perang Kulikovo]] yang menjadi salah satu kemenangan penting melawan [[Gerombolan Emas|
+
+bangsa Tatar]]. Akan tetapi, perang itu bukanlah perang penentu kemenangan karena dua tahun kemudian, Khan [[Tokhtamysh]]
+
+menyerang balik Moskwa. Baru pada tahun [[1480]], [[Ivan III dari Rusia|Ivan III]] [[Pertahanan besar di Sungai Ugra|
+
+berhasil membebaskan bangsa Rusia]] dari kendali bangsa Tatar sehingga membuat Moskwa menjadi pusat kekuasaan di Rusia.
+
+Pada masa kepemimpinan Ivan III, kota ini menjadi ibu kota kekaisaran yang meliputi semua wilayah Rusia saat ini dan
+
+wilayah-wilayah lain di sekitarnya. Pada tahun [[1571]], [[Kekhanan Krimea|bangsa Tatar Krimea]] menyerang dan [[Perang
+
+Rusia-Krimea|menjarah Moskwa]], membumihanguskan semua bangunan yang ada, kecuali Kremlin. Pada tahun [[1609]], pasukan
+
+[[Tentara Swedia]] yang dipimpin oleh [[Jacob de la Gardie]] dan [[Evert Horn]] memulai perjalanan panjang mereka dari
+
+[[Novgorod Raya]] ke Moskwa untuk membantu [[Tsar]] [[Vasili IV dari Rusia|Vasili IV]]. Para tentara itu sampai di Moskwa
+
+pada tahun [[1610]] dan ikut meredam pemberontakan melawan Tsar, tetapi pulang begitu saja setahun kemudian. Tak berapa
+
+lama, datanglah pasukan Tentara [[Persemakmuran Polandia-Lituania|Polandia-Lituania]] menyerang Moskwa. Dalam [[Perang
+
+Polandia-Moskwa (1605�1618)|Perang Polandia-Moskwa]] itu, [[Hetman]] [[Stanis?aw ?�?kiewski]] memasuki Moskwa setelah
+
+berhasil mengalahkan Rusia dalam [[Perang Klushino]]. Abad ke-17 diwarnai oleh banyak pemberontakan rakyat seperti [[Zaman
+
+Kekacauan|pembebasan Moskwa dari penjajahan Polandia-Lituania]] ([[1612]]), [[Kerusuhan Garam]] ([[1648]]), [[Kerusuhan
+
+Tembaga]] ([[1662]]), dan [[Pemberontakan Moskwa 1682]]. Wabah [[Maut Hitam]] mendera Moskwa pada tahun [[1570]]�[[1571]],
+
+[[1592]], lalu [[1654]]�[[1656]] Kota ini kehilangan statusnya sebagai ibu kota Rusia pada tahun [[1712]] pasca-pendirian
+
+[[Sankt-Peterburg]] oleh [[Pyotr I dari Rusia|Pyotr yang Agung]] yang terletak di pesisir [[Laut Baltik]] sembilan tahun
+
+sebelumnya. [[Wabah Pes Rusia 1770�1772|Wabah pes yang lagi-lagi mendera Rusia]] pada tahun [[1771]] merupakan wabah pes
+
+terakhir yang menyebar luas di wilayah Rusia bagian tengah. Di Moskwa saja, wabah itu merenggut nyawa 100.000 orang. Dalam
+
+[[invasi Perancis ke Rusia]] pada tahun [[1812]], penduduk Moskwa [[Moskwa Lautan Api (1812)|membumihanguskan kota]]
+
+sebelum meninggalkannya karena pasukan tentara [[Napoleon I dari Perancis|Napoleon]] mulai memasuki kota itu pada tanggal
+
+[[14 September]]. Aksi pembumihangusan itu memaksa pasukan ''[[Grande Arm�e]]'' pimpinan Napoleon itu mundur karena
+
+dilanda kelaparan dan kedinginan, bahkan hampir binasa akibat kejamnya musim dingin di Rusia dan adanya serangan sporadis
+
+dari pasukan militer Rusia. Tercatat 400.000 prajurit tewas dan hanya beberapa ratus ribu yang berhasil pulang. Pada bulan
+
+[[Januari]] [[1905]], jabatan gubernur kota atau [[Daftar Kepala Pemerintahan Moskwa|wali kota]] secara resmi dibentuk di
+
+Moskwa dengan Alexander Adrianov sebagai pejabat pertamanya. Sebagai akibat dari [[Revolusi Oktober]], pada tanggal [[12
+
+Maret]] [[1918]],Moskwa dijadikan sebagai ibu kota [[Republik Sosialis Federasi Soviet Rusia]], lalu [[Uni Soviet]] kurang
+
+dari lima tahun kemudian.Selama [[Perang Patriotik Raya]], [[Komite Pertahanan Negara]] Uni Soviet dan Staf Umum [[Tentara
+
+Merah]] berkedudukan di Moskwa. Pada tahun [[1941]], 16 divisi sukarelawan nasional (terdiri atas lebih dari 160.000
+
+orang), 25 batalyon (18.500 orang), dan 4 resimen teknik mesin dibentuk dengan anggota penduduk Moskwa. Dalam [[Perang
+
+Moskwa]] pada bulan [[November]] [[1941]], mereka berhasil menghentikan [[Pusat Kelompok Angkatan Darat]] [[Jerman Nazi]]
+
+di batas terluar kota itu, lalu mengusirnya. Sejumlah besar pabrik dievakuasi, bersamaan dengan sebagian besar lembaga
+
+pemerintah. Sejak tanggal [[20 Oktober]] [[1941]], Moskwa dinyatakan berada dalam kepungan musuh. Para penduduk Moskwa
+
+yang bertahan membangun dan mengawasi [[perang antitank|penangkis tank]] kala kota itu dihantui serangan udara. [[Josef
+
+Stalin]] menolak beranjak pergi dari Moskwa sehingga para staf umum dan anggota [[Dewan Komisar Rakyat]] mau tidak mau
+
+juga harus bertahan di kota itu. Meski dikepung dan dihujani bom udara oleh musuh, pembangunan [[Metro Moskwa]] terus
+
+berlanjut sehingga tidak heran bila beberapa jalur baru metro dibuka hanya beberapa saat setelah perang berakhir. Jumlah
+
+korban perang di pihak [[Jerman Nazi]] maupun [[Uni Soviet]] dalam [[Perang Moskwa]] masih diperdebatkan hingga sekarang
+
+karena beberapa sumber menyebutkan perkiraan yang cukup berbeda. Jumlah korban tewas dalam perang antara tanggal [[30
+
+September]] [[1941]] hingga [[7 Januari]] [[1942]] diperkirakan antara 248.000 sampai 400.000 jiwa di pihak [[Wehrmacht]]
+
+dan antara 650.000 sampai 1.280.000 jiwa di pihak [[Tentara Merah]].''Ensiklopedia Moskwa'', [[Ensiklopedia Besar Rusia]],
+
+Moskwa, 1997, entri "Perang Moskwa".[[Ensiklopedia Besar Soviet]], Moskwa, 1973�78, entri "Perang Moskwa 1941�42". Pada
+
+tanggal [[1 Mei]] [[1944]], medali bertajuk ''Untuk Pertahanan Moskwa'' mulai dianugerahkan. Pada tahun [[1947]], mulai
+
+dianugerahkan pula medali lain bertajuk ''Memperingati 800 Tahun Moskwa''. Untuk memperingati 20 tahun [[Hari Kemenangan
+
+(9 Mei)|kemenangan atas Jerman Nazi]], Moskwa menjadi salah satu dari 12 kota di [[Uni Soviet]] yang dianugerahi gelar
+
+[[Kota Pahlawan (Uni Soviet)|Kota Pahlawan]]. Pada tahun [[1980]], Moskwa menjadi tuan rumah [[Olimpiade Musim Panas
+
+1980|Olimpiade Musim Panas]] yang [[pemboikotan Olimpiade Musim Panas 1980|diboikot oleh Amerika Serikat dan beberapa
+
+negara lainnya]] karena keikutsertaan Uni Soviet dalam [[Perang Afganistan]] di penghujung tahun [[1979]]. Pada tahun
+
+[[1991]], Moskwa menjadi panggung [[percobaan kudeta Uni Soviet 1991|percobaan kudeta yang gagal]] oleh para pejabat
+
+pemerintah yang menolak reformasi [[Mikhail Gorbachev|Gorbachev]]. Saat [[pembubaran Uni Soviet|Uni Soviet bubar]] pada
+
+tanggal [[30 Desember]] [[1991]], Moskwa bertahan sebagai ibu kota [[Federasi Rusia|Rusia]]. Sejak saat itu, masuknya
+
+[[sistem ekonomi pasar]] di Moskwa membuat toko, jasa, arsitektur, dan gaya hidup kebarat-baratan tumbuh subur. Pada tahun
+
+[[1998]], Moskwa menjadi tuan rumah [[World Youth Games 1998|World Youth Games]] pertama dan pada tahun [[2013]] menjadi
+
+tuan rumah [[Kejuaraan Dunia Atletik 2013|Kejuaraan Dunia Atletik]].
+
+
+Adapun 668.409 jiwa yang terdaftar dari pangkalan data administratif tidak dapat menyebutkan suku bangsanya. Proporsi suku
+
+bangsa kelompok yang tidak dapat menyebutkan suku bangsanya ini diperkiran sama dengan kelompok yang dapat menyebutkan
+
+suku bangsanya di atas. Jumlah penduduk resmi Moskwa didasarkan pada penduduk yang memegang dokumen "penduduk permanen".
+
+Berdasarkan Badan Migrasi Federal Rusia, Moskwa juga dihuni oleh 1,8 juta "tamu resmi" yang membawa dokumen resmi berupa
+
+visa atau dokumen lain yang serupa sehingga jumlah penduduk resmi kota ini mencapai 13,3 juta jiwa. Jumlah "tamu tak
+
+resmi" yang tidak membawa dokumen resmi, sebagian besar berasal dari [[Asia Tengah]], diperkirakan sebanyak 1 juta jiwa
+
+sehingga menambah jumlah penduduk kota ini menjadi sekitar 14,3 juta jiwa === Agama === [[Kristen]] adalah agama utama
+
+penduduk Moskwa dengan [[Gereja Ortodoks Rusia|Kristen Ortodoks]] sebagai [[denominasi Kristen|denominasi]] yang paling
+
+banyak dianut. Moskwa adalah pusat [[Gereja Ortodoks Timur]] di Rusia yang telah menjadi agama negeri itu secara turun-
+
+temurun dan dianggap sebagai warisan sejarah Rusia berdasarkan undang-undang yang disahkan tahun [[1997]].Agama lain yang
+
+dianut penduduk Moskwa meliputi [[Islam di Rusia|Islam]], [[Rodnovery]], [[Protestanisme di Rusia|Kristen Protestan]],
+
+[[Katolik Roma di Rusia|Katolik]], [[Lamaisme]], [[Buddhisme di Rusia|Buddha]], dan [[Yahudi]]. == Ekonomi ==	
+Moskwa adalah salah satu [[daftar kota menurut PDB|kota dengan ekonomi terbesar di Eropa]] dan berkontribusi terhadap 22% PDB Rusia.Pada tahun 2009, Moskwa menghasilkan 7.16 triliun rubel.Moskwa juga memiliki angka pengangguran terbesar di antara semua [[subyek federal Rusia]], dengan angka hanya 1% tahun 2010, dibandingkan dengan rata-rata nasional 7%. Gaji rata-rata di kota ini adalah 41.600 rubel, hampir 2 kali lipat dari rata-rata nasional 21.800 rubel.Moskwa berperan besar sebagai pusat keuangan Rusia dan rumah bagi bank-bank terbesar di negara ini dan perusahaan besar lainnya, seperti raksasa gas alam [[Gazprom]]. Moskwa menyumbangkan 17% penjualan ritel Rusia dan 13% dari semua aktivitas konstruksi negara. Sejak [[krisis keuangan Rusia 1998]], berbagai sektor bisnis di kota ini telah menunjukkan pertumbuhan luar biasa. Pasar Cherkizovskiy adalah pasar terbesar di Eropa, dengan omzet harian diperkirakan mencapai 30 juta dolar dan lebih dari 10.000 pedagang dari berbagai negara (termasuk [[RRC]], [[Turki]], [[Azerbaijan]] dan [[India]]). Namun sayangnya ditutup bulan Juli 2009. Tahun 2008, Moskwa memiliki 74 miliuner dengan rata-rata kekayaan 5,9 milyar dolar, di atas New York dengan 71 miliuner. Namun, per 2009, hanya tersisa 27 miliuner. Rusia kehilangan 52 miliuner akibat resesi.Miliuner terkaya di Rusia tahun 2009 adalah [[Mikhail Prokhorov]] dengan $9.5 milyar, di atas [[Roman Abramovich]] dengan $8.5 milyar di tempat kedua. Wanita terkaya Rusia adalah [[Yelena Baturina]], istri kedua Wali kota Moskwa Yuri Luzhkov. === Industri === [[Industri]] primer di Moskwa adalah [[industri kimia]], [[metalurgi]], [[industri makanan|makanan]], [[tekstil]], [[furnitur]], [[produksi energi]], [[rekayasa perangkat lunak]] dan [[mesin]].
+Pabrik Electrozavod adalah pabrik transformer pertama di Rusia. Penyulingan Kristall adalah penyulingan tertua di Rusia yang memproduksi berbagai macam [[vodka]], termasuk "[[Stolichnaya]]".Pabrik Perhiasan MoskwaSee also:  dan Jewellerprom adalah produsen perhiasan penting di Rusia; Jewellerprom dulunya memproduksi [[Orde Kemenangan]] yang eksklusif, diberikan pada Tentara Merah Uni Soviet pada Perang Dunia II. === Biaya hidup === Pada zaman [[Uni Soviet]], apartemen dipinjamkan pada rakyat oleh pemerintah menurut aturan meter persegi-per-orang (beberapa kelompok, termasuk seniman, pahlawan, dan ilmuwan terkenal diberi bonus untuk menghargai mereka). [[Kepemilikan pribadi]] dari apartemen terbatas sampai 1990an, ketika orang diperbolehkan untuk memiliki hak properti pada tempat yang mereka tinggali. Pada era Soviet, pemilik tempat tinggal harus membayar biaya jasa untuk tempat tinggal mereka. Tahun 2006, Mercer Human Resources Consulting menyematkan Moskwa sebagai [[daftar kota termahal untuk karyawan asing|kota termahal untuk karyawan asing]], di atas Tokyo, karena stabilnya [[rubel Rusia]] dan meningkatkan harga rumah di kawasan kota. Moskwa menempati peringkat teratas pada [[daftar kota termahal]] untuk ketiga kalinya berturut-turut. Tahun 2014, Moskwa menempati peringkat ke-9.
+== Sains dan pendidikan == Pendidikan di Rusia}} Ada 1.696 sekolah menengah atas di Moskwa dan 91 college. Selain itu, ada 222 institusi pendidikan tinggi, termasuk 60 universitas negeri dan [[Universitas Negeri Moskwa|Universitas Negeri Lomonosov]] yang didirikan tahun 1755.Gedung universitas utama terletak di Vorobyovy Gory ([[Sparrow Hills]]) tingginya |240|m|ft}} dan ketika selesai, menjadi gedung tertinggi di Eropa. Universitas ini memiliki lebih dari 30.000 mahasiswa sarhana dan 7.000 mahasiswa pascasarjana, tersebar di 29 fakultas dan 450 departemen. Universitas Negeri Rusia memiliki koleksi lebih dari 9 juta buku yang terbesar di Rusia. [[Universitas Kedokteran Negeri Pertama Moskwa I.M. Sechenov]] (dari [[Ivan Sechenov]]) atau dulunya [[Akademi Kedokteran Moskwa]] adalah sekolah kedokteran di Moskwa. Didirikan tahun 1785 sebagai fakultas dari Universitas Negeri Moskwa. Universitas ini adalah sekolah kedokteran terbesar di Eropa dan Rusia dengan lebih dari 9.200 mahasiswa di 115 departemen. [Moskwa adalah pusat keuangan utama [[Federasi Rusia]] dan [[Commonwealth of Independent States|CIS]] dan terkenal akan sekolah bisnisnya. Beberapa yang terbaik di antaranya adalah [[Akademi Keuangan di bawah Pemerintah Federasi Rusia]]; [[Universitas Ekonomi Rusia Plekhanov]]; [[Universitas Manajemen Negeri]], dan [[Universitas Negeri - Sekolah Tinggi Ekonomi]]. Sekolah ini menawarkan program sarjana di bidang manajemen, keuangan, akuntansi, pemasaran, real estate dan teori ekonomi, juga program master dan [[MBA]]. [[Universitas Teknik Negeri Moskwa Bauman]], didirikan 1830, terletak di pusat Moskwa dan memiliki lebih dari 18.000 sarjana dan 1.000 pascasarjana dengan pendidikan bidang sains dan teknik.??????? (Bauman Moscow State Technical University)| [[Konservatorium Moskwa]],adalah sekolah musik terkenal di Rusia yang didirikan tahun 1866. Beberapa alumninya antara lain [[Sergei Rachmaninoff|Sergey Rachmaninoff]], [[Alexander Scriabin]], [[Aram Khachaturian]], [[Mstislav Rostropovich]], dan [[Alfred Schnittke]].
+
+[Institut Sinematografi Gerasimov]], disingkat VGIK, adalah institusi pendidikan [[sinematografi]] tertua di dunia, didirikan [[Vladimir Gardin]] tahun 1919. [[Sergei Eisenstein]], [[Vsevolod Pudovkin]], dan [[Aleksey Batalov]] adalah beberapa profesornya dan [[Mikhail Vartanov]], [[Sergei Parajanov]], [[Andrei Tarkovsky]], [[Nikita Mikhalkov]], [[Eldar Ryazanov]], [[Alexander Sokurov]], [[Yuriy Norshteyn]], [[Aleksandr Petrov (animator)|Aleksandr Petrov]], [[Vasily Shukshin]], [[Konrad Wolf]] adalah beberapa alumninya yang terkenal.[[Institut Sinematografi Gerasimov]].]] [[Institut Hubungan Internasional Negeri Moskwa]], didirikan 1944, saat ini menjadi sekolah terbaik di Rusia untuk bidang hubungan internasional dan diplomasi. Universitas ini memiliki sekitar 4.500 mahasiswa dan lebih dari 700.000 buku - 20.000 di antaranya buku-buku langka Institut terkenal lainnya adalah [[Institut Fisika dan Teknologi Moskwa]], juga dikenal dengan [[Phystech]], [[Fyodorov Eye Microsurgery Complex]], didirikan tahun 1918 oleh ahli bedah mata Rusia [[Svyatoslav Fyodorov]], [[Institut Penerbangan Moskwa]], Moscow Motorway Institute, dan [[Institut Teknik Fisika Moskwa]]. [[Institut Fisika dan Teknologi Moskwa]] telah menghasilkan beberapa pemenang [[hadiah Nobel]], seperti [[Pyotr Kapitsa]], [[Nikolay Semyonov]], [[Lev Landau]] dan [[Alexander Prokhorov]], sedangkan [[Institut Teknik Fisika Moskwa]] terkenal berkat penelitiannya pada [[fisika nuklir]]. Sekolah militer tertinggi di Rusia adalah [[Akademi Militer Frunze|Akademi Bersenjata Angkatan Bersenjata Federasi Rusia]]. Moskwa juga pusat sains terbesar di Rusia. Kantor pusat [[Akademi Sains Rusia]] berada di kota ini. Ada juga [[Institut Kurchatov]], terkenal dalam bidang energi nuklir di Rusia. Ada juga [[Institut Fisika Teoretis Landau]], [[Institut Fisika Teoretis dan Percobaan]], [[Institut Problema Fisika|Institut Kapitza untuk Problema Fisika]] dan [[Institut Matematika Steklov]]. Ada sekitar 452 perpustakaan di kota ini, 168 di antaranya untuk anak-anak. [[Perpusatakaan Negeri Rusia]] didirikan 1862 adalah perpustakaan nasional Rusia. Total rak buku di sini mencapai 275|km|0 dengan koleksi 42 juta item, termasuk lebih dari 17 juta buku, 13 juta jurnal, 350.000 buku musik, dan 150.000 peta, sehingga menjadikannya terbesar di Rusia dan salah satu terbesar di dunia. Item dengan 247 bahasa berbeda menyumbang sekitar 29 persen dari koleksi. Perpustakaan Negeri Sejarah, didirikan 1863, adalah perpustakaan terbesar untuk koleksi [[sejarah Rusia]]. Koleksinya mencapai 4 juta item dalam 112 bahasa (termasuk 47 bahasa di zaman Soviet), termasuk [[heraldry]], [[numismatik]], dan [[sejarah sains]].Untuk pendidikan dasar dan menengah, [[Clifford J. Levy]] dari ''[[The New York Times]]'' mengatakan "Moskwa memiliki beberapa sekolah negeri yang kuat, namun sistemnya secara keseluruhan belumlah baik, disebabkan tercemar korupsi pasca-Soviet. Orangtua tidak jarang memberi suap agar anaknya bia diterima di sekolah negeri yang bagus. Mereka juga memberi uang agar diberikan nilai yang bagus.
+
+
+== Transportasi == Transportasi di Moskwa}} === Udara ===  Ada 4 bandara komersial utama yang melayani kota ini: * [[Bandar Udara Internasional Sheremetyevo]] (SVO) * [[Bandar Udara Internasional Domodedovo]] (DME) * [[Bandar Udara Internasional Vnukovo]] (VKO) * [[Bandar Udara Internasional Ostafyevo]] (OSF) Bandar Udara Internasional Sheremetyevo adalah pintu masuk utama untuk turis asing, mendatangkan 60% dari seluruh jumlah penerbangan internasional. Bandara ini juga menjadi rumah bagi semua anggota [[SkyTeam]], dan penghubung utama bagi [[Aeroflot]]. Domodedovo adalah bandara dengan jumlah penumpang terbesar di Rusia dan pintu masuk utama untuk penerbangan domestik jarak jauh dan destinasi kawasan CIS. Sebagian besar anggota [[Star Alliance]] menggunakan Domodedovo sebagai penghubung internasional utama. Sedangkan Bandara Vnukovo digunakan oleh maskapai [[Turkish Airlines]], [[Lufthansa]], [[Transaero]] dan beberapa maskapai lain. Bandara Ostafyevo digunakan untuk bisnis penerbangan. Bandar udara di Moskwa jaraknya bervariasi dari pusat kota: Domodedovo paling jauh, berjarak |22|km|0|; Vnukovo berjarak |11|km|0; Sheremetyevo berjarak 10|km|0|; dan Ostafievo, paling dekat, berjarak 8|km|mi}} dari MKAD. Ada juga bandara lain yang lebih kecil dekat dengan Moskwa seperti [[Bandar Udara Myachkovo]], digunakan untuk pesawat pribadi, helikopter, dan penerbangan charter. === Air === Moskwa memilki 2 terminal penumpang, ([[Terminal Sungai Selatan]] dan [[Terminal Sungai Utara]] atau Rechnoy vokzal), untuk kapal reguler yang melewati [[Sungai Moskva]] dan [[Sungai Oka]]. Ada juga 3 pelabuhan barang yang melayani kota ini. === Kereta ===  Moskwa memiliki beberapa stasiun kereta di dalam kota. 9 stasiun utama di Moskwa adalah:: * [[Terminal Kereta Belorussky]] * [[Terminal Kereta Kazansky]] * [[Terminal Kereta Kiyevsky]] * [[Terminal Kereta Kursky]] * [[Terminal Kereta Leningradsky]] * [[Terminal Kereta Paveletsky]] * [[Terminal Kereta Rizhsky]] * [[Terminal Kereta Savyolovsky]] * [[Terminal Kereta Yaroslavsky]] Terminalnya terletak dekat pusat kota dan bersinggungan dengan jalur 5, yang merupakan jalur lingkar. Tiap stasiun memiliki tujuan yang berbeda-beda ke Eropa dan Asia. Selain itu masih banyak lagi stasiun kereta yang lebih kecil di Moskwa. Karena tiket kereta cukup murah, maka moda ini digemari oleh penduduk Rusia, terutama perjalanan ke [[Saint Petersburg]], kota terbesar kedua Rusia. Moskwa juga menjadi terminus barat [[Jalur kereta api Trans-Siberia]], yang rutenya memanjang sejauh 9300|km|precision=0}} ke kota [[Vladivostok]] di pantai [[Laut Pasifik]]. Pinggiran dan kota satelit juga terhubung dengan jaringan komuter [[elektrichka]]. Elektrichka berangkat dari tiap-tiap terminal ini sampai stasiun besar sejauh |140|km|mi|0|. === Metro === {{Main|Metro Moskwa}} Peta rute [[Metro Moskwa]]]] Transportasi lokal yang ada adalah [[Metro Moskwa]], sistem angkutan cepat yang terkenal berkat seni, [[mural]], [[mosaik]], dan [[chandelier]]. Ketika dibuka pertama kali tahun 1935, sistem ini hanya punya 2 jalur. Saat ini, Metro Moskwa terdiri dari 12 jalur dengan total 194 stasiun. Metro di kota ini adalah salah satu sistem metro bawah tanah paling dalam di dunia; misalnya stasiun [[Park Pobedy (Metro Moskwa)|Park Pobedy]], selesai tahun 2003 dengan kedalaman|84|m}}, memiliki [[eskalator]] terpanjang di Eropa. Metro Moskwa juga salah satu metro tersibuk dunia, melayani sekitar 10 juta penumpang tiap harinya.
+
+''P�tria''''' adalah [[lagu kebangsaan]] [[Timor Leste]]. Liriknya ditulis oleh Francisco Borja da Costa sementara lagunya digubah Afonso de Araujo pada tahun [[1975]], lagu ini dijadikan lagu kebangsaan pada tahun [[2002]]. Lagu ini hanya dinyanyikan dalam versi [[bahasa Portugis]] dan belum mempunyai versi [[bahasa Tetun]] yang merupakan salah satu bahasa nasional [[Timor Leste]].
+== Terjemahan Bahasa Indonesia ==
+ Tanah air, tanah air, Timor Leste negara kita,
+ Kejayaan bagi rakyat dan pejuang-pejuang kemerdekaan
+ Tanah air, tanah air, Timor Leste negara kita,
+ Kejayaan bagi rakyat dan pejuang-pejuang kebebasan
+ Kita taklukkan kolonialisme, Kita berseru:
+ "Hancurkan Imperialisme!"
+ Negeri merdeka, rakyat merdeka,
+ katakan tidak, tidak, tidak kepada penindasan.
+Majulah semua, bersatu teguh, penuh ketekatan
+Dalam perjuangan menentang imperialisme,
+musuh rakyat, Menuju kemenangan terakhir,
+maju ke revolusi.
+Lagu kebangsaan di Asia Tenggara}
+
+'''Sastra Melayu''' Klasik bermula pada [[abad ke-16]] Masehi. Semenjak itu sampai sekarang gaya bahasanya tidak banyak berubah. [[Dokumen]] pertama yang ditulis dalam bahasa Melayu klasik adalah sepucuk [[Surat Sultan Abu Hayat Ternate|surat]] dari [[Monarki|raja]] [[Ternate]], [[Sultan]] [[Abu Hayat]] kepada [[Monarki|raja]] Jo�o III di [[Portugal]] dan bertarikhkan tahun [[1521]] [[Masehi]]. == Daftar bentuk sastra Melayu == === Gurindam === {{utama|Gurindam}} [[Gurindam]] adalah satu bentuk puisi Melayu lama yang terdiri dari dua baris kalimat dengan irama (rima) akhir yang sama yaitu (a-a), yang merupakan satu kesatuan yang utuh. Baris pertama berisikan semacam soal, masalah atau perjanjian dan baris kedua berisikan jawabannya atau akibat dari masalah atau perjanjian pada baris pertama tadi. ==== [[Gurindam Lama]] ==== contoh : :Pabila banyak mencela orang Itulah tanda dirinya kurang Dengan ibu hendaknya hormat Supaya badan dapat selamat==== Gurindam Dua Belas ==== Kumpulan gurindam yang dikarang oleh [[Raja Ali Haji]] dari [[Kepulauan Riau]]. Dinamakan ''[[Gurindam Dua Belas]]'' oleh karena berisi 12 pasal, antara lain tentang ibadah, kewajiban raja, kewajiban anak terhadap orang tua, tugas orang tua kepada anak, budi pekerti dan hidup bermasyarakat. === Hikayat === {{utama|Hikayat}} [[Hikayat]] adalah salah satu bentuk sastra prosa yang berisikan tentang kisah, cerita, dongeng maupun sejarah. Umumnya mengisahkan tentang kehebatan maupun kepahlawanan seseorang lengkap dengan keanehan, kesaktian serta mukjizat tokoh utama. Salah satu hikayat yang populer di Riau adalah ''Yong Dolah''. === Karmina === {{utama|Karmina}} [[Karmina]] atau dikenal dengan nama pantun kilat adalah pantun yang terdiri dari dua baris. Baris pertama merupakan sampiran dan baris kedua adalah isi. Memiliki pola sajak lurus (a-a). Biasanya digunakan untuk menyampaikan sindiran ataupun ungkapan secara langsung. Contoh Sudah gaharu cendana pula Sudah tahu masih bertanya pula === Pantun === {{utama|Pantun}} Pantun merupakan sejenis puisi yang terdiri atas 4 baris bersajak a-b-a-b, a-b-b-a, a-a-b-b. Dua baris pertama merupakan sampiran, yang umumnya tentang alam (flora dan fauna); dua baris terakhir merupakan isi, yang merupakan tujuan dari pantun tersebut. 1 baris terdiri dari 4-5 kata, 8-12 suku kata. Contoh Pantun Kayu cendana di atas batu Sudah diikat dibawa pulangAdat dunia memang begitu Benda yang buruk memang terbuang=== Seloka === {{utama|Seloka}} [[Seloka]] merupakan bentuk puisi Melayu Klasik, berisikan pepatah maupun perumpamaan yang mengandung senda gurau, sindiran bahkan ejekan. Biasanya ditulis empat baris memakai bentuk pantun atau syair, kadang-kadang dapat juga ditemui seloka yang ditulis lebih dari empat baris. :contoh seloka lebih dari 4 baris: ::Baik budi emak si Randang::Dagang lalu ditanakkan Tiada berkayu rumah diruntuhkan::Anak pulang kelaparan Anak dipangku diletakkan Kera dihutan disusui === Syair === {{utama|Syair}} [[Syair]] adalah puisi atau karangan dalam bentuk terikat yang mementingkan irama sajak. Biasanya terdiri dari 4 baris, berirama aaaa, keempat baris tersebut mengandung arti atau maksud penyair (pada pantun, 2 baris terakhir yang mengandung maksud). Syair berasal dari Arab. === Talibun === {{utama|Talibun}} [[Talibun]] adalah sejenis puisi lama seperti pantun karena mempunyai sampiran dan isi, tetapi lebih dari 4 baris ( mulai dari 6 baris hingga 20 baris). Berirama abc-abc, abcd-abcd, abcde-abcde, dan seterusnya.Contoh Talibun :Kalau anak pergi ke pekan:Yu beli belanak beli :Ikan panjang beli dahulu :Kalau anak pergi berjalan Ibu cari sanakpun cari Induk semang cari dahulu.
+
+Jabatan '''Gubernur Jenderal''' ([[bahasa Belanda]]: ''Gouverneur-Generaal'') adalah jabatan penguasa tertinggi dalam pemerintahan [[Hindia Belanda]] yang baru diadakan pada tahun 1691. Setelah bangkrutnya VOC pada tahun 1799, aset-aset VOC di Hindia Belanda diserahkan kepada pemerintahan [[Belanda]], sehingga mulai saat itu seorang Gubernur Jenderal benar-benar menjadi wakil dari pemerintahan Belanda. Jabatan Gubernur Jenderal hanya ada di wilayah jajahan Belanda di Hindia Belanda. Di Suriname, jajahan Belanda yang lain, gelar ini hanya Gubernur saja. Gubernur-Jenderal Hindia Belanda yang terakhir adalah Jhr A.W.L. Tjarda van Starkenborgh Stachouwer. Ia ditangkap oleh pasukan Jepang pada tahun 1942. Setelah dia, memang masih ada penguasa Hindia belanda, yaitu [[Hubertus Johannes van Mook]], [[Louis Joseph Maria Beel]], dan [[A.H.J. Lovink]], tapi selain legitimasinya diragukan, nomenklaturnya berada di bawah gubernur jendral.. Daftar berikut ini memuat nama-nama penguasa [[Hindia Belanda]] dari masa [[VOC]], pemerintahan [[Belanda|Kerajaan Belanda]], pemerintahan [[Britania Raya|Kerajaan Inggris]] hingga masa pendudukan [[Jepang|Kekaisaran Jepang]], dan pengakuan kedaulatan [[Republik Indonesia]]. Pada masa [[VOC]] dan penjajahan pemerintahan [[Belanda|Kerajaan Belanda]], para penguasa ini biasanya memiliki gelar '''[[Gubernur-Jenderal]]'''. Pada masa kekuasaan pemerintahan [[Britania Raya|Kerajaan Inggris]] ([[1811]]�[[1816]]), jabatan ini disebut ''Lieutenant-Governor'' ("Gubernur-Letnan").Dr. F. W. Stapel, ''Gouverneurs-Generaal van Nederlandsch-Indie'', Den Haag, 1941 IAE.nl: == Daftar Gubernur ==
+
+| 1. || [[Pieter Both]]
+| 2. || [[Gerard Reynst]]
+| 3. || [[Laurens Reael]]
+| 4. || [[Jan Pieterszoon Coen]]
+| 5. || [[Pieter de Carpentier]]
+| 6. || [[Jan Pieterszoon Coen]]
+| 7. || [[Jacques Specx]]
+| 8. || [[Hendrik Brouwer]]
+| 9. || [[Antonio van Diemen]]
+| 10. || [[Carel Reyniersz]]
+| 11. || [[Joan Maetsuycker]]
+| 12. || [[Rijckloff van Goens]]
+
+| 13. || [[Cornelis Speelman]]
+| 14. || [[Johannes Camphuys]]
+| 15. || [[Willem van Outhoorn]]
+| 16. || [[Joan van Hoorn]]
+| 17. || [[Abraham van Riebeeck]]
+| 18. || [[Christoffel van Swol]]
+| || [[Hendrick Zwaardecroon]]
+| 19. || [[Mattheus de Haan]]
+| 20. || [[Diederik Durven]]
+| 21. || [[Dirk van Cloon]]
+| 22. || [[Abraham Patras]]
+| 23. || [[Adriaan Valckenier]]
+| 24. || [[Johannes Thedens]]
+| 25. || [[Gustaaf Willem baron van Imhoff]]
+| 26. || [[Jacob Mossel]]
+| 27. || [[Petrus Albertus van der Parra]]
+| 28. || [[Jeremias van Riemsdijk]]
+| || [[Reinier de Klerk]]
+| 29. || [[Willem Arnold Alting]]
+| 30| [[Pieter Gerardus van Overstraten]]
+| 31. || [[Pieter Gerardus van Overstraten]]<
+| || [[Johannes Siberg]]
+| 32. || [[Albertus Wiese|Albertus Hendricus Wiese]]
+| 33. || [[Herman Willem Daendels]]
+| 34. || [[Jan Willem Janssens]
+| 35. || [[Gilbert Elliot-Murray-Kynynmound, 1st Earl of Minto|Lord Minto]]
+| 36. || [[Thomas Stamford Raffles]]
+| 37. || [[John Fendall]]
+| 38. || [[G.A.G.Ph. van der Capellen]]
+| 39. || [[Leonard Pierre Joseph du Bus de Gisignies]]
+| 40. || [[Johannes van den Bosch]]
+| 41. || [[J.C. Baud]]
+| 42. || [[Dominique Jacques de Eerens]]
+| 43. || [[C.S.W. van Hogendorp]]
+| 44. || [[P. Merkus]]
+| 45. || [[Jan Cornelis Reijnst]]
+| 46. || [[Jan Jacob Rochussen]]
+| 47. || [[A.J. Duymaer van Twist]]
+| 48. || [[Charles Ferdinand Pahud]]
+| || [[Ary Prins]]
+[[Ludolph Anne Jan Wilt Sloet van de Beele]]
+| || [[Ary Prins]]
+ [[Pieter Mijer]]
+ [[James Loudon]]
+ [[J.W. van Lansberge]]
+ [[Frederik s'Jacob]]
+ [[Otto van Rees]]
+ [[Carel Herman Aart van der Wijck]]
+ [[Willem Rooseboom]]
+[[Johannes Benedictus van Heutsz]]
+ [[A.W.F. Idenburg]]
+|- valign="top"
+ [[Johan Paul van Limburg Stirum]]"
+ [[Dirk Fock]]
+|- valign="top"
+ [[Andries Cornelis Dirk de Graeff]]
+ [[Bonifacius Cornelis de Jonge]]
+ [[A.W.L. Tjarda van Starkenborgh Stachouwer]]<
+[[Hubertus Johannes van Mook]]
+[[Louis Joseph Maria Beel]]
+ [[A.H.J. Lovink]]
+
+=== Masa kekuasaan [[Jepang]] ([[1942]]�[[1945]]) ===
+[[Pendudukan Jepang di Hindia Belanda|Diduduki pasukan Jepang]] antara tahun 1942 hingga 1945, yang diikuti oleh [[Revolusi Nasional Indonesia]] hingga tahun 1949. Indonesia menyatakan kemerdekaannya pada tanggal 17 Agustus 1945. [[Nugini Belanda]] diserahkan kepada Indonesia pada tahun 1963. Tanggal resmi menurut PBB adalah 27 Desember 1949 Ekspansi yang dilakukan Hindia Belanda di Kepulauan Indonesia.]] {{Sejarah Indonesia}} '''Hindia Belanda''' atau '''Hindia Timur Belanda''' Nederlands(ch)-Indi�}}) adalah sebuah daerah [[Imperium Belanda|jajahan Belanda]] yang wilayahnya saat ini dikenal dengan nama [[Republik Indonesia]]. Hindia Belanda dibentuk sebagai hasil dari nasionalisasi koloni-koloni [[Vereenigde Oostindische Compagnie]] (VOC), yang berada di bawah pemerintahan [[Republik Batavia|Belanda]] pada tahun 1800. Selama abad ke-19, daerah jajahan dan hegemoni Belanda diperluas, mencapai batas wilayah teritorial terbesar mereka pada awal abad ke-20. Hindia Belanda adalah salah satu koloni Eropa yang paling berharga di bawah kekuasaan [[Imperium Belanda]],dan berkontribusi pada keunggulan global Belanda dalam perdagangan rempah-rempah dan [[tanaman dagang|hasil bumi]] pada abad ke-19 sampai awal abad ke-20.Booth, Anne, et al. ''Indonesian Economic History in the Dutch Colonial Era'' (1990), Ch 8 Tatanan sosial kolonial didasarkan pada struktur rasial dan sosial yang kaku dengan para elit Belanda yang tinggal terpisah tetapi tetap berhubungan dengan penduduk pribumi yang dijajah mereka.R.B. Cribb and A. Kahin, hlm. 118 Istilah "''Indonesia''" mulai digunakan untuk lokasi geografis setelah tahun 1880. Pada awal abad 20, para intelektual lokal mulai mengembangkan konsep [[Indonesia]] sebagai negara dan bangsa, dan menetapkan panggung untuk gerakan kemerdekaan.Robert Elson,[[Pendudukan Jepang di Hindia Belanda|Pendudukan Jepang pada Perang Dunia II]] melemahkan sebagian besar negara kolonial dan ekonomi Belanda. Setelah Jepang [[Menyerahnya Jepang|menyerah]] pada bulan Agustus 1945, kaum nasionalis Indonesia mendeklarasikan [[Proklamasi Kemerdekaan Indonesia|kemerdekaan]] yang mereka perjuangkan selama [[Revolusi Nasional Indonesia]] yang terjadi pada bulan-bulan berikutnya. Belanda secara formal mengakui kedaulatan Indonesia pada [[Konferensi Meja Bundar]] tahun 1949 dan menyerahkan seluruh wilayah bekas jajahannya, dengan pengecualian wilayah [[Papua]] ([[Nugini Belanda]]), yang diserahkan ke Indonesia 14 tahun kemudian pada tahun 1963 berdasarkan ketentuan [[Persetujuan New York]] di [[Markas Besar Perserikatan Bangsa-Bangsa|Markas Besar PBB]]. == Etimologi == Kata ''Hindia'' berasal dari bahasaIndus}}. Nama asli ''Dutch Indies'' l|Nederlandsch-Indi�}}) diterjemahkan oleh orang Inggris sebagai "Hindia Timur Belanda", untuk membedakannya dengan [[Hindia Barat Belanda]]. Nama "Hindia Belanda" tercatat dalam dokumen [[Vereenigde Oostindische Compagnie]] (VOC) pada awal tahun 1620-an.} Para sejarawan yang menulis dalam bahasa Inggris menggunakan istilah ''Indi�'', ''Hindia'', ''Hindia Timur Belanda'', ''Hindia Belanda'', dan ''kolonial Indonesia'' secara bergantian.Gouda, Frances. ''Dutch Culture Overseas: Colonial Practice in the Netherlands Indies, 1900-1942'' (1996)  == Sejarah == === Kekuasaan VOC === Peta dunia yang menampilkan [[Imperium kolonial|kekuasaan kekuatan kolonial]], pendudukan Hindia Belanda dapat dilihat dengan warna jingga di wilayah [[Asia Tenggara]].]] Perusahaan Hindia Timur Belanda di Indonesia|Sejarah ekonomi Belanda (1500�1815)}} Berabad-abad sebelum orang-orang Eropa tiba, wilayah kepulauan Indonesia dihuni berbagai entitas, termasuk kerajaan-kerajaan perdagangan pesisir yang berorientasi komersial dan kerajaan agraris pedalaman (yang paling penting adalah [[Sriwijaya]] dan [[Majapahit]]).Taylor (2003) Bangsa Eropa pertama yang tiba adalah [[Portugal|Portugis]] pada tahun 1512. Setelah menemui gangguan terhadap akses rempah-rempah di Eropa,Ricklefs (1991),  [[Belanda]] melakukan ekspedisi pelayaran pertama ke Hindia Timur pada tahun 1595 untuk mendapatkan rempah-rempah secara langsung dari [[Asia]]. Ketika mereka menghasilkan keuntungan hingga 400%, ekspedisi Belanda lainnya segera menyusul. Menyadari potensi perdagangan [[Hindia Timur]], pemerintah Belanda menggabungkan para perusahaan pesaing ke [[Perusahaan Hindia Timur Belanda]] (''Vereenigde Oost-Indische Compagnie'' atau VOC). VOC diberikan hak istimewa untuk berperang, membangun benteng, dan membuat perjanjian di seluruh Asia. Ibu kota didirikan di [[Batavia]] (sekarang [[Jakarta]]), yang menjadi pusat jaringan perdagangan VOC di Asia.Vickers (2005), hlm. 10 Untuk monopoli asli mereka seperti [[pala]], [[paprika]], [[cengkeh]] dan [[kayu manis]], VOC dan kemudian pemerintah kolonial memperkenalkan tanaman asing untuk non-pribumi seperti [[kopi]], [[teh]], [[kakao]], [[tembakau]], [[karet]], [[gula]] dan [[opium]], dan menjaga kepentingan komersial mereka dengan mengambil alih wilayah sekitarnya. Penyelundupan, biaya perang, korupsi, dan kesalahan manajemen yang terus berlanjut menyebabkan kebangkrutan pada akhir abad ke-18. VOC secara resmi dibubarkan pada tahun 1800 dan barang-barangnya di kepulauan Indonesia (termasuk sebagian besar Jawa, sebagian Sumatera, sebagian besar [[Kepulauan Maluku|Maluku]], dan daerah pedalaman pelabuhan seperti [[Kota Makassar|Makassar]], [[Kota Manado|Manado]], dan [[Kota Kupang|Kupang]]) dinasionalisasi di bawah Republik Belanda sebagai Hindia Belanda.Ricklefs (1991),  Sejarah sosial === Politik Etis}} Para anggota [[Volksraad]] pada tahun 1918: D. Birnie (Belanda), [[Hok Hoei Kan|Kan Hok Hoei]] ([[Tionghoa-Indonesia|Tionghoa]]), R. Sastro Widjono dan M.N. Dwidjo Sewojo ([[Orang Jawa|Jawa]]).Jamuan '[[Selamatan]]' di [[Buitenzorg]], sebuah jamuan umum di kalangan umat [[Islam di Indonesia|Muslim]] Jawa.]] Pada tahun 1898, jumlah penduduk di Jawa telah mencapai angka 28 juta, sedangkan 7 juta jiwa lainnya menduduki pulau-pulau terluar Indonesia. Pada paruh pertama abad ke-20, imigrasi besar-besaran mulai dilakukan oleh orang Belanda dan Eropa lainnya menuju koloni, tempat mereka bekerja di sektor pemerintah atau swasta. Pada tahun 1930, ada lebih dari 240.000 orang dengan status hukum Eropa di koloni tersebut, sekitar 0.5% dari jumlah total populasi.Beck, Sanderson, (2008)  Sekitar 75% dari orang-orang Eropa ini pada faktanya orang asli Eurasia yang dikenal dengan sebutan [[Orang Indo dalam sejarah kolonial|Indo-Eropa]].
+Pihak penjajah Belanda membentuk kelas sosial atas istimewa yang terdiri dari prajurit, pegawai pemerintah, manajer, guru dan para pelopor. Mereka hidup bersama dengan para "pribumi", namun berada di puncak [[sistem kasta]] sosial dan rasial yang kaku.Vickers (2005), Hindia Belanda memiliki dua kelas hukum untuk seorang warga negara; Eropa dan pribumi. Kelas ketiga, orang Timur asing, ditambahkan pada tahun 1920. Pada tahun 1901, Belanda mengadopsi apa yang mereka sebut sebagai [[Politik Etis]], di mana pemerintah kolonial memiliki tugas untuk meningkatkan kesejahteraan masyarakat Indonesia dalam bidang kesehatan dan pendidikan. Langkah-langkah baru lainnya di bawah kebijakan tersebut mencakup program irigasi, [[transmigrasi]], komunikasi, mitigasi banjir, industrialisasi, dan perlindungan industri pribumi. [[Industrialisasi]] tidak berpengaruh secara signifikan terhadap mayoritas penduduk Indonesia, dan Indonesia tetap saja merupakan koloni yang bergantung pada pertanian. Pada tahun 1930, ada 17 kota dengan populasi lebih dari 50.000 dan populasi gabungan mereka berjumlah 1.87 juta dari total 60 juta. == Olahraga == Perkembangan olahraga Hindia Belanda yang paling dominan adalah di bidang [[sepak bola]], pada awal 1900-an berdiri klub-klub seperti [[Persija Jakarta]] dan [[Persib Bandung]]. Momen yang paling fenomenal adalah ketika [[Tim nasional sepak bola Indonesia|Tim nasional sepak bola Hindia Belanda]] menjadi kontestan di [[Piala Dunia 1938]] di [[Perancis]]. Mereka merupakan '''kontestan pertama''' dari [[Asia]]. Sayangnya, mereka tersingkir di babak pertama setelah dikalahkan oleh [[Tim nasional sepak bola Hongaria]] 0-6 di [[Stadion Velodrome Municipale]], [[Reims]], [[Prancis
+
+:''Untuk negara berdaulat bernama '''Britania Raya''' yang juga sering merujuk ke Inggris, lihat [[Britania Raya]].'' '''Inggris''' (bahasa Inggris: '''''England''''') adalah sebuah negara yang merupakan bagian dari [[Britania Raya]].Perdana Menteri Britania Raya  Negara ini berbatasan dengan [[Skotlandia]] di sebelah utara dan [[Wales]] di sebelah barat, [[Laut Irlandia]] di barat laut, [[Laut Keltik]] di barat daya, serta [[Laut Utara]] di sebelah timur dan [[Selat Inggris]], yang memisahkannya dari [[benua Eropa]], di sebelah selatan. Sebagian besar wilayah Inggris terdiri dari bagian tengah dan selatan [[Pulau Britania Raya]] di [[Samudra Atlantik|Atlantik Utara]]. Inggris juga mencakup lebih dari 100 pulau-pulau kecil seperti [[Isles of Scilly]] dan [[Isle of Wight]]. Wilayah yang saat ini bernama Inggris pertama kali dihuni oleh manusia modern selama periode [[Paleolitikum]], namun nama ''England'' ini berasal dari kata [[Angles]], yang merupakan salah satu [[orang-orang Jermanik|suku Jermanik]] yang menetap di sana pada abad ke-5 dan ke-6. Inggris menjadi negara yang bersatu pada tahun 927 M, dan sejak [[Zaman Penjelajahan]] yang dimulai pada abad ke-15, Inggris telah memberikan pengaruh budaya dan hukum yang signifikan ke berbagai belahan dunia. [[Bahasa Inggris]], [[Anglikanisme|Gereja Anglikan]], dan [[hukum Inggris]]-yang menjadi dasar sistem hukum umum bagi negara lain di seluruh dunia-berasal dan dikembangkan di Inggris, dan [[sistem parlementer]] negara ini juga telah banyak diadopsi oleh negara-negara lain. [[Revolusi Industri]] yang dimulai pada abad ke-18 menjadikan Inggris sebagai negara industri pertama di dunia.[[Royal Society]] Inggris juga berperan penting dalam meletakkan dasar-dasar sains eksperimental modern terhadap ilmu pengetahuan dan teknologi.Topografi Inggris sebagian besar terdiri dari perbukitan dan dataran rendah, terutama di Inggris bagian tengah dan selatan. Dataran tinggi terdapat di bagian utara (misalnya, pegunungan [[Danau District]], [[Pennines]], serta [[Yorkshire Dales]]) dan di barat daya (misalnya [[Dartmoor]] dan [[Cotswolds]]). Ibu kota Inggris dahulunya adalah [[Winchester]], kemudian digantikan oleh [[London]] pada tahun 1066. Saat ini London merupakan daerah metropolitan terbesar di Britania Raya dan zona perkotaan terbesar di [[Uni Eropa]] berdasarkan luas wilayah.Menurut [[Eurostat|Badan Statistik Eropa]], [[London]] adalah Zona Perkotaan terbesar berdasarkan [[konurbasi]] atas daerah-daerah berpenduduk tinggi. Pemeringkatan berdasarkan populasi dalam batas-batas kota menempatkan London di posisi pertama. Namun, Universitas Avignon di Perancis mengklaim bahwa [[Paris]] adalah yang pertama dan London yang kedua jika menyertakan daerah perkotaan dan [[dataran gigir]] secara keseluruhan. Penduduk Inggris berjumlah sekitar 53 juta jiwa, atau sekitar 84% dari total populasi Britania Raya, sebagian besarnya terkonsentrasi di London, [[Inggris Tenggara]], dan kawasan-kawasan [[konurbasi]] di [[Midlands]], [[Inggris Barat Laut|Barat Laut]], [[Inggris Timur Laut|Timur Laut]] dan [[Yorkshire]], masing-masing wilayah ini dikembangkan sebagai daerah industri utama selama abad ke-19. Sedangkan kawasan padang rumput terdapat di luar wilayah kota-kota besar. [[Kerajaan Inggris]] (setelah tahun 1284 juga termasuk Wales) adalah sebuah negara berdaulat sampai tanggal 1 Mei 1707. Kemudian [[Undang-Undang Kesatuan 1707|Undang-Undang Kesatuan]] yang menyatakan bahwa Kerajaan Inggris dan [[Kerajaan Skotlandia]] disatukan secara politik untuk membentuk [[Kerajaan Britania Raya]] disahkan pada tahun 1707.William E. Burns, ''A Brief History of Great Britain'',  Pada tahun 1801, Britania Raya bersatu dengan [[Kerajaan Irlandia]] dengan disahkannya [[Undang-Undang Kesatuan 1800]] dan kemudian namanya berganti menjadi [[Kerajaan Bersatu Britania Raya dan Irlandia]]. Pada tahun 1922, [[Negara Bebas Irlandia]] berdiri sebagai suatu domini yang terpisah, namun enam ''[[county]]'' di [[Irlandia Utara]] tetap memilih untuk menjadi bagian dari Britania Raya, yang kemudian namanya diubah lagi menjadi [[Britania Raya|Kerajaan Bersatu Britania Raya dan Irlandia Utara]], yaitu konteks negara [[Britania Raya]] yang dikenal hingga sekarang ini. Etimologi == Nama "Inggris" ''(England)'' berasal dari kata ''Englaland'' dalam [[bahasa Inggris kuno]], yang berarti "tanah Angles" Angles ini adalah salah satu dari suku-suku [[orang-orang Jermanik|Jermanik]] yang menetap di Britania Raya selama [[Abad Pertengahan|Abad Pertengahan Awal]]. Suku Angles ini berasal dari semenanjung [[Angeln]] di [[Teluk Kiel]], wilayah [[Laut Baltik]]. Menurut ''[[Oxford English Dictionary]]'', penggunaan pertama yang diketahui dari kata ''"England"'' untuk merujuk pada bagian selatan dari [[Pulau Britania Raya]] terjadi pada tahun 897, dan ejaan modern untuk kata ini pertama kali digunakan pada tahun 1538 Penyebutan awal untuk kata ''England'' secara tertulis terdapat dalam karya [[Tacitus]] yang berjudul [[Germania]] pada abad ke-1, yang menggunakan kata ''Anglii'' Etimologi dari nama itu sendiri masih diperdebatkan oleh para sejarawan, dikatakan bahwa nama ''England'' ini sebenarnya berasal dari kata ''Angeln''. Sedangkan istilah yang digunakan untuk menyebut nama ''[[Saxons]]'', yang digunakan untuk menyebut keseluruhan negara dan penduduknya tidak diketahui asalnya, namun diperkirakan bahwa kata ini digunakan karena kebiasaan memanggil orang-orang Jermanik yang menetap di Pulau Britania Raya dengan sebutan ''Angli Saxones'' atau ''English Saxons''. Perlu dicatat juga bahwa dalam [[bahasa Gaelik Skotlandia]] (bahasa lain yang berkembang di Pulau Britania), sebutan untuk Saxon ini adalah "Sasunn", diperkirakan bahwa kata ini diberikan oleh suku Saxon
+Nama alternatif untuk Inggris adalah [[Albion]]. Kata ini awalnya digunakan untuk merujuk ke seluruh Pulau Britania Raya. Catatan paling awal dari nama ini muncul dalam karya [[Aristoteles]], ''[[Corpus Aristotelicum]]'' pada abad ke-4 SM. Disebutkan bahwa: "Di luar [[pilar-pilar Herkules]] terdapat lautan yang mengalir di sepanjang bumi dan di dalamnya ada dua pulau sangat besar yang disebut [[Britannia]]; yang terdiri dari [[Albion]] dan [[Irlandia|Ierne]]". Kata ''Albion'' (??????) atau ''Pulau Albionum'' kemungkinan memiliki dua asal-usul; dari kata [[Latin]] ''albus'', yang berarti putih, untuk merujuk ke [[tebing putih Dover]], yang merupakan satu-satunya bagian dari Pulau Britania yang terlihat dari daratan Eropa, atau bisa juga kata ini berasal dari frasa di dalam manuskrip ''[[Massaliote Periplus]]'', yaitu "Pulau ''Albiones''". Kata ''Albion'' saat ini digunakan untuk menyebut Inggris dalam kapasitas yang lebih puitis.Nama roman lain untuk Inggris adalah '' [[Lloegyr|Loegria]]'', yang terkait dengan sebutan dalam [[bahasa Wales]] untuk Inggris (''Lloegr''), dan penggunaannya ini dipopulerkan dalam [[Raja Arthur|legenda Raja Arthur]]. Penggunaan istilah [[England]] (Inggris) terkadang dikaitkan dengan entitas lain semisal [[Great Britain]] atau [[United Kingdom]] (Britania Raya), walaupun entitas-entitas tersebut memiliki perbedaan mendasar."When people say England, they sometimes mean Great Britain, sometimes the United Kingdom, sometimes the British Isles � but never England."  == Sejarah == === Zaman prasejarah === [[Berkas:Stonehenge (sun).jpg|jmpl|alt=Sun shining through row of upright standing stones with other stones horizontally on the top.|kiri|[[Stonehenge]], sebuah [[monumen]] [[Neolitikum]].]] Bukti awal yang berkenaan dengan keberadaan manusia di wilayah yang saat ini dikenal sebagai Inggris diperkirakan dihuni oleh ''[[Homo antecessor]]'' sekitar 780.000 tahun yang lalu. Kerangka proto-manusia tertua ditemukan di Inggris dan diduga berasal dari 500.000 tahun yang lalu.Manusia modern diketahui telah menghuni wilayah Inggris pada periode [[Paleolitikum|Paleolitikum Atas]], meskipun pemukiman permanen baru terbentuk dalam 6000 tahun terakhir. Setelah akhir periode [[zaman es]], hanya mamalia besar seperti [[mammoth]], [[bison]] dan badak purba yang menghuni wilayah ini. Kira-kira 11.000 tahun yang lalu, ketika lapisan es mulai surut, manusia kembali menghuni Inggris. Penelitian genetik menunjukkan bahwa mereka datang dari bagian utara [[Iberia|Semenanjung Iberia]]. Saat permukaan laut lebih rendah dari sekarang ini, Pulau Britania bersatu dengan [[Pulau Irlandia]] dan [[Eurasia]]. Namun saat permukaan laut naik, Britania terpisah dari Irlandia 10.000 tahun yang lalu, dan selanjutnya juga terpisah dari Eurasia dua milenium kemudian. [[Kebudayaan Beaker]] memasuki Britania kira-kira tahun 2500 SM. Kebudayaan ini memperkenalkan perkakas makanan dan minuman yang terbuat dari [[tanah liat]] dan tembaga.Periode ini juga merupakan periode dibangunnya [[monumen]] [[Neolitikum]] seperti [[Stonehenge]] dan [[Avebury]]. Dengan teknik pemanasan timah dan tembaga yang ketersediaannya melimpah di wilayah itu, orang-orang Beaker ini mulai membuat [[perunggu]], dan kemudian memproduksi besi dari bijih besi. Berkembangnya teknik peleburan besi menyebabkan pembuatan mesin [[bajak]], dan pada akhirnya menghasilkan pertanian yang lebih maju serta produksi senjata yang lebih efektif. Menurut [[John T. Koch]] dan sejarawan lainnya, Inggris pada periode Zaman Perunggu Akhir adalah bagian dari kebudayaan jaringan perdagangan maritim yang disebut sebagai [[Zaman Perunggu Atlantik]] yang mencakup seluruh Kepulauan Britania dan sebagian besar wilayah-wilayah yang saat ini dikenal dengan nama [[Perancis]] dan [[Iberia]]. [[Rumpun bahasa Keltik|Bahasa Keltik]] juga berkembang di wilayah-wilayah tersebut.[Boudica]] memimpin pemberontakan melawan [[Kekaisaran Romawi]].]] Selama periode [[Zaman Besi]], [[Kelt|budaya Keltik]], yang berasal dari [[budaya Hallstatt]] dan [[budaya La T�ne]], tiba dari [[Eropa Tengah]]. Britonik adalah bahasa lisan yang digunakan pada masa itu. Masyarakat menetap secara kesukuan. Menurut [[Ptolemy]] dalam manuskrip ''[[Geographia]]'', terdapat kurang lebih 20 suku berbeda yang menetap di wilayah tersebut. Namun, suku-suku yang terbentuk sebelum itu tidak diketahui karena orang-orang Britonik ini buta huruf. Seperti wilayah lainnya yang berada di batas Kekaisaran, Britania telah lama menjalin hubungan perdagangan dengan [[Romawi|bangsa Romawi]]. [[Julius Caesar]] dari [[Republik Romawi]] berusaha untuk menyerang Pulau Britania dua kali pada tahun 55 SM, namun sebagian besar tidak berhasil. Pada akhirnya Caesar berhasil mendirikan kerajaan klien di [[Trinovantes]]. Romawi [[Penaklukan Romawi di Britania|menginvasi Britania]] pada tahun 43 M pada masa pemerintahan Kaisar [[Claudius]], dan wilayah itu selanjutnya dimasukkan ke dalam Kekaisaran Romawi dengan nama [[Britania Romawi|Provinsi Britania]]. Suku-suku lokal yang berusaha melawan di antaranya adalah suku [[Catuvellauni]] yang dipimpin oleh [[Caratacus]]. Kemudian, pemberontakan yang dipimpin oleh [[Boudica]], Ratu [[Iceni]], yang berakhir dengan aksi bunuh diri Boudica menyusul kekalahannya dalam [[Pertempuran Watling Street]]Selama periode ini, terjadi dominasi dari kebudayaan [[Dunia Yunani-Romawi|Yunani-Romawi]] dengan diperkenalkannya [[hukum Romawi]], [[arsitektur Romawi]], sistem pembuangan, alat-alat pertanian, dan [[sutra]].Pada abad ke-3, Kaisar [[Septimius Severus]] meninggal dunia di [[Eboracum]], dan [[Konstantinus I|Konstantinus]] kemudian memproklamasikan kekaisarannya atas wilayah Britania.. Ada perdebatan mengenai kapan agama [[Kristen]] pertama kali diperkenalkan, diperkirakan waktunya selambat-lambatnya pada abad ke-4, namun ada juga pendapat yang menyatakan bahwa agama Kristen telah masuk ke Britania lebih awal. Menurut [[Beda Venerabilis|St. Beda]], misionaris dikirim dari [[Roma]] oleh [[Paus Eleutherius]] atas permintaan raja [[Lucius dari Britania]] pada tahun 180.Pada tahun 410, kekuasaan Romawi di Britania mulai menurun, tentara Romawi yang ada di Britania ditarik kembali untuk mempertahankan perbatasan di benua Eropa dan ikut serta dalam perang sipil. === Zaman pertengahan === dari abad ke-7 yang ditemukan di [[Sutton Hoo]].]] Penarikan tentara Romawi membuat Inggris terbuka atas serangan dari suku-suku pagan dan tentara pelaut yang berasal dari barat daya Eropa, terutama suku Angles, Saxon, dan Jute, yang sudah lama menduduki pesisir timur Britania dan selanjutnya mulai membangun pemukimanPengaruh mereka tetap bertahan selama berdekade-dekade lamanya hingga [[suku Briton]] berhasil memenangkan [[Pertempuran Gunung Badon]]. Setelah itu, Britania kembali jatuh ke tangan Briton pada akhir abad ke-6. Agama Kristen turut menghilang seiring jatuhnya Romawi, namun diperkenalkan kembali oleh para [[misionaris]] dari Romawi yang dipimpin oleh [[Agustinus dari Canterbury|Agustinus]] sejak tahun 597 dan seterusnya, serta oleh misionaris Irlandia bernama [[Aidaan dari Lindisfarne|Aidan]] pada periode yang sama. Selama periode ini, Britania diperintah oleh para pendatang yang kemudian juga terpecah menjadi beberapa suku, namun pada abad ke-7, suku-suku ini bergabung menjadi beberapa kerajaan seperti [[Northumbria]], [[Mercia]], [[Wessex]], [[Kerajaan Anglia Timur|Anglia Timur]], [[Kerajaan Essex|Essex]], [[Kerajaan Kent|Kent]], dan [[Kerajaan Sussex|Sussex]]. Dalam beberapa abad kemudian, proses konsolidasi politik terus berlanjut. Pada abad ke-7, terjadi perebutan hegemoni antara Northumbria dan Mercia, perselisihan ini diakhiri dengan kemenangan Mercia pada abad ke-8. Pada abad ke-9, kejayaan Mercia digantikan oleh kebangkitan Wessex. Pada abad itu juga terjadi peningkatan serangan-serangan yang dilancarkan oleh [[Denmark]], yang kemudian berhasil menaklukkan Inggris bagian utara dan timur serta menggulingkan pemerintahan Northumbria, Mercia, dan Anglia Timur. Wessex, di bawah pemerintahan [[Alfred yang Agung]], tersisa sebagai satu-satunya kerajaan Inggris yang masih berdiri. Setelah Alfred wafat, Wessex terus berkembang dan diperluas lagi dengan menaklukkan Kerajaan [[Danelaw]]. Perkembangan Wessex ini membuat kesempatan untuk menyatukan Inggris secara politik semakin besar. Penyatuan ini pada akhirnya berhasil dilakukan oleh [[Athelstan dari Inggris|Athelstan]] pada tahun 953 setelah berdamai dengan [[Eadred dari Inggris|Eadred]]. Gelombang serangan baru dari bangsa [[Skandinavia]] pada akhir abad ke-10 berakhir dengan ditaklukkannya kerajaan bersatu ini oleh [[Sweyn Forkbeard]] pada tahun 1013 dan kemudian oleh putranya, [[Knut yang Agung|Knut]], pada tahun 1016. Penaklukan ini membuat Inggris memasuki periode singkat sebagai bagian dari imperium [[Laut Utara]] yang juga terdiri dari [[Denmark]] dan [[Norwegia]]. Namun, pada tahun 1042, [[Edward sang Pengaku]] berhasil merebut kembali tanah Inggris.|[[Henry V dari Inggris|Raja Henry V]] pada [[Pertempuran Agincourt]], yang berakhir dengan kemenangan Inggris atas [[Perancis]] dalam [[Perang Seratus Tahun]].]] Setelah pemerintahan Edward, pasukan [[Normandia]], di bawah pimpinan [[William sang Penakluk]], berhasil [[Penaklukan Normandia di Inggris|menaklukkan Inggris]] pada tahun 1066. Penaklukan ini menyebabkan jatuhnya periode budaya berbahasa Inggris dan digantikan oleh aristokrasi baru yang berbahasa Perancis. Perubahan ini pada akhirnya memiliki efek yang mendalam dan permanen terhadap perkembangan bahasa Inggris kedepannya [[Wangsa Plantagenet]] dari Anjou mewarisi takhta Inggris, dengan [[Henry II dari Inggris|Henry II]] yang menjabat sebagai Raja Inggris. Pada periode ini, Inggris berhasil memperluas kerajaannya hingga ke Perancis dan juga mewarisi takhta dari Kerajaan Perancis, termasuk [[Adipati Aquitaine|Aquitaine]]. Inggris memerintah Perancis selama tiga abad lamanya, di bawah pemerintahan raja-raja seperti: [[Richard I dari Inggris|Richard I]], [[Edward I dari Inggris|Edward I]], [[Edward III dari Inggris|Edward III]] dan [[Henry V dari Inggris|Henry V]]. Pada periode ini juga terjadi perubahan besar dalam bidang perdagangan dan undang-undang, termasuk pengesahan ''[[Magna Carta]]'', yang merupakan piagam hukum Inggris yang digunakan untuk membatasi kekuasaan raja berdasarkan hukum dan juga melindungi hak-hak penduduk merdeka. [[Monastisisme]] [[Katolik]] juga berkembang pada periode ini, yang menghasilkan filsuf-filsuf serta dibangunnya universitas-universitas seperti [[Universitas Oxford]] dan [[Universitas Cambridge|Cambridge]] oleh patronase kerajaan. Kerajaan Wales diambil alih oleh Plantagenet pada abad ke-13 sedangkan Ketuanan Irlandia dihadiahkan kepada monarki Inggris oleh Paus. Selama abad ke-14, Plantagenet dan [[Wangsa Valois]] dari Perancis sama-sama mengklaim sebagai pewaris sah atas [[Dinasti Kapetia|Wangsa Kapet]], yang menyebabkan kedua negara tersebut terlibat konflik yang berkelanjutan dalam [[Perang Seratus Tahun]].. Musibah [[Kematian Hitam]] yang melanda Inggris pada tahun 1348 menewaskan kurang lebih setengah dari total populasi Inggris pada saat itu.. Dari tahun 1453-1487, [[perang saudara]] antara dua wangsa keluarga kerajaan terjadi ([[Wangsa York]] dan [[Wangsa Lancaster]]). Perang ini dikenal dengan sebutan [[Perang Mawar]], yang berakhir dengan kekalahan York dan harus merelakan takhta jatuh ke tangan [[Wangsa Tudor]] dari [[Wales]], yaitu penerus Lancaster. Tudor, yang dipimpin oleh [[Henry VII dari Inggris|Henry Tudor]], menginvasi Inggris bersama tentara-tentara Breton dan Wales. Tentara ini berhasil memperoleh kemenangan dalam [[Pertempuran Bosworth]] dengan tewasnya raja York terakhir; [[Richard III dari Inggris|Richard III]]} === Zaman modern awal === Painting of large bearded man with fur trimmed cloak, wearing a hat.|kiri|lurus|[[Henry VIII dari Inggris|Raja Henry VIII]] menjadi [[Gereja Inggris|Kepala Tertinggi Gereja Inggris]].]] Selama [[periode Tudor]], [[Abad Renaisans|Renaisans]] mencapai Inggris melalui budaya [[Italia]], yang memperkenalkan kembali seni serta debat pendidikan dan ilmiah dari zaman klasik. Selama periode ini, Inggris mulai mengembangkan keterampilan angkatan laut, dan penjelajahan lautan untuk membangun koloni[[Henry VIII dari Inggris|Henry VIII]] memisahkan diri dari persekutuan dengan [[Gereja Katolik]], ia kemudian mengesahkan [[Undang-Undang Supremasi]] pada tahun 1534 yang menyatakan bahwa raja adalah kepala dari [[Gereja Inggris]]. Berbeda dengan sebagian besar Protestanisme Eropa lainnya, akar dari pemisahan Inggris dari Gereja Katolik ini lebih ke arah politis ketimbang alasan teologis.{{#tag:ref|As [[Roger Scruton]] explains, "The Reformation must not be confused with the changes introduced into the Church of England during the 'Reformation Parliament' of 1529�36, which were of a political rather than a religious nature, designed to unite the secular and religious sources of authority within a single sovereign power: the Anglican Church did not until later make substantial change in doctrine".Henry juga secara hukum menggabungkan negeri leluhurnya, Wales, menjadi bagian dari Kerajaan Inggris dengan mengesahkan Undang-Undang Wales 1535-1542. Ada beberapa konflik agama internal yang terjadi selama masa pemerintahan putri Henry, [[Mary I dari Inggris|Mary I]] dan [[Elizabeth I dari Inggris|Elizabeth I]]. Mary menghantarkan Inggris kembali ke pelukan Katolik, sedangkan Elizabeth memisahkannya sekali lagi, lalu menegaskan supremasi Gereja Inggris lebih kuat lagi dengan membentuk [[Anglikan]]. Armada Inggris di bawah pimpinan [[Francis Drake]] berhasil mengalahkan armada Spanyol pada [[periode Elizabethan]]. Setelah persaingan panjang dengan [[Imperium Spanyol|Spanyol]], koloni pertama Inggris di [[Amerika]] akhirnya berhasil didirikan pada 1585 oleh penjelajah [[Walter Raleigh]] di [[Virginia]] dan menamakannya Roanoke. Pemanfaatan koloni Roanoke ini gagal dan dikenal sebagai "koloni yang hilang", koloni ini kemudian ditinggalkan karena kurangnya persediaan makanan.Bersama [[East India Company]], Inggris juga bersaing dengan [[Imperium Belanda|Belanda]] dan [[Perancis]] di Timur. Struktur politik Inggris berubah pada tahun 1603 saat [[Wangsa Stuart]], dengan rajanya [[James I dari Inggris|James VI dari Skotlandia]], kerajaan yang menjadi musuh lama Kerajaan Inggris, mewarisi takhta Inggris. James kemudian menciptakan persatuan personal antara Kerajaan Inggris dan [[Kerajaan Skotlandia]] James menobatkan dirinya sebagai Raja Britania Raya, meskipun hal tersebut tidak diakui oleh [[hukum InggrisDi bawah pemerintahannya, [[Alkitab Versi Raja James]] diterbitkan pada tahun 1611. Alkitab ini tidak hanya mengalahkan karya-karya [[William Shakespeare|Shakespeare]] sebagai karya sastra terbesar dalam bahasa Inggris, namun juga menjadi versi standar dari Alkitab yang paling banyak dibaca oleh umat Kristiani selama empat ratus tahun.Restorasi (Inggris)|Restorasi Inggris]] pada masa [[Charles II dari Inggris|Raja Charles II]] berhasil memulihkan kembali monarki dan perdamaian setelah [[Perang Saudara Inggris]].]] Akibat posisi politik, agama dan sosial yang saling bertentangan, [[Perang Saudara Inggris]] terjadi antara para pendukung Parlemen dan pendukung [[Charles I dari Inggris|Raja Charles I]], yang masing-masingnya dikenal dengan sebutan [[Roundhead]] dan [[Cavalier]]. Perang ini adalah bagian dari rangkaian perang berkelanjutan yang dikenal sebagai [[Perang Tiga Kerajaan]], yang juga melibatkan Skotlandia dan [[Irlandia]]. Pada akhirnya, parlemen berhasil menang, Charles I kemudian dieksekusi dan pemerintahan kerajaan diganti menjadi [[Persemakmuran Inggris]]. Pemimpin pasukan Parlemen, [[Oliver Cromwell]], menobatkan dirinya sebagai [[Lord Protector]] pada tahun 1653. Setelah kematian Cromwell, putranya, [[Richard Cromwell|Richard]] mengundurkan diri dan tidak bersedia menjabat sebagai Lord Protector. Kemudian, [[Charles II dari Inggris|Charles II]] dipanggil kembali untuk menempati jabatan sebagai Raja Inggris pada tahun 1660. Pada masa Charles II, melalui [[Restorasi (Inggris)|Restorasi Inggris]], konstitusi kerajaan dirombak. Konstitusi baru ini menyatakan bahwa Raja dan Parlemen harus memerintah Inggris bersama-sama, meskipun pada kenyataannya parlemen akan memiliki kekuasaan yang lebih nyata. Kebijakan ini disahkan dalam Undang-Undang [[Deklarasi Hak 1689]]. Undang-undang ini juga menyatakan bahwa undang-undang hanya bisa dibuat oleh Parlemen dan tidak bisa ditangguhkan oleh Raja, dan Raja tidak diperkenankan memungut pajak atau menambah tentara tanpa persetujuan dari parlemen.Dengan didirikannya [[Royal Society]] pada tahun 1660, ilmu pengetahuan di Inggris juga mengalami perkembangan yang pesat. [[Kebakaran Besar London]] yang terjadi pada tahun 1666 menghanguskan sebagian besar kota London, namun dibangun kembali tidak lama sesudahnya. Dalam Parlemen, dua faksi muncul sebagai kekuatan utama, yaitu [[Tory]] dan [[Whig]]. Tory merupakan pendukung kerajaan (royalis), sedangkan Whig beraliran liberal klasik. Faksi Tory pada awalnya mendukung [[James II dari Inggris|James II]]. Namun, bersama Whig, kedua faksi ini kemudian berbalik menggulingkan takhta James dalam [[Revolusi Agung]] pada tahun 1688. Setelah jatuhnya takhta James, pangeran Belanda, [[William III dari Inggris|William III]], diundang untuk meneruskan takhta sebagai Raja Inggris. Di Skotlandia, muncul gerakan-gerakan yang menamakan dirinya sebagai [[Jacobitisme|Jacobites]]. Gerakan ini menolak kepemimpinan William dan menginginkan takhta tetap dipegang oleh keturunan dari James II. Setelah diadakan perundingan, Parlemen Inggris dan Parlemen Skotlandia sepakat untuk menggabungkan masing-masing kerajaan dalam sebuah kesatuan politik bernama [[Kerajaan Britania Raya]] pada tahun 1707. Untuk menegaskan "persatuan politik" tersebut, lembaga-lembaga seperti hukum dan gereja nasional di masing-masing kerajaan tetap terpisah.{{harvnb|Gallagher|2006|p=14}}. === Zaman kontemporer ===  Suasana malam hari di [[Coalbrookdale]] pada masa [[Revolusi Industri]].]] Di bawah Kerajaan Britania Raya yang baru terbentuk, peranan dari [[Royal Society]] yang dikombinasikan dengan sedang berlangsungnya [[Abad Pencerahan|era Pencerahan]] di Inggris dan Skotlandia menghasilkan inovasi yang berkembang pesat dalam bidang sains dan teknologi. Perkembangan ini selanjutnya membuka jalan bagi terbentuknya [[Imperium Britania]]. Sedangkan di dalam negeri, hal tersebut memicu munculnya [[Revolusi Industri]], yaitu suatu periode terjadinya perubahan besar dalam bidang sosial ekonomi dan kebudayaan di Inggris, menghasilkan sistem pertanian, manufaktur, teknik, dan pertambangan yang terindustrialisasi serta memelopori pembangunan jalan-jalan baru dan jaringan kereta api untuk memfasilitasi revolusi ini. Pada tahun 1825, lokomotif uap kereta penumpang permanen pertama, [[Stockton and Darlington Railway]], dibuka untuk umum. Pada masa Revolusi Industri, banyak penduduk pedesaan di Inggris yang pindah ke wilayah perkotaan untuk bekerja di pabrik-pabrik seperti [[London]], [[Manchester]], dan [[Birmingham]]. Kota-kota ini selanjutnya dijuluki sebagai "Kota Gudang" dan "Bengkel Dunia". Inggris berhasil mempertahankan kestabilan pemerintahannya saat [[Revolusi Perancis]] meletus. [[William Pitt yang Paling Muda|William Pitt]] menjadi Perdana Menteri Britania Raya pada usia 24 tahun saat pemerintahan [[George III dari Britania Raya|George III]]. Saat terjadinya [[Peperangan era Napoleon|Perang Napoleon]], [[Napoleon Bonaparte]] berencana untuk menyerang Inggris dari tenggara. Namun rencana ini gagal. Tentara Britania di bawah pimpinan [[Horatio Nelson]] berhasil mengalahkan Tentara Napoleon di laut. Sedangkan di darat tentara Napoleon juga berhasil dikalahkan di bawah pimpinan [[Arthur Wellesley dari Wellington|Arthur Wellesley]]. Perang Napoleon ini menumbuhkan konsep "[[Britishness]]" dan identitas nasional "British", bersama dengan orang-orang Skotlandia dan Wales.[[The Cenotaph, Whitehall]], memorial untuk mengenang Tentara Britania Raya yang gugur dalam [[Perang Dunia]].]] London menjadi [[Metropolitan|kawasan metropolitan]] terbesar dan terpadat di dunia pada [[era Victoria]], serta juga menjadi kota perdagangan paling prestisius dalam [[Imperium Britania]]. Pergolakan politik di dalam negeri memunculkan gerakan-gerakan seperti [[Chartisme]] dan [[Suffragette]] menyebabkan dilakukannya reformasi legislatif dan pemberlakuan [[hak pilih universal]] Pergesekan kekuasaan di Eropa tengah dan timur mengakibatkan meletusnya [[Perang Dunia I]]. Ratusan ribu tentara Inggris tewas karena berjuang untuk Britania Raya sebagai bagian dari [[Blok Sekutu (Perang Dunia I)|Blok Sekutu]].|Sekitar 550.000 tentara Inggris dan Wales yang tewas dalam PD Dua dekade kemudian, dalam [[Perang Dunia II]], Inggris sekali lagi menjadi bagian dari [[Blok Sekutu (Perang Dunia II)|Blok Sekutu]]. Pada akhir [[Perang Phoney]], [[Winston Churchill]] menjadi Perdana Menteri. Berkembangnya teknologi perang menyebabkan banyak kota yang hancur akibat serangan udara dalam peristiwa [[The Blitz]]. Setelah perang usai, Imperium Britania menerapkan kebijakan [[dekolonisasi]] terhadap negara-negara jajahannya. Perang juga menyebabkan pesatnya perkembangan teknologi; automobil menjadi sarana utama transportasi dan [[mesin jet]] yang dikembangkan oleh [[Frank Whittle]] menyebabkan inovasi [[perjalanan udara]] menjadi lebih luas Perusahaan-perusahaan nasional di Inggris dinasionalisasi, dan [[National Health Service]] (NHS) didirikan pada tahun 1948. NHS Inggris menyediakan layanan kesehatan yang didanai oleh pemerintah bagi semua warga Inggris secara gratis sesuai kebutuhan, namun tetap dibayar melalui pajak umum. Dalam bidang pemerintahan, reformasi [[pemerintahan daerah]] dilakukan pada pertengahan abad ke-20.. Sejak abad ke-20, terjadi perpindahan penduduk secara besar-besaran ke Inggris, sebagian besar berasal dari bagian lain [[Kepulauan Britania]], tetapi juga ada yang berasal dari [[negara-negara Persemakmuran]], terutama dari [[Asia Selatan]].Sejak tahun 1970 juga terjadi perubahan besar dalam sektor manufaktur dan pertumbuhan sektor industri jasa. Sebagai bagian dari [[Britania Raya]], Inggris bergabung dengan organisasi Masyarakat Ekonomi Eropa, yang selanjutnya menjadi [[Uni Eropa]]. Pada akhir abad ke-20, pemerintahan daerah di Britania Raya mengalami perubahan dengan diberikannya devolusi pada Skotlandia, Wales, dan Irlandia Utara.
+
+}} Namun, Inggris tetap menjadi bagian dari yurisdiksi Britania Raya. Devolusi atau pelimpahan kekuasaan ini mendorong terbentuknya identitas "English" dan rasa patriotisme yang lebih kuat. Akibatnya, tidak ada devolusi yang diberikan kepada Inggris, upaya untuk menciptakan sebuah sistem serupa dalam hal pemerintahan daerah juga ditolak dalam referendum.
+
+== Pemerintahan == === Politik === {{utama|Politik Inggris}}  Sebagai bagian dari Britania Raya, sistem politik dasar bagi Inggris adalah [[monarki konstitusional]] dan [[sistem parlementer]]. Inggris tidak memiliki pemerintahan sendiri sejak tahun 1707. Berdasarkan Undang-Undang Kesatuan 1707, Inggris dan Skotlandia bersatu menjadi [[Kerajaan Britania Raya]].Sebelum penyatuan tersebut, Inggris diperintah oleh monarki dan [[Parlemen Inggris]]. Saat ini, Inggris diatur langsung oleh [[Parlemen Britania Raya]], meskipun negara-negara Britania lainnya diserahi pemerintahan sendiri (devolusi).Pada [[House of Commons]], yaitu [[Majelis Rendah]] dalam Parlemen Britania Raya, terdapat 532 dari total 650 anggota Parlemen (MP) yang mewakili konstituensi Inggris. Dalam [[pemilihan umum Britania Raya 2010]] [[Partai Konservatif (Britania Raya)|Partai Konservatif]] berhasil memenangkan mayoritas suara mutlak di Inggris, yakni 532 kursi; 61 kursi lebih banyak daripada gabungan kursi dari partai-partai lainnya. Namun, Konservatif tidak memperoleh jumlah kursi mayoritas dalam parlemen, sehingga menghasilkan "parlemen yang menggantung"Untuk bisa memperoleh mayoritas suara di parlemen, Konservatif yang dipimpin oleh [[David Cameron]] berkoalisi dengan partai terbesar ketiga di Britania Raya, yaitu [[Partai Liberal Demokratik (Britania Raya)|Partai Liberal Demokratik]] pimpinan [[Nick Clegg]]. Selanjutnya, pemimpin [[Partai Buruh (Britania Raya)|Partai Buruh]], [[Gordon Brown]], terpaksa meletakkan jabatannya sebagai perdana menteri.Saat ini, Partai Buruh dipimpin oleh [[Ed Miliband]]. Sebagai konsekuensi atas keanggotaan Britania Raya di [[Uni Eropa]], pemilu untuk menentukan siapa wakil Britania yang akan dikirim sebagai anggota [[Parlemen Eropa]] juga diselenggarakan secara regional di Inggris. Dalam [[pemilihan umum Parlemen Eropa 2009]], hasil dari pemilu di region-region di Inggris untuk anggota Parlemen Eropa adalah sebagai berikut: 23 dari Konservatif, 10 dari Partai Kemerdekaan, 10 dari Liberal Demokratik, dua dari [[Partai Hijau Inggris dan Wales|Partai Hijau]], dan dua dari [[Partai Nasional Britania]].Sejak [[devolusi]], negara-negara lain yang berada dalam kedaulatan Britania Raya (Skotlandia, Wales dan Irlandia Utara), masing-masing memiliki parlemen terdevolusi sendiri atau majelis untuk isu-isu lokal. Ada perdebatan mengenai status devolusi di Inggris. Awalnya direncanakan bahwa seluruh [[wilayah di Inggris|region di Inggris]] akan didevolusikan juga, namun setelah adanya penolakan dari region di [[Inggris Timur Laut]] dalam [[referendum]], rencana ini akhirnya berhenti diajukan. Salah satu isu utama yang muncul dari kebijakan devolusi ini adalah "[[pertanyaan West Lothian]] (''West Lothian question''), yaitu istilah yang digunakan untuk menggambarkan kondisi dimana anggota parlemen [[Skotlandia]] dan [[Wales]] dapat memberikan suara atas undang-undang yang terkait dengan Inggris, sedangkan Inggris tidak memiliki hak yang setara. Akibat tidak memiliki devolusi kekuasaan, Inggris menjadi satu-satunya negara di Britania Raya yang tidak diberi hak untuk merumuskan kebijakan mengenai pengobatan kanker gratis, perawatan perumahan untuk penduduk usia tua, dan biaya pendidikan tinggi gratis.Hal ini mengakibatkan semakin meningkatnya rasa "nasionalisme Inggris".Beberapa pihak telah menyarankan pembentukan Parlemen Inggris yang terdevolusi,sedangkan yang lainnya juga mengusulkan agar pemberian suara yang terkait dengan Inggris dibatasi, dengan artian hanya berhak dilakukan oleh anggota parlemen yang berasal dari daerah pemilihan Inggris. === Hukum === {{utama|Hukum Inggris}} Sistem [[hukum Inggris]] yang berkembang selama berabad-abad adalah dasar dari sistem [[hukum umum]] yang digunakan di sebagian besar [[negara-negara Persemakmuran]] dan [[Amerika Serikat]] (kecuali [[Louisiana]]) Meskipun telah menjadi negara bagian dari Britania Raya, sistem hukum [[Pengadilan Inggris dan Wales]] tetap digunakan. Berdasarkan [[Perjanjian Kesatuan]], sistem hukum yang digunakan di Inggris dan Wales terpisah dengan sistem hukum yang digunakan di Skotlandia. Esensi umum dari hukum Inggris adalah bahwa hukum dibuat oleh hakim yang berkedudukan di [[pengadilan]], yang menerapkannya menurut akal sehat dan pengetahuan mereka ([[preseden]]).Sistem pengadilan dikepalai oleh Pengadilan Senior Inggris dan Wales, yang terdiri dari [[Pengadilan Tinggi]], [[Pengadilan Tinggi Kehakiman]] untuk kasus perdata, dan [[Pengadilan Mahkota]] untuk kasus pidana. Sedangkan [[Mahkamah Agung Britania Raya]] merupakan lembaga peradilan tertinggi untuk kasus-kasus perdata maupun pidana di Inggris dan Wales. Mahkamah ini dibentuk pada tahun 2009 setelah perubahan konstitusi, yang mengambil alih fungsi yudisial dari [[House of Lords]].Keputusan dari Mahkamah Agung ini mengikat setiap pengadilan lainnya dalam hierarki dan harus sesuai dengan petunjuknya. [[Kriminalitas]] meningkat antara tahun 1981 sampai 1995, namun mengalami penurunan sekitar 42% pada periode 1995-2006.Populasi penjara naik dua kali lipat pada periode yang sama. Hal ini menjadikan Inggris sebagai negara dengan tingkat penahanan tertinggi di [[Eropa Barat]], dengan perbandingan 147 tahanan per 100.000 jiwa[Layanan Tahanan Yang Mulia]] (''Her Majesty's Prison Service'') bertugas melaporkan kepada Menteri Kehakiman sekaligus mengelola [[penjara]] di Inggris yang dihuni oleh lebih dari 80.000 narapidana. === Pembagian administratif === Subdivisi pemerintahan daerah di Inggris terdiri dari empat tingkat divisi administratif yang dikendalikan oleh berbagai tipe entitas administratif dan diciptakan dengan tujuan [[pemerintahan daerah|kepemerintahan daerah]]. Tingkat tertinggi dari pemerintahan daerah di Inggris terdiri dari sembilan [[wilayah di Inggris|wilayah]], yakni: [[Inggris Timur Laut]], [[Inggris Barat Laut]], [[Yorkshire dan Humber]], [[East Midlands|Midlands Timur]], [[West Midlands|Midlands Barat]], [[Inggris Timur]], [[Inggris Tenggara]], [[Inggris Barat Daya]], dan [[London]]. Pembagian ini ditetapkan pada tahun 1994 dengan status sebagai Region Kantor Pemerintahan (''Government Office Region'') untuk mendistribusikan berbagai kebijakan dan program regional Pemerintah Britania Raya, namun tidak ada badan-badan terpilih yang didelegasikan pada tingkat ini, kecuali di London. Kemudian pada tahun 2011, status Kantor Pemerintahan ini dihapuskan Meskipun demikian, batas-batas yang sama tetap digunakan sebagai daerah pemilihan anggota [[Parlemen Eropa]] secara regional. Setelah devolusi, ada rencana untuk menciptakan sebuah majelis regional tersendiri di masing-masing region di Inggris. Rencana ini diwujudkan melalui referendum. London menyetujui referendum pada tahun 1998. Dua tahun kemudian, [[Majelis London]] dibentuk. Namun, ketika usulan tersebut ditolak oleh [[referendum devolusi Inggris utara 2004]] di [[Inggris Timur Laut]], rencana tersebut akhirnya dibatalkan. Majelis regional di luar London dihapuskan pada tahun 2010, dan fungsinya dialihkan menjadi [[Badan Pembangunan Regional]] dan sebuah sistem baru dari badan otoritas daerah.Di bawah tingkat regional, Inggris dibagi menjadi 48 [[county seremonial di Inggris|''county'' seremonial]].Pembagian ini digunakan khususnya sebagai kerangka acuan geografis dan telah dikembangkan secara bertahap sejak [[Abad Pertengahan]], ada juga beberapa ''county'' yang didirikan baru-baru ini pada tahun 1974 Masing-masing ''county'' memiliki seorang [[Lord Lieutenant]] dan [[High Sheriff]]; jabatan ini dimaksudkan untuk mewakili [[Monarki Britania Raya]] lokal. Di luar [[London Raya]] dan [[Isles of Scilly]], Inggris juga terbagi menjadi 83 ''county'' [[metropolitan]] dan non-metropolitan, pembagian ini sesuai dengan kawasan yang digunakan untuk kepentingan kepemerintahan daerah, dan ''county''-''county'' ini bisa saja terdiri dari satu ataupun banyak distrik. Terdapat enam ''county'' metropolitan berdasarkan wilayah perkotaan yang berpenduduk paling padat, ''county-county'' ini tidak memiliki Dewan ''County''. Di wilayah ini, otoritas utama dipegang oleh dewan subdivisi, yaitu [[borough metropolitan]]. Sedangkan di wilayah lain, 27 ''county'' non-metropolitan "shire" memiliki dewan county dan terbagi menjadi beberapa distrik, masing-masing distrik juga memiliki Dewan Distrik. ''County-county'' ini biasanya (meskipun tidak selalu) terdapat di kawasan perdesaan. ''County'' non-metropolitan yang selebihnya terdiri dari satu [[distrik]] dan biasanya merupakan sebuah kota kecil atau county yang berpenduduk jarang, ''county'' ini dikenal sebagai [[Otoritas kesatuan Inggris|otoritas kesatuan]] (''unitary authorities''). London Raya memiliki sistem pemerintahan daerah yang berbeda; dengan 32 [[borough London]], ditambah [[City of London]] yang mencakup kawasan kecil di pusat London dan diatur oleh [[Korporasi City of London]].Pada tingkat pemerintahan daerah terendah, Inggris terbagi menjadi [[paroki|paroki-paroki]] sipil yang masing-masingnya memiliki dewan paroki tersendiri. Paroki-paroki ini tidak terdapat di [[London Raya]]. == Geografi ===== Lanskap dan sungai === Secara geografis, Inggris mencakup dua pertiga dari [[Pulau Britania Raya]] di bagian tengah dan selatan, ditambah pulau-pulau lepas pantai seperti [[Isle of Wight]] dan Isles of Scilly. Inggris berbatasan dengan dua negara lainnya di Britania Raya; Skotlandia di sebelah utara dan Wales di sebelah barat. Inggris merupakan negara yang lokasinya paling dekat ke [[benua Eropa]] dibandingkan dengan negara-negara lainnya di Kepulauan Britania. Negara ini berjarak {{convert|34|km|mi|adj=on}} dari [[Perancis]], yang dipisahkan oleh [[Selat Inggris]] dan dihubungkan oleh terowongan bawah laut [[Terowongan Channel|Channel]] di dekat [[Folkestone]].Inggris juga memiliki pantai di [[Laut Irlandia]], [[Laut Utara]] dan [[Samudera Atlantik]]. Pelabuhan [[London]], [[Liverpool]], dan [[Newcastle upon Tyne|Newcastle]] masing-masingnya berlokasi di sungai-sungai pasang surut [[Sungai Thames|Thames]], [[Sungai Mersey|Mersey]] dan [[Sungai Tyne|Tyne]]. Dengan panjang sekitar [[Sungai Severn]] adalah sungai terpanjang yang mengalir melintasi Inggris. Sungai ini bermuara di [[Selat Bristol]] dan terkenal karena air pasangnya yang mencapai ketinggian hingga Sungai terpanjang di Inggris berikutnya adalah [[Sungai Thames]] Ada banyak danau di Inggris, yang terbesar adalah [[Windermere]] di [[Danau District]]Dalam istilah geologi, [[Pennines]], yang dikenal sebagai "tulang punggung Inggris", adalah pegunungan tertua di negara ini, yang berasal dari akhir [[Paleozoikum|Zaman Paleozoikum]], sekitar 300 juta tahun yang lalu. Komposisi geologis pegunungan ini terdiri dari [[batu pasir]], [[batu kapur]], serta [[batubara]]. Terdapat lanskap [[karst]] di wilayah kalsit seperti di bagian [[Yorkshire]] dan [[Derbyshire]]. Lanskap Pennine merupakan tegalan tinggi di kawasan dataran tinggi, terkenal karena lembah suburnya di kawasan-kawasan tepi sungai. Di Pennines terdapat tiga [[taman nasional]], yaitu [[Taman Nasional Yorkshire Dales|Yorkshire Dales]], [[Taman Nasional Northumberland|Northumberland]], dan [[Peak District]]. Titik tertinggi di Inggris berada pada  di [[Scafell Pike]], [[Cumbria]]. [[Bukit Cheviot]] membentang melintasi perbatasan antara Inggris dan Skotlandia. [[Dataran rendah]] di Inggris terdapat di sebelah selatan Pennines, yang terdiri dari perbukitan hijau seperti [[Bukit Cotswold]], [[Bukit Chiltern]], [[North Downs]] dan [[South Downs]]. Semenanjung Barat Daya di [[West Country]] juga mencakup tegalan dataran tinggi yang beriklim sedang seperti [[Dartmoor]] dan [[Exmoor]]. Kedua kawasan ini ditetapkan sebagai taman nasional=== Iklim === Inggris memiliki [[iklim lautan|iklim laut]] [[iklim sedang|sedang]], dengan suhu tidak lebih rendah dari {{convert|0|�C|�F}} pada [[musim dingin]] dan tidak lebih tinggi dari {{convert|32|�C|�F}} pada [[musim panas]].Cuacanya relatif lembab dan seringkali berubah-ubah. Cuaca terdingin terjadi pada bulan Januari dan Februari, terutama di wilayah pesisir. Sedangkan cuaca terpanas berlangsung pada bulan Juli. Bulan dengan cuaca sedang dan hangat adalah bulan Mei, Juni, September dan Oktober. Curah hujan tersebar cukup merata sepanjang tahun. Pengaruh terpenting pada iklim Inggris adalah kedekatannya dengan [[Samudera Atlantik]]. Inggris berlokasi di [[lintang utara]] dan pemanasan laut dihantarkan oleh [[Arus Gulf]]. Curah hujan yang lebih tinggi terdapat di wilayah bagian barat, dan kawasan di bagian [[Danau District]] menerima hujan yang lebih sering dibandingkan dengan tempat manapun di Inggris. Sejak pencatatan cuaca mulai dilakukan, suhu tertinggi yang tercatat adalah {{convert|38,5|�C|�F}} pada tanggal 10 Agustus 2003 di [[Brogdale]], [[Kent]]. Sedangkan suhu terendah adalah {{convert|?26,1|�C|�F}} pada tanggal 10 Januari 1982 di [[Edgmond, Shropshire|Edgmond]], [[Shropshire]].
+=== Perkotaan ===
+Sejauh ini, [[Kawasan Perkotaan London Raya]] adalah [[kawasan perkotaan]] terbesar di Inggris, dan juga merupakan salah satu kota tersibuk di dunia. [[London]] merupakan [[kota global]] dan memiliki populasi terbesar di Britania Raya. Kawasan perkotaan besar lainnya yang cukup berpengaruh terdapat di Inggris bagian utara atau di [[Midlands]]. Ada enam puluh enam permukiman yang telah diberi status sebagai kota di Britania Raya. Lima puluh di antaranya terdapat di Inggris. Cukup banyak kota di Inggris yang tergolong besar dari segi ukuran, kota-kota ini antara lain: [[Birmingham]], [[Sheffield]], Manchester, [[Liverpool]], [[City of Leeds|Leeds]], [[Newcastle upon Tyne|Newcastle]], [[City of Bradford|Bradford]], [[Nottingham]], dan sebagainya. Jumlah populasi yang besar bukanlah prasyarat utama agar suatu permukiman diberi status kotaSecara tradisional, status kota diberikan kepada permukiman-permukiman yang telah memiliki [[katedral]] keuskupan. Akibatnya, kota-kota kecil seperti [[Wells]], [[Ely, Cambridgeshire|Ely]], [[Ripon]], [[Truro]] dan [[Chichester]] juga berstatus kota. Menurut [[Office for National Statistics]], sepuluh kawasan perkotaan terbesar di Inggris adalah sebagai berikut:
+Kawasan Perkotaan London Raya terbagi menjadi [[City of London]] dan 32 [[London borough]], termasuk [[Croydon (borough London)|Croydon]], [[Barnet (borough London)|Barnet]], [[Ealing (borough London)|Ealing]], [[Bromley (borough London)|Bromley. Kawasan Perkotaan West Midlands, Birmingham]], [[Wolverhampton]], [[Dudley]], [[Walsall]], [[Aldridge]]. Kawasan Perkotaan Manchester Raya [[Manchester]], [[Salford]], [[Bolton]], [[Stockport]], [[Oldham]], Kawasan Perkotaan West Yorkshire [[Leeds]], [[Bradford]], [[Huddersfield]], [[Wakefield]].
+Tyneside Newcastle upon Tyne|Newcastle]], [[North Shields]], [[South Shields]], [[Gateshead]], [[Jarrow]] Kawasan Perkotaan Liverpool, [Liverpool]], [[St Helens, Merseyside|St Helens]], [[Bootle]], [[Huyton-with-Roby]]
+Kawasan Perkotaan Nottingham, [[Nottingham]], [[Beeston, Nottinghamshire|Beeston]] dan [[Stapleford, Nottinghamshire|Stapleford]], [[Carlton, Nottinghamshire|Carlton]], [[Long Eaton]]
+[[Kawasan Perkotaan Sheffield]] [[Sheffield]], [[Rotherham]], [[Chapeltown, South Yorkshire|Chapeltown]], [[Mosborough]]
+Kawasan Perkotaan Bristol] |[[Bristol]], [[Kingswood, South Gloucestershire|Kingswood]], [[Mangotsfield]], [[Stoke Gifford]]
+[[Brighton/Worthing/Littlehampton]] |[[Brighton]], [[Worthing]], [[Hove]], [[Littlehampton]], [[Shoreham-by-Sea|Shoreham]], [[Lancing, West Sussex|Lancing]]
